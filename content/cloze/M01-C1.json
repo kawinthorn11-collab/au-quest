@@ -1,0 +1,210 @@
+{
+ "id": "M01-C1",
+ "title": "City Plans Car-Free Sundays",
+ "genre": "ข่าว",
+ "level": "B1",
+ "mock": "M01",
+ "text": "The city of Chiang Rai may soon ban cars from its old town on Sundays. The plan, (1) was announced by the mayor last week, aims to reduce air pollution and help small shops. Under the plan, only buses and bicycles will be (2) in the area (3) 8 a.m. and 6 p.m.\nShop owners are divided. Some say more people will walk past their shops, (4) others worry that customers will not come without their cars. \"(5) a car-free street is a nice idea, it could hurt my business,\" said one restaurant owner.\nThe city council has (6) to make a final decision. Similar plans already exist in several European cities, (7) they have been popular with tourists. Drivers (8) ignore the rule could face a fine (9) 1,000 baht. The mayor said he hoped residents would see the plan as an (10) to enjoy their city in a new way.",
+ "items": [
+  {
+   "id": "M01-C1-1",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(1) The plan, ___ was announced by the mayor last week, aims to reduce air pollution and help small shops.",
+   "options": [
+    "who",
+    "which",
+    "what",
+    "where"
+   ],
+   "answer": 1,
+   "explanation_th": "ขยาย The plan (สิ่งของ) และอยู่หลัง comma → which",
+   "why_wrong": [
+    "who ใช้กับคน",
+    null,
+    "what ไม่ใช้ขยายคำนามข้างหน้า",
+    "where ใช้กับสถานที่"
+   ]
+  },
+  {
+   "id": "M01-C1-2",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stem": "(2) Under the plan, only buses and bicycles will be ___ in the area … 8 a.m.",
+   "options": [
+    "allow",
+    "allowing",
+    "to allow",
+    "allowed"
+   ],
+   "answer": 3,
+   "explanation_th": "รถบัสและจักรยาน \"ถูกอนุญาต\" → will be allowed (passive)",
+   "why_wrong": [
+    "will be allow ผิดรูป",
+    "will be allowing = จะเป็นผู้อนุญาต ความหมายผิด",
+    "will be to allow ไม่ใช่รูปที่ถูก",
+    null
+   ]
+  },
+  {
+   "id": "M01-C1-3",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(3) Under the plan, only buses and bicycles will be … in the area ___ 8 a.m.",
+   "options": [
+    "between",
+    "from",
+    "during",
+    "since"
+   ],
+   "answer": 0,
+   "explanation_th": "between … and … = ระหว่างเวลา…ถึง…",
+   "why_wrong": [
+    null,
+    "from ต้องคู่กับ to (from 8 to 6)",
+    "during ไม่ใช้กับ 8 a.m. and 6 p.m.",
+    "since + จุดเริ่มอย่างเดียว"
+   ]
+  },
+  {
+   "id": "M01-C1-4",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stem": "(4) Some say more people will walk past their shops, ___ others worry that customers will not come without their cars.",
+   "options": [
+    "because",
+    "so",
+    "while",
+    "unless"
+   ],
+   "answer": 2,
+   "explanation_th": "ร้านค้าแบ่งสองฝ่าย บางคน… ขณะที่อีกฝ่าย… = เปรียบต่าง → while",
+   "why_wrong": [
+    "because ทำให้เป็นเหตุผล ไม่ใช่การเปรียบต่าง",
+    "so ทำให้เป็นผลลัพธ์",
+    null,
+    "unless = ถ้าไม่ ความหมายผิด"
+   ]
+  },
+  {
+   "id": "M01-C1-5",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stem": "(5) \"___ a car-free street is a nice idea, it could hurt my business,\"",
+   "options": [
+    "Because",
+    "Unless",
+    "Since",
+    "Although"
+   ],
+   "answer": 3,
+   "explanation_th": "ไอเดียดี แต่อาจทำร้ายธุรกิจ = ขัดกัน → Although",
+   "why_wrong": [
+    "Because ทำให้ \"ไอเดียดี\" เป็นเหตุของการเสียหาย ไม่สมเหตุผล",
+    "Unless = ถ้าไม่ ความหมายผิด",
+    "Since = เพราะว่า ความหมายผิดเหมือน Because",
+    null
+   ]
+  },
+  {
+   "id": "M01-C1-6",
+   "skill": "g.fixed",
+   "difficulty": 3,
+   "stem": "(6) The city council has ___ to make a final decision.",
+   "options": [
+    "yet",
+    "already",
+    "ever",
+    "never"
+   ],
+   "answer": 0,
+   "explanation_th": "has yet to + V = ยังไม่ได้… (ยังไม่ตัดสินใจ)",
+   "why_wrong": [
+    null,
+    "has already to make ไม่ใช่โครงสร้างที่ถูก",
+    "has ever to make ไม่ใช่โครงสร้างที่ถูก",
+    "has never to make ไม่ใช่โครงสร้างที่ถูก"
+   ]
+  },
+  {
+   "id": "M01-C1-7",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stem": "(7) Similar plans already exist in several European cities, ___ they have been popular with tourists.",
+   "options": [
+    "but",
+    "and",
+    "or",
+    "so"
+   ],
+   "answer": 1,
+   "explanation_th": "มีอยู่แล้วในยุโรป และ (and) ก็ได้รับความนิยม = ข้อมูลไปทางเดียวกัน",
+   "why_wrong": [
+    "but ใช้กับความขัดแย้ง แต่สองส่วนนี้ไม่ได้ขัดกัน",
+    null,
+    "or ใช้กับทางเลือก",
+    "so ทำให้เป็นเหตุผล ไม่สมเหตุผล"
+   ]
+  },
+  {
+   "id": "M01-C1-8",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(8) Drivers ___ ignore the rule could face a fine … 1,000 baht.",
+   "options": [
+    "which",
+    "whose",
+    "who",
+    "whom"
+   ],
+   "answer": 2,
+   "explanation_th": "ขยายคน (Drivers) และทำหน้าที่ประธานของ ignore → who",
+   "why_wrong": [
+    "which ใช้กับสิ่งของ",
+    "whose = ของใคร ต้องตามด้วยคำนาม",
+    null,
+    "whom ใช้ในตำแหน่งกรรม ไม่ใช่ประธาน"
+   ]
+  },
+  {
+   "id": "M01-C1-9",
+   "skill": "g.preposition",
+   "difficulty": 2,
+   "stem": "(9) Drivers … ignore the rule could face a fine ___ 1,000 baht.",
+   "options": [
+    "with",
+    "by",
+    "at",
+    "of"
+   ],
+   "answer": 3,
+   "explanation_th": "บอกจำนวนค่าปรับ → a fine of 1,000 baht",
+   "why_wrong": [
+    "a fine with ไม่บอกจำนวน",
+    "by ใช้บอกผู้กระทำ/วิธี",
+    "at ใช้กับจุด",
+    null
+   ]
+  },
+  {
+   "id": "M01-C1-10",
+   "skill": "g.wordform",
+   "difficulty": 2,
+   "stem": "(10) The mayor said he hoped residents would see the plan as an ___ to enjoy their city in a new way.",
+   "options": [
+    "opportunities",
+    "opportunity",
+    "opportune",
+    "opportunistic"
+   ],
+   "answer": 1,
+   "explanation_th": "หลัง an ต้องเป็นคำนามเอกพจน์ → an opportunity",
+   "why_wrong": [
+    "an + พหูพจน์ไม่ได้",
+    null,
+    "opportune เป็น adjective",
+    "opportunistic เป็น adjective"
+   ]
+  }
+ ]
+}

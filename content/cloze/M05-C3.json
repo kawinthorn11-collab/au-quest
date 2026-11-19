@@ -1,0 +1,210 @@
+{
+ "id": "M05-C3",
+ "title": "The Lantern",
+ "genre": "วรรณกรรม",
+ "level": "B2",
+ "mock": "M05",
+ "text": "The night of the festival, the river was full of floating lanterns. Nina stood on the bank, (1) a small paper lantern in her hands. Her grandfather had made it for her the year before. Weeks later, he (2) suddenly. \"Make a wish,\" he had told her, \"and the river will carry it (3) the sea.\"\nNina had not wanted to come tonight. Everything reminded her of him. But her mother said that her grandfather (4) wanted her to come. Slowly, Nina knelt down and lit the candle inside. The flame was weak, and the wind was strong. Twice it went out. (5) she tried a third time, an old woman beside her held up her hands to block the wind. The candle stayed lit.\nNina placed the lantern on the water and watched it grow smaller and (6) until it joined the others. She did not know what to wish for, (7) she simply said thank you. When she turned to thank the old woman, she was gone. Nina never found out (8) the woman was. But every year after that, she (9) back to the river and lit a lantern for someone (10) needed light.",
+ "items": [
+  {
+   "id": "M05-C3-1",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(1) Nina stood on the bank, ___ a small paper lantern in her hands.",
+   "options": [
+    "held",
+    "holds",
+    "to hold",
+    "holding"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "held ต้องมีคำเชื่อม",
+    "holds เป็นปัจจุบัน",
+    "to hold = เพื่อจะถือ ความหมายผิด",
+    null
+   ],
+   "explanation_th": "วลีขยายภาพ (ยืนอยู่พร้อมถือโคม) → holding"
+  },
+  {
+   "id": "M05-C3-2",
+   "skill": "g.tense-past",
+   "difficulty": 1,
+   "stem": "(2) Weeks later, he ___ suddenly.",
+   "options": [
+    "dies",
+    "died",
+    "has died",
+    "was dying"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "dies เป็นปัจจุบัน",
+    null,
+    "has died ไม่ใช้กับ Weeks later",
+    "was dying ไม่เข้ากับ suddenly"
+   ],
+   "explanation_th": "เหตุการณ์ในอดีตที่จบแล้ว → died"
+  },
+  {
+   "id": "M05-C3-3",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(3) he had told her, \"and the river will carry it ___ the sea.\"",
+   "options": [
+    "at",
+    "in",
+    "to",
+    "on"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "at = ที่ (ไม่บอกทิศทาง)",
+    "in = ใน",
+    null,
+    "on = บน"
+   ],
+   "explanation_th": "carry … to the sea = พาไปยังทะเล"
+  },
+  {
+   "id": "M05-C3-4",
+   "skill": "g.modal-perfect",
+   "difficulty": 3,
+   "stem": "(4) But her mother said that her grandfather ___ wanted her to come.",
+   "options": [
+    "would have",
+    "will have",
+    "should",
+    "would"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "will have เป็นอนาคต",
+    "should wanted ผิดรูป",
+    "would wanted ผิดรูป"
+   ],
+   "explanation_th": "คาดเดาความต้องการของคนที่จากไปแล้ว → would have wanted"
+  },
+  {
+   "id": "M05-C3-5",
+   "skill": "g.conj-or",
+   "difficulty": 1,
+   "stem": "(5) ___ she tried a third time, an old woman beside her held up her hands to block the wind.",
+   "options": [
+    "Whatever",
+    "When",
+    "Although",
+    "Unless"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "Whatever ไม่บอกเวลา",
+    null,
+    "Although ไม่สมเหตุผล",
+    "Unless ไม่สมเหตุผล"
+   ],
+   "explanation_th": "ตอนที่ลองครั้งที่สาม → When"
+  },
+  {
+   "id": "M05-C3-6",
+   "skill": "g.parallel",
+   "difficulty": 2,
+   "stem": "(6) Nina placed the lantern on the water and watched it grow smaller and ___ until it joined the others.",
+   "options": [
+    "smaller",
+    "small",
+    "smallest",
+    "more small"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "small ไม่ขนานกับ smaller",
+    "smallest ไม่ขนาน",
+    "more small ผิดรูป"
+   ],
+   "explanation_th": "smaller and smaller = เล็กลงเรื่อย ๆ"
+  },
+  {
+   "id": "M05-C3-7",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stem": "(7) She did not know what to wish for, ___ she simply said thank you.",
+   "options": [
+    "or",
+    "because",
+    "so",
+    "unless"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "or ใช้กับทางเลือก",
+    "because กลับเหตุผล",
+    null,
+    "unless ไม่สมเหตุผล"
+   ],
+   "explanation_th": "ไม่รู้จะขออะไร จึงพูดแค่ขอบคุณ = ผล → \"so\""
+  },
+  {
+   "id": "M05-C3-8",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(8) Nina never found out ___ the woman was.",
+   "options": [
+    "what",
+    "which",
+    "whose",
+    "who"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "what ใช้กับสิ่ง/อาชีพ ไม่ใช่ตัวตน",
+    "which ต้องมีคำนาม",
+    "whose ต้องตามด้วยคำนาม",
+    null
+   ],
+   "explanation_th": "found out who the woman was = รู้ว่าผู้หญิงคนนั้นคือใคร"
+  },
+  {
+   "id": "M05-C3-9",
+   "skill": "g.parallel",
+   "difficulty": 2,
+   "stem": "(9) But every year after that, she ___ back to the river and lit a lantern for someone … needed light.",
+   "options": [
+    "comes",
+    "came",
+    "had come",
+    "was coming"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "comes เป็นปัจจุบัน",
+    null,
+    "had come ไม่ขนานกับ lit",
+    "was coming ไม่ขนาน"
+   ],
+   "explanation_th": "came back … and lit (V2 ขนาน)"
+  },
+  {
+   "id": "M05-C3-10",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(10) But every year after that, she … back to the river and lit a lantern for someone ___ needed light.",
+   "options": [
+    "which",
+    "whose",
+    "where",
+    "who"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "which ใช้กับสิ่ง",
+    "whose ต้องตามด้วยคำนาม",
+    "where ใช้กับสถานที่",
+    null
+   ],
+   "explanation_th": "someone (คน) + ประธานของ needed → who"
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "id": "M05-C1",
+ "title": "Smart Bins Pay You to Recycle",
+ "genre": "ข่าว",
+ "level": "B1",
+ "mock": "M05",
+ "text": "A district in Bangkok has installed 50 \"smart bins\" (1) reward people for recycling. When someone puts a plastic bottle or can into the bin, it (2) the item and gives them points on a phone app. The points can (3) for bus tickets or snacks. Since the project began in June, more than 200,000 bottles (4) collected.\nDistrict officials say the idea is working (5) better than expected. \"People who never recycled before are now doing it every day,\" said one official. (6), some residents have complained that the bins are often full. The district plans to empty them twice a day (7) of once. It also wants to add bins in schools (8) children can learn good habits early. (9) the project continues to succeed, it will be expanded to the whole city next year. Officials believe that small rewards can change (10) people behave.",
+ "items": [
+  {
+   "id": "M05-C1-1",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(1) ___ reward people for recycling.",
+   "options": [
+    "what",
+    "where",
+    "that",
+    "who"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "what ไม่ขยายคำนามข้างหน้า",
+    "where ใช้กับสถานที่",
+    null,
+    "who ใช้กับคน"
+   ],
+   "explanation_th": "ขยาย bins (สิ่ง) + ประธานของ reward → that"
+  },
+  {
+   "id": "M05-C1-2",
+   "skill": "g.parallel",
+   "difficulty": 2,
+   "stem": "(2) When someone puts a plastic bottle or can into the bin, it ___ the item and gives them points on a phone app.",
+   "options": [
+    "scans",
+    "scanned",
+    "scanning",
+    "is scanned"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "scanned ไม่ขนานกับ gives",
+    "scanning ไม่ใช่กริยาแท้",
+    "is scanned = ถังถูกสแกน ความหมายผิด"
+   ],
+   "explanation_th": "scans … and gives (ปัจจุบัน ขนานกัน)"
+  },
+  {
+   "id": "M05-C1-3",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stem": "(3) The points can ___ for bus tickets or snacks.",
+   "options": [
+    "exchange",
+    "exchanged",
+    "be exchanging",
+    "be exchanged"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "can exchange = คะแนนเป็นผู้แลก ผิด",
+    "can exchanged ผิดรูป",
+    "can be exchanging ผิดความหมาย",
+    null
+   ],
+   "explanation_th": "คะแนนถูกแลก → can be exchanged"
+  },
+  {
+   "id": "M05-C1-4",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stem": "(4) Since the project began in June, more than 200,000 bottles ___ collected.",
+   "options": [
+    "has been",
+    "have been",
+    "were being",
+    "are"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "has ใช้กับเอกพจน์",
+    null,
+    "were being ไม่เข้ากับ Since",
+    "are collected ไม่เข้ากับ Since"
+   ],
+   "explanation_th": "Since + bottles (พหูพจน์) ถูกเก็บ → have been collected"
+  },
+  {
+   "id": "M05-C1-5",
+   "skill": "g.wordform",
+   "difficulty": 2,
+   "stem": "(5) District officials say the idea is working ___ better than expected.",
+   "options": [
+    "even",
+    "very",
+    "so",
+    "too"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "very ขยายขั้นกว่าไม่ได้",
+    "so better ผิด",
+    "too better ผิด"
+   ],
+   "explanation_th": "even + ขั้นกว่า (better) = ยิ่งกว่า"
+  },
+  {
+   "id": "M05-C1-6",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stem": "(6) ___, some residents have complained that the bins are often full.",
+   "options": [
+    "Therefore",
+    "Because",
+    "However",
+    "So"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "Therefore ทำให้เป็นผล",
+    "Because ไม่ใช้แบบนี้",
+    null,
+    "So ทำให้เป็นผล"
+   ],
+   "explanation_th": "ได้ผลดี แต่มีคนบ่นว่าถังเต็ม = ขัดกัน → \"However\""
+  },
+  {
+   "id": "M05-C1-7",
+   "skill": "g.fixed",
+   "difficulty": 1,
+   "stem": "(7) The district plans to empty them twice a day ___ of once.",
+   "options": [
+    "because",
+    "instead",
+    "in spite",
+    "in case"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "because of once ความหมายผิด",
+    null,
+    "in spite of once ความหมายผิด",
+    "in case of once ความหมายผิด"
+   ],
+   "explanation_th": "instead of = แทนที่จะ"
+  },
+  {
+   "id": "M05-C1-8",
+   "skill": "g.fixed",
+   "difficulty": 2,
+   "stem": "(8) It also wants to add bins in schools ___ children can learn good habits early.",
+   "options": [
+    "because of",
+    "in order",
+    "in spite of",
+    "so that"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "because of ต้องตามด้วยคำนาม",
+    "in order ต้องตามด้วย to V",
+    "in spite of ต้องตามด้วยคำนาม",
+    null
+   ],
+   "explanation_th": "so that + ประโยค = เพื่อที่"
+  },
+  {
+   "id": "M05-C1-9",
+   "skill": "g.conditional",
+   "difficulty": 1,
+   "stem": "(9) ___ the project continues to succeed, it will be expanded to the whole city next year.",
+   "options": [
+    "Unless",
+    "Although",
+    "Whether",
+    "If"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "Unless ความหมายกลับ",
+    "Although ไม่ใช่เงื่อนไข",
+    "Whether ต้องมี or",
+    null
+   ],
+   "explanation_th": "If แบบที่ 1 + will be expanded"
+  },
+  {
+   "id": "M05-C1-10",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(10) Officials believe that small rewards can change ___ people behave.",
+   "options": [
+    "what",
+    "how",
+    "which",
+    "that"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "what people behave ผิด (behave ไม่มีกรรม)",
+    null,
+    "which ต้องมีคำนาม",
+    "that ไม่ทำหน้าที่ \"วิธีที่\""
+   ],
+   "explanation_th": "change how people behave = เปลี่ยนวิธีที่คนประพฤติ"
+  }
+ ]
+}

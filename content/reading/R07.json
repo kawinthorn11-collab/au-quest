@@ -1,0 +1,184 @@
+{
+ "id": "R07",
+ "title": "Learning English with Games",
+ "topic": "เทคโนโลยี/การศึกษา",
+ "level": "B1",
+ "lines": [
+  "Can playing video games improve your English? A group of researchers in",
+  "Finland thinks so. They studied 400 teenagers and found that **those** who",
+  "played online games with international players for more than five hours",
+  "a week had a much larger English vocabulary than **those** who did not.",
+  "The researchers believe the reason is simple: in team games, players must",
+  "communicate quickly to win. **They** cannot stop to look up every word, so",
+  "they learn useful phrases by hearing and using them again and again.",
+  "However, the study does not say that all games are good teachers. Games",
+  "with very little talking, such as puzzle games, showed no effect. Also,",
+  "players learned mostly informal English. **Few** knew how to write a formal",
+  "email or a school essay. The researchers suggest that games should be a",
+  "fun extra, not a replacement for reading and writing practice. Parents, they",
+  "say, should not worry about every hour of gaming, but **this** does not mean",
+  "that children can play all night."
+ ],
+ "questions": [
+  {
+   "id": "R07-1",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'those' in line 2 refers to ___.",
+   "options": [
+    "researchers",
+    "teenagers",
+    "international players",
+    "games"
+   ],
+   "answer": 1,
+   "explanation_th": "those (teenagers) who played online games…",
+   "why_wrong": [
+    "นักวิจัยไม่ได้ถูกศึกษา",
+    null,
+    "ผู้เล่นต่างชาติเป็นคนที่เล่นด้วย ไม่ใช่กลุ่มที่ถูกวัด",
+    "เกมไม่มีคลังคำศัพท์"
+   ]
+  },
+  {
+   "id": "R07-2",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'They' in line 6 refers to ___.",
+   "options": [
+    "the researchers",
+    "parents",
+    "players in team games",
+    "Finnish teachers"
+   ],
+   "answer": 2,
+   "explanation_th": "in team games, players must communicate … They (players) cannot stop to look up every word",
+   "why_wrong": [
+    "นักวิจัยไม่ได้เล่นเกม",
+    "ผู้ปกครองถูกพูดถึงทีหลัง",
+    null,
+    "ไม่มีครูในบทความ"
+   ]
+  },
+  {
+   "id": "R07-3",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'Few' in line 10 refers to ___.",
+   "options": [
+    "few researchers",
+    "few games",
+    "few emails",
+    "few of the players"
+   ],
+   "answer": 3,
+   "explanation_th": "players learned mostly informal English. Few (of the players) knew how to write a formal email",
+   "why_wrong": [
+    "นักวิจัยรู้วิธีเขียนอีเมลอยู่แล้ว",
+    "เกมไม่ได้เขียนอีเมล",
+    "อีเมลไม่ได้ \"รู้\"",
+    null
+   ]
+  },
+  {
+   "id": "R07-4",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'this' in line 13 refers to the idea that ___.",
+   "options": [
+    "parents should not worry about every hour of gaming",
+    "games are a replacement for reading",
+    "puzzle games have no effect",
+    "players learn informal English"
+   ],
+   "answer": 0,
+   "explanation_th": "this = ความคิดที่เพิ่งพูด: ผู้ปกครองไม่ต้องกังวลทุกชั่วโมงที่เล่น (แต่ไม่ได้แปลว่าเล่นทั้งคืนได้)",
+   "why_wrong": [
+    null,
+    "บทความบอกว่าเกมไม่ใช่สิ่งทดแทน",
+    "อยู่ไกลเกินไป ไม่ใช่ประโยคก่อนหน้า",
+    "อยู่ไกลเกินไป ไม่ใช่ความคิดที่ถูกจำกัดด้วย this"
+   ]
+  },
+  {
+   "id": "R07-5",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Which teenagers had the largest vocabulary?",
+   "options": [
+    "Those who played puzzle games.",
+    "Those who played games with international players over five hours a week.",
+    "Those who never played games.",
+    "Those who wrote formal emails."
+   ],
+   "answer": 1,
+   "explanation_th": "บรรทัด 2–4",
+   "why_wrong": [
+    "เกมปริศนาไม่มีผล (บรรทัด 9–10)",
+    null,
+    "เป็นกลุ่มเปรียบเทียบที่ได้น้อยกว่า",
+    "ไม่ได้วัดกลุ่มนี้"
+   ]
+  },
+  {
+   "id": "R07-6",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Why do team games help players learn English, according to the researchers?",
+   "options": [
+    "Players read the instructions carefully.",
+    "Players must communicate quickly to win.",
+    "The games have English lessons.",
+    "Teachers play with them."
+   ],
+   "answer": 1,
+   "explanation_th": "บรรทัด 5–6: players must communicate quickly to win",
+   "why_wrong": [
+    "ไม่ได้พูดถึงการอ่านคำแนะนำ",
+    null,
+    "ไม่มีข้อมูล",
+    "ไม่มีข้อมูล"
+   ]
+  },
+  {
+   "id": "R07-7",
+   "skill": "r.not-true",
+   "difficulty": 3,
+   "stem": "Which statement is NOT supported by the passage?",
+   "options": [
+    "Games should replace reading and writing practice.",
+    "Puzzle games did not improve vocabulary.",
+    "Players learned mostly informal English.",
+    "The study was done with 400 teenagers."
+   ],
+   "answer": 0,
+   "explanation_th": "บทความบอกตรงข้าม: games should be a fun extra, not a replacement",
+   "why_wrong": [
+    null,
+    "มีในบรรทัด 9–10",
+    "มีในบรรทัด 10",
+    "มีในบรรทัด 2"
+   ]
+  },
+  {
+   "id": "R07-8",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "A student who plays team games every day will probably be weakest at ___.",
+   "options": [
+    "understanding spoken English",
+    "using quick everyday phrases",
+    "writing a formal essay",
+    "talking with foreign players"
+   ],
+   "answer": 2,
+   "explanation_th": "ผู้เล่นได้ภาษาไม่เป็นทางการ แต่น้อยคนเขียนจดหมาย/เรียงความทางการได้",
+   "why_wrong": [
+    "การฟังพัฒนาจากการเล่นเป็นทีม",
+    "ได้วลีใช้งานเร็วจากเกม",
+    null,
+    "เป็นสิ่งที่ผู้เล่นทำบ่อยอยู่แล้ว"
+   ]
+  }
+ ]
+}

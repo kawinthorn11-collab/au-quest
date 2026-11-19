@@ -1,0 +1,183 @@
+{
+ "id": "R06",
+ "title": "The Boy Who Planted Trees",
+ "topic": "เรื่องเล่า",
+ "level": "B1",
+ "lines": [
+  "When Arun was twelve, a flood destroyed the rice fields around his",
+  "village. The old people said the hills had once been covered with trees,",
+  "which held the rain like a sponge. Now **they** were bare, and the water",
+  "rushed straight down into the valley.",
+  "Arun decided to do something. Every evening after school, he climbed",
+  "the nearest hill with a bag of seeds and a small knife. His friends",
+  "laughed at **him**. \"One boy cannot change a mountain,\" they said. But Arun",
+  "did not stop. He planted ten seeds a day, every day, for eight years.",
+  "By the time he finished university, the hill was green again. When the",
+  "next big rain came, the fields stayed dry. **Those** who had laughed now",
+  "asked him for seeds. Today, the whole village plants trees each June,",
+  "and children learn **his** story at school. Arun says the hardest part was",
+  "not the climbing. \"It was believing that small things matter,\" he says."
+ ],
+ "questions": [
+  {
+   "id": "R06-1",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'they' in line 3 refers to ___.",
+   "options": [
+    "the old people",
+    "the rice fields",
+    "the hills",
+    "the trees"
+   ],
+   "answer": 2,
+   "explanation_th": "the hills had once been covered with trees … Now they (the hills) were bare",
+   "why_wrong": [
+    "คนแก่ไม่ได้ \"โล่ง\"",
+    "นาข้าวถูกน้ำท่วม ไม่ใช่โล่ง",
+    null,
+    "ต้นไม้ไม่ได้โล่ง ต้นไม้หายไปแล้ว"
+   ]
+  },
+  {
+   "id": "R06-2",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'him' in line 7 refers to ___.",
+   "options": [
+    "Arun",
+    "Arun's father",
+    "one of his friends",
+    "a teacher"
+   ],
+   "answer": 0,
+   "explanation_th": "His friends laughed at him (Arun)",
+   "why_wrong": [
+    null,
+    "พ่อไม่ได้ถูกพูดถึง",
+    "เพื่อนเป็นคนหัวเราะ",
+    "ไม่มีครู"
+   ]
+  },
+  {
+   "id": "R06-3",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'Those' in line 10 refers to ___.",
+   "options": [
+    "the trees",
+    "the farmers in the valley",
+    "the old people",
+    "Arun's friends"
+   ],
+   "answer": 3,
+   "explanation_th": "Those who had laughed = เพื่อน ๆ ที่เคยหัวเราะเยาะ (บรรทัด 7)",
+   "why_wrong": [
+    "ต้นไม้หัวเราะไม่ได้",
+    "ไม่มีข้อมูลว่าชาวนาหัวเราะ",
+    "คนแก่เป็นคนเล่าเรื่องป่า ไม่ได้หัวเราะ",
+    null
+   ]
+  },
+  {
+   "id": "R06-4",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'his' in line 12 refers to ___.",
+   "options": [
+    "Arun's",
+    "a teacher's",
+    "a child's",
+    "the village leader's"
+   ],
+   "answer": 0,
+   "explanation_th": "children learn his (Arun's) story",
+   "why_wrong": [
+    null,
+    "ไม่มีครูในเรื่อง",
+    "เด็กเป็นคนเรียน",
+    "ไม่มีผู้ใหญ่บ้าน"
+   ]
+  },
+  {
+   "id": "R06-5",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Why did the village flood?",
+   "options": [
+    "The river was too small.",
+    "There were no trees on the hills to hold the rain.",
+    "Arun planted too many trees.",
+    "The rice fields were too low."
+   ],
+   "answer": 1,
+   "explanation_th": "บรรทัด 2–4: ต้นไม้บนเขาเคยเก็บน้ำฝนเหมือนฟองน้ำ ตอนนี้ไม่มีแล้ว",
+   "why_wrong": [
+    "ไม่มีข้อมูลเรื่องแม่น้ำ",
+    null,
+    "ปลูกต้นไม้คือการแก้ปัญหา",
+    "ไม่มีข้อมูลเรื่องความสูงของนา"
+   ]
+  },
+  {
+   "id": "R06-6",
+   "skill": "r.vocab",
+   "difficulty": 2,
+   "stem": "In line 3, 'bare' is closest in meaning to ___.",
+   "options": [
+    "wet",
+    "beautiful",
+    "empty, with nothing on them",
+    "very high"
+   ],
+   "answer": 2,
+   "explanation_th": "เคยมีต้นไม้ปกคลุม แต่ตอนนี้ไม่มี = โล่ง ว่างเปล่า",
+   "why_wrong": [
+    "ไม่ได้พูดถึงความเปียก",
+    "บริบทเป็นปัญหา ไม่ใช่ความสวย",
+    null,
+    "ความสูงไม่เปลี่ยน"
+   ]
+  },
+  {
+   "id": "R06-7",
+   "skill": "r.not-true",
+   "difficulty": 2,
+   "stem": "Which is NOT true about Arun?",
+   "options": [
+    "He planted trees for eight years.",
+    "His friends supported him from the beginning.",
+    "He went to university.",
+    "He climbed the hill after school."
+   ],
+   "answer": 1,
+   "explanation_th": "เพื่อนหัวเราะเยาะ ไม่ได้สนับสนุนตั้งแต่แรก",
+   "why_wrong": [
+    "จริง บรรทัด 8",
+    null,
+    "จริง บรรทัด 9",
+    "จริง บรรทัด 5–6"
+   ]
+  },
+  {
+   "id": "R06-8",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "What does Arun mean when he says \"small things matter\"?",
+   "options": [
+    "Only children can plant trees.",
+    "Climbing hills is not difficult.",
+    "Big problems need big money.",
+    "Many small actions together can make a big change."
+   ],
+   "answer": 3,
+   "explanation_th": "ปลูกวันละสิบเมล็ดนานแปดปี จนภูเขาเขียว = เรื่องเล็กสะสมกลายเป็นเรื่องใหญ่",
+   "why_wrong": [
+    "ไม่มีส่วนไหนพูดแบบนี้",
+    "เขาบอกว่าการปีนไม่ใช่ส่วนที่ยาก แต่นั่นไม่ใช่ความหมายของประโยค",
+    "ตรงข้ามกับเรื่อง เขาไม่ได้ใช้เงินมาก",
+    null
+   ]
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "id": "M07-C1",
+ "title": "Night Buses Return",
+ "genre": "ข่าว",
+ "level": "B2",
+ "mock": "M07",
+ "text": "After a three-year break, night buses (1) to Bangkok's streets last week. The service, (2) runs from midnight to 5 a.m., connects the city center with six suburbs. Each bus (3) a driver and a security guard. The project was started (4) many night-shift workers complained that taxis were too expensive. \"Before, I spent half of my salary (5) taxis,\" said one hospital cleaner. \"Now I pay only 20 baht.\"\nSo far, passenger numbers have been higher than (6) the city expected. However, some residents along the routes say the buses are too noisy. The city has promised to use electric buses, (7) are much quieter, by next year. If the service (8) popular, more routes will be added. Experts say good public transport at night is important (9) a city's economy, as many businesses depend on workers (10) start early or finish late.",
+ "items": [
+  {
+   "id": "M07-C1-1",
+   "skill": "g.tense-past",
+   "difficulty": 1,
+   "stem": "(1) After a three-year break, night buses ___ to Bangkok's streets last week.",
+   "options": [
+    "returned",
+    "return",
+    "have returned",
+    "are returning"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "return เป็นปัจจุบัน",
+    "have returned ไม่ใช้กับ last week",
+    "are returning ไม่ใช้กับ last week"
+   ],
+   "explanation_th": "last week = อดีต → returned"
+  },
+  {
+   "id": "M07-C1-2",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(2) The service, ___ runs from midnight to 5 a.m., connects the city center with six suburbs.",
+   "options": [
+    "that",
+    "who",
+    "which",
+    "where"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "หลัง comma ใช้ that ไม่ได้",
+    "who ใช้กับคน",
+    null,
+    "where ต้องมีประโยคครบตาม"
+   ],
+   "explanation_th": "ขยาย The service หลัง comma → which"
+  },
+  {
+   "id": "M07-C1-3",
+   "skill": "g.agreement",
+   "difficulty": 1,
+   "stem": "(3) Each bus ___ a driver and a security guard.",
+   "options": [
+    "have",
+    "has",
+    "is having",
+    "are"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "have ใช้กับพหูพจน์",
+    null,
+    "is having ผิดความหมาย",
+    "are ผิด"
+   ],
+   "explanation_th": "Each bus (เอกพจน์) → has"
+  },
+  {
+   "id": "M07-C1-4",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stem": "(4) The project was started ___ many night-shift workers complained that taxis were too expensive.",
+   "options": [
+    "although",
+    "so",
+    "unless",
+    "because"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "although ไม่สมเหตุผล",
+    "so ทำให้กลับเหตุผล",
+    "unless ไม่สมเหตุผล",
+    null
+   ],
+   "explanation_th": "เริ่มโครงการเพราะคนบ่นเรื่องแท็กซี่แพง → \"because\""
+  },
+  {
+   "id": "M07-C1-5",
+   "skill": "g.preposition",
+   "difficulty": 2,
+   "stem": "(5) \"Before, I spent half of my salary ___ taxis,\"",
+   "options": [
+    "for",
+    "in",
+    "at",
+    "on"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "spend for ไม่ใช่รูปมาตรฐาน",
+    "spend in ผิด",
+    "spend at ผิด (at ใช้กับสถานที่)",
+    null
+   ],
+   "explanation_th": "spend money on + สิ่ง"
+  },
+  {
+   "id": "M07-C1-6",
+   "skill": "g.relative",
+   "difficulty": 3,
+   "stem": "(6) So far, passenger numbers have been higher than ___ the city expected.",
+   "options": [
+    "that",
+    "what",
+    "which",
+    "as"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "than that the city expected ผิด",
+    null,
+    "which ต้องมีคำนาม",
+    "than as ผิด"
+   ],
+   "explanation_th": "higher than what the city expected = สูงกว่าที่เมืองคาด (what = สิ่งที่)"
+  },
+  {
+   "id": "M07-C1-7",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(7) The city has promised to use electric buses, ___ are much quieter, by next year.",
+   "options": [
+    "that",
+    "what",
+    "which",
+    "who"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "หลัง comma ใช้ that ไม่ได้",
+    "what ไม่ขยายคำนาม",
+    null,
+    "who ใช้กับคน"
+   ],
+   "explanation_th": "ขยาย electric buses หลัง comma → which"
+  },
+  {
+   "id": "M07-C1-8",
+   "skill": "g.conditional",
+   "difficulty": 2,
+   "stem": "(8) If the service ___ popular, more routes will be added.",
+   "options": [
+    "remains",
+    "will remain",
+    "remained",
+    "would remain"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "หลัง if ไม่ใช้ will",
+    "remained ใช้กับ would",
+    "หลัง if ไม่ใช้ would"
+   ],
+   "explanation_th": "If แบบที่ 1 → remains"
+  },
+  {
+   "id": "M07-C1-9",
+   "skill": "g.preposition",
+   "difficulty": 2,
+   "stem": "(9) Experts say good public transport at night is important ___ a city's economy, as many businesses depend on workers … start early or finish late.",
+   "options": [
+    "at",
+    "for",
+    "by",
+    "on"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "important at ผิด",
+    null,
+    "important by ผิด",
+    "important on ผิด"
+   ],
+   "explanation_th": "important for + สิ่ง = สำคัญต่อ…"
+  },
+  {
+   "id": "M07-C1-10",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(10) Experts say good public transport at night is important … a city's economy, as many businesses depend on workers ___ start early or finish late.",
+   "options": [
+    "who",
+    "which",
+    "whose",
+    "where"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "which ใช้กับสิ่ง",
+    "whose ต้องตามด้วยคำนาม",
+    "where ใช้กับสถานที่"
+   ],
+   "explanation_th": "workers (คน) + ประธานของ start → who"
+  }
+ ]
+}

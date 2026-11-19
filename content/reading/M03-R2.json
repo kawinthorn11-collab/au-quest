@@ -1,0 +1,227 @@
+{
+ "id": "M03-R2",
+ "title": "Why I Stopped Multitasking",
+ "topic": "ความคิดเห็น/ประสบการณ์",
+ "level": "B2",
+ "mock": "M03",
+ "lines": [
+  "For years I was proud of being a multitasker. I answered emails during",
+  "meetings, listened to podcasts while studying, and kept ten browser tabs",
+  "open at all times. I believed **this** made me efficient. Then I read about",
+  "a study from Stanford University that changed my mind.",
+  "Researchers compared heavy multitaskers with people who usually did one",
+  "thing at a time. To their surprise, the heavy multitaskers performed",
+  "worse on almost every test of attention and memory. **They** were more easily",
+  "distracted and slower at switching between tasks, the very skill they",
+  "believed they were best at.",
+  "I decided to try an experiment of my own. For one month, I did only one",
+  "task at a time. I turned off notifications and checked my messages just",
+  "three times a day. The first week was difficult; I kept reaching for my",
+  "phone without thinking. But by the end of the month, I was finishing my",
+  "work faster and, more importantly, I felt calmer. **Those** around me noticed",
+  "too. My sister said I finally listened when she talked. I still slip back",
+  "into old habits sometimes, but now I know what my attention is worth."
+ ],
+ "questions": [
+  {
+   "id": "M03-R2-1",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'this' in line 3 refers to ___.",
+   "options": [
+    "the Stanford study",
+    "doing several things at the same time",
+    "answering emails",
+    "listening to podcasts"
+   ],
+   "answer": 1,
+   "explanation_th": "this = การทำหลายอย่างพร้อมกันทั้งหมดที่เพิ่งเล่า (อีเมล พอดแคสต์ แท็บ)",
+   "why_wrong": [
+    "การศึกษาพูดถึงทีหลัง",
+    null,
+    "เป็นแค่ตัวอย่างหนึ่ง ไม่ใช่ความคิดทั้งก้อน",
+    "เป็นแค่ตัวอย่างหนึ่ง"
+   ]
+  },
+  {
+   "id": "M03-R2-2",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'They' in line 7 refers to ___.",
+   "options": [
+    "the researchers",
+    "people who did one thing at a time",
+    "the heavy multitaskers",
+    "Stanford students"
+   ],
+   "answer": 2,
+   "explanation_th": "the heavy multitaskers performed worse… They (heavy multitaskers) were more easily distracted",
+   "why_wrong": [
+    "นักวิจัยไม่ได้ถูกทดสอบ",
+    "กลุ่มนี้ทำได้ดีกว่า",
+    null,
+    "ไม่ได้ระบุ"
+   ]
+  },
+  {
+   "id": "M03-R2-3",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'Those' in line 14 refers to ___.",
+   "options": [
+    "people around the writer",
+    "the researchers",
+    "notifications",
+    "old habits"
+   ],
+   "answer": 0,
+   "explanation_th": "Those around me = คนรอบตัวผู้เขียน (เช่น น้องสาว)",
+   "why_wrong": [
+    null,
+    "นักวิจัยไม่ได้อยู่รอบตัว",
+    "การแจ้งเตือน \"สังเกต\" ไม่ได้",
+    "นิสัยสังเกตไม่ได้"
+   ]
+  },
+  {
+   "id": "M03-R2-4",
+   "skill": "r.vocab",
+   "difficulty": 2,
+   "stem": "In line 15, 'slip back into' is closest in meaning to ___.",
+   "options": [
+    "run away from",
+    "complain about",
+    "teach others",
+    "return to"
+   ],
+   "answer": 3,
+   "explanation_th": "slip back into old habits = กลับไปทำนิสัยเดิมโดยไม่ตั้งใจ",
+   "why_wrong": [
+    "ความหมายตรงข้าม",
+    "ไม่ใช่การบ่น",
+    "ไม่เกี่ยว",
+    null
+   ]
+  },
+  {
+   "id": "M03-R2-5",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "Before reading about the study, the writer believed multitasking ___.",
+   "options": [
+    "made him efficient",
+    "was bad for memory",
+    "was difficult",
+    "annoyed his sister"
+   ],
+   "answer": 0,
+   "explanation_th": "บรรทัด 3",
+   "why_wrong": [
+    null,
+    "เป็นสิ่งที่เรียนรู้ทีหลัง",
+    "เขาภูมิใจ ไม่ได้คิดว่ายาก",
+    "น้องสาวพูดทีหลัง"
+   ]
+  },
+  {
+   "id": "M03-R2-6",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "The study found that heavy multitaskers ___.",
+   "options": [
+    "remembered more",
+    "performed worse on attention and memory tests",
+    "switched tasks faster",
+    "were calmer"
+   ],
+   "answer": 1,
+   "explanation_th": "บรรทัด 6–7",
+   "why_wrong": [
+    "ตรงข้าม",
+    null,
+    "ตรงข้าม: slower at switching",
+    "ไม่มีข้อมูล"
+   ]
+  },
+  {
+   "id": "M03-R2-7",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "What was most surprising about the results?",
+   "options": [
+    "Stanford did the study.",
+    "People liked podcasts.",
+    "Multitaskers were bad at the skill they thought was their strongest.",
+    "Some people do one thing at a time."
+   ],
+   "answer": 2,
+   "explanation_th": "the very skill they believed they were best at = แย่ในทักษะที่คิดว่าตัวเองเก่งที่สุด",
+   "why_wrong": [
+    "ไม่ใช่เรื่องน่าแปลกใจ",
+    "ไม่เกี่ยว",
+    null,
+    "ไม่ใช่ผลการศึกษา"
+   ]
+  },
+  {
+   "id": "M03-R2-8",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "During his experiment, the writer ___.",
+   "options": [
+    "used his phone more",
+    "kept ten tabs open",
+    "stopped working",
+    "checked messages only three times a day"
+   ],
+   "answer": 3,
+   "explanation_th": "บรรทัด 11–12",
+   "why_wrong": [
+    "ตรงข้าม",
+    "เป็นนิสัยเก่า",
+    "ไม่จริง เขาทำงานเร็วขึ้น",
+    null
+   ]
+  },
+  {
+   "id": "M03-R2-9",
+   "skill": "r.not-true",
+   "difficulty": 2,
+   "stem": "Which statement is NOT true?",
+   "options": [
+    "The first week of the experiment was easy.",
+    "The writer felt calmer by the end of the month.",
+    "His sister noticed a change.",
+    "He sometimes returns to old habits."
+   ],
+   "answer": 0,
+   "explanation_th": "บรรทัด 12: The first week was difficult",
+   "why_wrong": [
+    null,
+    "จริง บรรทัด 14",
+    "จริง บรรทัด 15",
+    "จริง บรรทัด 15–16"
+   ]
+  },
+  {
+   "id": "M03-R2-10",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "According to the writer, the MOST important result of the experiment was that he ___.",
+   "options": [
+    "finished work faster",
+    "felt calmer",
+    "read more studies",
+    "used fewer apps"
+   ],
+   "answer": 1,
+   "explanation_th": "more importantly, I felt calmer — คำว่า more importantly บอกลำดับความสำคัญ",
+   "why_wrong": [
+    "เป็นผลจริง แต่ผู้เขียนบอกว่าสิ่งที่สำคัญกว่าคือความสงบ",
+    null,
+    "ไม่มีข้อมูล",
+    "ไม่มีข้อมูล"
+   ]
+  }
+ ]
+}

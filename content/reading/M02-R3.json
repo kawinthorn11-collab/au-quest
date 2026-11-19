@@ -1,0 +1,226 @@
+{
+ "id": "M02-R3",
+ "title": "The Four-Day School Week",
+ "topic": "การศึกษา (ข้อมูล/ผลสำรวจ)",
+ "level": "B2",
+ "mock": "M02",
+ "lines": [
+  "A growing number of schools in the United States have moved to a four-day",
+  "week. In 2010 there were about 120 **such** schools; today there are more",
+  "than 900, most of them in small rural towns. Students attend longer days",
+  "from Monday to Thursday and have Fridays off.",
+  "The main reason is money. Rural schools often struggle to find teachers,",
+  "and a shorter week saves on buses, heating and electricity. **It** also helps",
+  "attract teachers, many of **whom** say a three-day weekend is worth more to",
+  "them than a higher salary.",
+  "But the results for students are mixed. One large study found that",
+  "test scores fell slightly in schools that switched, especially in math.",
+  "**Others** found no clear difference. Working parents face another problem:",
+  "**they** must find childcare on Fridays, which can be expensive.",
+  "Supporters argue that the extra day can be used for sports, part-time jobs",
+  "or extra classes. Critics say **this** only works for families that can",
+  "afford it, and that the poorest students may fall further behind."
+ ],
+ "questions": [
+  {
+   "id": "M02-R3-1",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'such' in line 2 refers to ___.",
+   "options": [
+    "rural towns",
+    "schools with a four-day week",
+    "large city schools",
+    "private schools"
+   ],
+   "answer": 1,
+   "explanation_th": "such schools = โรงเรียนแบบที่เพิ่งพูด (เรียนสี่วัน)",
+   "why_wrong": [
+    "เมืองชนบทไม่ใช่ \"schools\"",
+    null,
+    "ไม่ได้พูดถึง",
+    "ไม่ได้พูดถึง"
+   ]
+  },
+  {
+   "id": "M02-R3-2",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'It' in line 6 refers to ___.",
+   "options": [
+    "a shorter week",
+    "money",
+    "electricity",
+    "the bus"
+   ],
+   "answer": 0,
+   "explanation_th": "a shorter week saves … It (a shorter week) also helps attract teachers",
+   "why_wrong": [
+    null,
+    "เงินไม่ได้ \"ดึงดูดครู\" ในประโยคนี้",
+    "ไฟฟ้าดึงดูดครูไม่ได้",
+    "รถบัสไม่ใช่ประเด็น"
+   ]
+  },
+  {
+   "id": "M02-R3-3",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'whom' in line 7 refers to ___.",
+   "options": [
+    "students",
+    "parents",
+    "teachers",
+    "schools"
+   ],
+   "answer": 2,
+   "explanation_th": "attract teachers, many of whom (teachers) say…",
+   "why_wrong": [
+    "นักเรียนไม่ได้รับเงินเดือน",
+    "ผู้ปกครองพูดถึงทีหลัง",
+    null,
+    "โรงเรียนพูดไม่ได้"
+   ]
+  },
+  {
+   "id": "M02-R3-4",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'Others' in line 11 refers to ___.",
+   "options": [
+    "other students",
+    "other parents",
+    "other schools",
+    "other studies"
+   ],
+   "answer": 3,
+   "explanation_th": "One large study found … Others (other studies) found no clear difference",
+   "why_wrong": [
+    "นักเรียนไม่ได้ \"พบ\" ผลวิจัย",
+    "ผู้ปกครองพูดถึงหลังจากนั้น",
+    "โรงเรียนไม่ได้ทำวิจัย",
+    null
+   ]
+  },
+  {
+   "id": "M02-R3-5",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'they' in line 12 refers to ___.",
+   "options": [
+    "working parents",
+    "students",
+    "teachers",
+    "supporters"
+   ],
+   "answer": 0,
+   "explanation_th": "Working parents face another problem: they must find childcare",
+   "why_wrong": [
+    null,
+    "นักเรียนไม่ได้หาคนเลี้ยงเด็ก",
+    "ครูไม่ได้ถูกพูดถึงตรงนี้",
+    "ผู้สนับสนุนพูดถึงทีหลัง"
+   ]
+  },
+  {
+   "id": "M02-R3-6",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'this' in line 14 refers to ___.",
+   "options": [
+    "childcare on Fridays",
+    "falling test scores",
+    "using the extra day for sports, jobs or extra classes",
+    "paying teachers more"
+   ],
+   "answer": 2,
+   "explanation_th": "ประโยคก่อนหน้า: the extra day can be used for sports, part-time jobs or extra classes",
+   "why_wrong": [
+    "พูดถึงก่อนหน้านั้นและไม่ใช่ข้อเสนอของฝ่ายสนับสนุน",
+    "ไม่ได้อยู่ในประโยคก่อนหน้า",
+    null,
+    "ไม่มีข้อเสนอนี้"
+   ]
+  },
+  {
+   "id": "M02-R3-7",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "According to the passage, the main reason schools choose a four-day week is ___.",
+   "options": [
+    "to improve test scores",
+    "to save money",
+    "to give students part-time jobs",
+    "to help working parents"
+   ],
+   "answer": 1,
+   "explanation_th": "บรรทัด 5: The main reason is money",
+   "why_wrong": [
+    "คะแนนกลับลดลงเล็กน้อยในบางการศึกษา",
+    null,
+    "เป็นข้อโต้แย้งของฝ่ายสนับสนุน ไม่ใช่เหตุผลหลัก",
+    "ผู้ปกครองกลับมีปัญหา"
+   ]
+  },
+  {
+   "id": "M02-R3-8",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "Which is true about the number of four-day schools in the U.S.?",
+   "options": [
+    "It has fallen since 2010.",
+    "Most are in big cities.",
+    "It has stayed about the same.",
+    "It has grown from about 120 to more than 900."
+   ],
+   "answer": 3,
+   "explanation_th": "บรรทัด 2–3",
+   "why_wrong": [
+    "ตรงข้าม",
+    "ส่วนใหญ่อยู่ในเมืองชนบทเล็ก",
+    "เพิ่มขึ้นมาก",
+    null
+   ]
+  },
+  {
+   "id": "M02-R3-9",
+   "skill": "r.detail",
+   "difficulty": 3,
+   "stem": "Many teachers believe that ___.",
+   "options": [
+    "a three-day weekend is more valuable than more pay",
+    "four-day weeks improve math scores",
+    "rural schools pay higher salaries",
+    "Fridays should be used for extra classes"
+   ],
+   "answer": 0,
+   "explanation_th": "บรรทัด 7–8 (ถอดความ: worth more to them than a higher salary)",
+   "why_wrong": [
+    null,
+    "ไม่ใช่ความเห็นของครู และผลวิจัยบอกว่าคะแนนคณิตลด",
+    "ไม่มีข้อมูล",
+    "เป็นความเห็นฝ่ายสนับสนุน"
+   ]
+  },
+  {
+   "id": "M02-R3-10",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "What can be inferred about students from poor families?",
+   "options": [
+    "They prefer five-day weeks for sports.",
+    "They always get lower math scores.",
+    "They may not be able to use the extra day for useful activities.",
+    "They do not need childcare."
+   ],
+   "answer": 2,
+   "explanation_th": "Critics: works only for families that can afford it → ครอบครัวยากจนอาจใช้วันว่างให้เกิดประโยชน์ไม่ได้",
+   "why_wrong": [
+    "ไม่มีข้อมูล",
+    "คำว่า always เกินกว่าที่บทความพูด",
+    null,
+    "ไม่มีข้อมูล"
+   ]
+  }
+ ]
+}

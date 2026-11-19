@@ -1,0 +1,182 @@
+{
+ "id": "R01",
+ "title": "Mali's First Day",
+ "topic": "ชีวิตนักเรียน",
+ "level": "A2",
+ "lines": [
+  "Mali moved to Bangkok with her family last month. Her father got a new",
+  "job there, so they had to leave their small town in the north. On her",
+  "first day at the new school, Mali felt very nervous. **She** did not know",
+  "anyone, and the school was five times bigger than her old one.",
+  "In the morning, a girl called Fai sat next to her in the math class.",
+  "Fai smiled and asked where she was from. When Mali told **her**, Fai was",
+  "excited. Her grandmother lived in the same town! At lunch, Fai took Mali",
+  "to the canteen and introduced her to two friends. **They** were in the",
+  "school band, and they asked Mali to join. Mali had played the drums at",
+  "her old school, so she said yes immediately.",
+  "After school, Mali called her old best friend. \"I was afraid of **this**",
+  "day,\" she said, \"but now I think I will be happy here.\""
+ ],
+ "questions": [
+  {
+   "id": "R01-1",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'She' in line 3 refers to ___.",
+   "options": [
+    "Mali",
+    "Fai",
+    "Mali's mother",
+    "the teacher"
+   ],
+   "answer": 0,
+   "explanation_th": "ประโยคก่อนหน้าพูดถึง Mali ที่รู้สึกตื่นเต้น She จึงหมายถึง Mali",
+   "why_wrong": [
+    null,
+    "Fai ยังไม่ปรากฏในเรื่องจนบรรทัด 5",
+    "แม่ไม่ได้ถูกพูดถึงเลย",
+    "ไม่มีครูในประโยคก่อนหน้า"
+   ]
+  },
+  {
+   "id": "R01-2",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'her' in line 6 refers to ___.",
+   "options": [
+    "Mali",
+    "Fai",
+    "Fai's grandmother",
+    "the math teacher"
+   ],
+   "answer": 1,
+   "explanation_th": "Fai ถามว่ามาจากไหน แล้ว Mali บอก \"เธอ\" (คนที่ถาม) = Fai",
+   "why_wrong": [
+    "Mali เป็นคนบอก ไม่ใช่คนฟัง",
+    null,
+    "คุณยายถูกพูดถึงหลังจากนั้น",
+    "ไม่มีครูคณิตในเรื่อง"
+   ]
+  },
+  {
+   "id": "R01-3",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'They' in line 8 refers to ___.",
+   "options": [
+    "Fai and Mali",
+    "Mali's parents",
+    "the two friends",
+    "the teachers"
+   ],
+   "answer": 2,
+   "explanation_th": "ประโยคก่อนหน้าพูดถึง two friends ที่อยู่ในวงดนตรี",
+   "why_wrong": [
+    "Fai เป็นคนแนะนำ ไม่ได้ชวน Mali เข้าวงเอง",
+    "พ่อแม่ไม่ได้อยู่ในฉากนี้",
+    null,
+    "ไม่มีครูในเรื่อง"
+   ]
+  },
+  {
+   "id": "R01-4",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'this' in line 11 refers to ___.",
+   "options": [
+    "the phone call",
+    "the drums",
+    "the move to Bangkok",
+    "her first day at the new school"
+   ],
+   "answer": 3,
+   "explanation_th": "\"this day\" = วันนี้ คือวันแรกที่โรงเรียนใหม่ที่เพิ่งเล่าทั้งเรื่อง",
+   "why_wrong": [
+    "การโทรเป็นสิ่งที่กำลังทำ ไม่ใช่สิ่งที่กลัว",
+    "กลองไม่ใช่ \"day\"",
+    "การย้ายบ้านเกิดเมื่อเดือนก่อน ไม่ใช่ \"this day\"",
+    null
+   ]
+  },
+  {
+   "id": "R01-5",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "Why did Mali's family move to Bangkok?",
+   "options": [
+    "Her father got a new job there.",
+    "Her old school closed.",
+    "Mali wanted a bigger school.",
+    "Her grandmother lived there."
+   ],
+   "answer": 0,
+   "explanation_th": "บรรทัด 1–2: Her father got a new job there",
+   "why_wrong": [
+    null,
+    "ไม่มีข้อมูลว่าโรงเรียนเก่าปิด",
+    "Mali กลับรู้สึกกังวลเพราะโรงเรียนใหญ่",
+    "คุณยายของ Fai อยู่ที่เมืองเหนือ ไม่ใช่กรุงเทพ"
+   ]
+  },
+  {
+   "id": "R01-6",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Why was Fai excited?",
+   "options": [
+    "Mali could play the drums.",
+    "Her grandmother lived in Mali's hometown.",
+    "Mali was in her math class.",
+    "She needed a new member for the band."
+   ],
+   "answer": 1,
+   "explanation_th": "บรรทัด 6–7: Her grandmother lived in the same town!",
+   "why_wrong": [
+    "เรื่องกลองมาทีหลัง ตอนกินข้าว",
+    null,
+    "อยู่ห้องเดียวกันไม่ใช่เหตุที่ตื่นเต้น",
+    "เพื่อนสองคนเป็นคนชวนเข้าวง ไม่ใช่ Fai"
+   ]
+  },
+  {
+   "id": "R01-7",
+   "skill": "r.not-true",
+   "difficulty": 2,
+   "stem": "Which of the following is NOT true?",
+   "options": [
+    "Mali did not know anyone at first.",
+    "The new school is bigger than the old one.",
+    "Mali had never played the drums before.",
+    "Fai introduced Mali to two friends."
+   ],
+   "answer": 2,
+   "explanation_th": "บรรทัด 9–10: Mali had played the drums at her old school แปลว่าเคยเล่นแล้ว ข้อนี้จึงไม่จริง",
+   "why_wrong": [
+    "ข้อนี้จริง (บรรทัด 3–4)",
+    "ข้อนี้จริง (five times bigger)",
+    null,
+    "ข้อนี้จริง (บรรทัด 7–8)"
+   ]
+  },
+  {
+   "id": "R01-8",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stem": "At the end of the day, Mali probably felt ___.",
+   "options": [
+    "angry with her father",
+    "sad because she missed the north",
+    "afraid of the band",
+    "more hopeful about her new school"
+   ],
+   "answer": 3,
+   "explanation_th": "เธอบอกว่า \"now I think I will be happy here\" = มีความหวังมากขึ้น",
+   "why_wrong": [
+    "ไม่มีตอนไหนบอกว่าโกรธพ่อ",
+    "เธอโทรหาเพื่อนเก่า แต่ข้อความบอกว่ามีความสุข ไม่ใช่เศร้า",
+    "เธอตอบตกลงเข้าวงทันที ไม่ได้กลัว",
+    null
+   ]
+  }
+ ]
+}

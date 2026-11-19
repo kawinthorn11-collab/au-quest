@@ -1,0 +1,225 @@
+{
+ "id": "M02-R2",
+ "title": "Learning to Fail",
+ "topic": "ประสบการณ์ส่วนตัว",
+ "level": "B1",
+ "mock": "M02",
+ "lines": [
+  "In my last year of high school, I applied for a scholarship to study",
+  "engineering. I had good grades, and my teachers were sure I would get",
+  "**it**. I did not. When the results came out, my name was not on the list.",
+  "For two weeks I hardly left my room. I felt I had let everyone down,",
+  "especially my parents, who had worked extra hours to pay for my tutoring.",
+  "It was my grandmother who finally pulled me out. She did not tell me to",
+  "cheer up. Instead, she asked me to help **her** in her vegetable garden",
+  "every morning. While we worked, she told me about her own failures: the",
+  "shop she had opened and lost, and the years she had spent rebuilding.",
+  "\"**Those** were not wasted years,\" she said. \"They taught me what I could",
+  "survive.\" Slowly, I started to study again. The next year I applied to",
+  "three universities and was accepted by **two**. Now, when I fail a test, I",
+  "still feel bad, but I no longer think **it** says anything final about me.",
+  "It is just information about what I need to do next."
+ ],
+ "questions": [
+  {
+   "id": "M02-R2-1",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'it' in line 3 refers to ___.",
+   "options": [
+    "the list",
+    "engineering",
+    "the scholarship",
+    "good grades"
+   ],
+   "answer": 2,
+   "explanation_th": "applied for a scholarship … teachers were sure I would get it (the scholarship)",
+   "why_wrong": [
+    "รายชื่อไม่ใช่สิ่งที่ \"ได้\"",
+    "ไม่ใช่สิ่งที่สมัครขอ",
+    null,
+    "เขามีเกรดดีอยู่แล้ว"
+   ]
+  },
+  {
+   "id": "M02-R2-2",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'her' in line 7 refers to ___.",
+   "options": [
+    "the writer's mother",
+    "a teacher",
+    "a neighbor",
+    "the writer's grandmother"
+   ],
+   "answer": 3,
+   "explanation_th": "my grandmother … asked me to help her in her vegetable garden",
+   "why_wrong": [
+    "แม่ไม่ได้อยู่ในประโยคนี้",
+    "ไม่มีครูในตอนนี้",
+    "ไม่มีเพื่อนบ้าน",
+    null
+   ]
+  },
+  {
+   "id": "M02-R2-3",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'Those' in line 10 refers to ___.",
+   "options": [
+    "the years she spent rebuilding",
+    "her vegetables",
+    "the writer's failures",
+    "the tutoring lessons"
+   ],
+   "answer": 0,
+   "explanation_th": "the years she had spent rebuilding. \"Those were not wasted years\"",
+   "why_wrong": [
+    null,
+    "ผักไม่ใช่ \"years\"",
+    "ความล้มเหลวของผู้เขียนไม่ได้ถูกพูดถึงตรงนี้",
+    "ไม่เกี่ยวกับปีของคุณยาย"
+   ]
+  },
+  {
+   "id": "M02-R2-4",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'two' in line 12 refers to ___.",
+   "options": [
+    "two scholarships",
+    "two of the universities",
+    "two years",
+    "two weeks"
+   ],
+   "answer": 1,
+   "explanation_th": "applied to three universities and was accepted by two (of them)",
+   "why_wrong": [
+    "ไม่ได้พูดถึงทุนในประโยคนี้",
+    null,
+    "ไม่ใช่ระยะเวลา",
+    "สองสัปดาห์ถูกพูดถึงไกลออกไป"
+   ]
+  },
+  {
+   "id": "M02-R2-5",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'it' in line 13 refers to ___.",
+   "options": [
+    "the information",
+    "his grandmother",
+    "failing a test",
+    "the university"
+   ],
+   "answer": 2,
+   "explanation_th": "when I fail a test … I no longer think it (failing a test) says anything final",
+   "why_wrong": [
+    "information พูดถึงประโยคถัดไป",
+    "ไม่สมเหตุสมผล",
+    null,
+    "ไม่ได้อยู่ในประโยค"
+   ]
+  },
+  {
+   "id": "M02-R2-6",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Why did the writer feel he had let his parents down?",
+   "options": [
+    "They had worked extra hours to pay for his tutoring.",
+    "They told him to cheer up.",
+    "They wanted him to study medicine.",
+    "They were angry with him."
+   ],
+   "answer": 0,
+   "explanation_th": "บรรทัด 5",
+   "why_wrong": [
+    null,
+    "คุณยายต่างหากที่ \"ไม่ได้\" บอกให้ร่าเริง",
+    "ไม่มีข้อมูล",
+    "ไม่มีข้อมูลว่าโกรธ"
+   ]
+  },
+  {
+   "id": "M02-R2-7",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "What did the grandmother do to help the writer?",
+   "options": [
+    "She told him to stop feeling sad.",
+    "She paid for more tutoring.",
+    "She asked him to work with her in the garden.",
+    "She applied to universities for him."
+   ],
+   "answer": 2,
+   "explanation_th": "บรรทัด 6–8: Instead, she asked me to help her in her vegetable garden",
+   "why_wrong": [
+    "บทความบอกว่าเธอไม่ได้ทำแบบนี้ (did not tell me to cheer up) — ตัวลวงที่กลับความหมาย",
+    "ไม่มีข้อมูล",
+    null,
+    "ไม่มีข้อมูล"
+   ]
+  },
+  {
+   "id": "M02-R2-8",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "The grandmother told the writer about her shop mainly to show that ___.",
+   "options": [
+    "running a shop is difficult",
+    "he should open a shop",
+    "she was richer before",
+    "people can survive failure and learn from it"
+   ],
+   "answer": 3,
+   "explanation_th": "They taught me what I could survive = ความล้มเหลวผ่านไปได้และสอนเรา",
+   "why_wrong": [
+    "เป็นรายละเอียด ไม่ใช่เหตุผลหลัก",
+    "ไม่มีข้อมูล",
+    "ไม่ใช่ประเด็น",
+    null
+   ]
+  },
+  {
+   "id": "M02-R2-9",
+   "skill": "r.not-true",
+   "difficulty": 2,
+   "stem": "Which statement is NOT true?",
+   "options": [
+    "The writer's teachers expected him to win the scholarship.",
+    "The writer stayed in his room for about two weeks.",
+    "The grandmother's shop was always successful.",
+    "The writer was later accepted by universities."
+   ],
+   "answer": 2,
+   "explanation_th": "บรรทัด 9: the shop she had opened and lost — ร้านไม่ได้ประสบความสำเร็จ",
+   "why_wrong": [
+    "จริง บรรทัด 2–3",
+    "จริง บรรทัด 4",
+    null,
+    "จริง บรรทัด 12"
+   ]
+  },
+  {
+   "id": "M02-R2-10",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stem": "What is the writer's attitude toward failure now?",
+   "options": [
+    "He thinks it shows he is not clever.",
+    "He sees it as useful information, not a final judgment.",
+    "He no longer feels bad about it at all.",
+    "He tries never to take tests."
+   ],
+   "answer": 1,
+   "explanation_th": "บรรทัด 13–14",
+   "why_wrong": [
+    "ตรงข้ามกับบรรทัด 13",
+    null,
+    "เขายัง still feel bad",
+    "ไม่มีข้อมูล"
+   ]
+  }
+ ]
+}

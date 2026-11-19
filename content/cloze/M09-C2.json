@@ -1,0 +1,210 @@
+{
+ "id": "M09-C2",
+ "title": "Grandpa the Cat",
+ "genre": "เรื่องเล่าขำ ๆ",
+ "level": "B1",
+ "mock": "M09",
+ "text": "My grandfather is seventy-eight and lives in Chiang Rai, (1) the rest of the family lives in Bangkok. Last year, my cousin taught him (2) to make video calls. The first time he called us, we could only see his ear. \"Grandpa, move the phone (3) from your face!\" we shouted. He moved it so far away (4) we could only see the ceiling. For ten minutes, we talked to a ceiling fan.\nThe next week was better. He held the phone correctly, but he (5) a camera filter by mistake, and he appeared as a cat with big pink ears. He had no idea. He talked seriously about his health (6) we tried not to laugh. When my mother finally told him, he said, \"Well, at least I look younger.\"\nNow he calls us every Sunday. He still doesn't understand (7) the filters work, but he has decided that the cat is (8) favorite. \"If I (9) to choose,\" he says, \"I would be a cat forever. Cats don't have to (10) the dishes.\"",
+ "items": [
+  {
+   "id": "M09-C2-1",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stem": "(1) My grandfather is seventy-eight and lives in Chiang Rai, ___ the rest of the family lives in Bangkok.",
+   "options": [
+    "because",
+    "so",
+    "while",
+    "unless"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "because ไม่สมเหตุผล",
+    "so ไม่สมเหตุผล",
+    null,
+    "unless ไม่สมเหตุผล"
+   ],
+   "explanation_th": "เปรียบต่าง (ปู่อยู่เชียงราย ส่วนครอบครัวอยู่กรุงเทพ) → while"
+  },
+  {
+   "id": "M09-C2-2",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(2) Last year, my cousin taught him ___ to make video calls.",
+   "options": [
+    "what",
+    "which",
+    "that",
+    "how"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "what to make video calls ผิด",
+    "which ผิด",
+    "that ผิด",
+    null
+   ],
+   "explanation_th": "teach sb how to V"
+  },
+  {
+   "id": "M09-C2-3",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(3) \"Grandpa, move the phone ___ from your face!\"",
+   "options": [
+    "over",
+    "away",
+    "off",
+    "out"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "over from ผิด",
+    null,
+    "off from ผิด",
+    "out from ผิดความหมาย"
+   ],
+   "explanation_th": "move … away from = ขยับออกห่างจาก"
+  },
+  {
+   "id": "M09-C2-4",
+   "skill": "g.fixed",
+   "difficulty": 1,
+   "stem": "(4) He moved it so far away ___ we could only see the ceiling.",
+   "options": [
+    "as",
+    "so",
+    "than",
+    "that"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "so far away as ผิด",
+    "so … so ผิด",
+    "than ใช้เปรียบเทียบ",
+    null
+   ],
+   "explanation_th": "so + adv + that"
+  },
+  {
+   "id": "M09-C2-5",
+   "skill": "g.tense-past",
+   "difficulty": 1,
+   "stem": "(5) He held the phone correctly, but he ___ a camera filter by mistake, and he appeared as a cat with big pink ears.",
+   "options": [
+    "turned on",
+    "turns on",
+    "has turned on",
+    "turning on"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ปัจจุบัน ผิด",
+    "has turned ไม่ใช้ในเรื่องเล่า",
+    "ไม่ใช่กริยาแท้"
+   ],
+   "explanation_th": "เรื่องเล่าอดีต → turned on"
+  },
+  {
+   "id": "M09-C2-6",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stem": "(6) He talked seriously about his health ___ we tried not to laugh.",
+   "options": [
+    "during",
+    "despite",
+    "while",
+    "unless"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "during + คำนาม",
+    "despite ต้องตามด้วยคำนาม/V-ing ไม่ใช่ประโยค we tried",
+    null,
+    "unless ไม่สมเหตุผล"
+   ],
+   "explanation_th": "ขณะที่เราพยายามไม่หัวเราะ + ประโยค → while"
+  },
+  {
+   "id": "M09-C2-7",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(7) He still doesn't understand ___ the filters work, but he has decided that the cat is … favorite.",
+   "options": [
+    "what",
+    "which",
+    "how",
+    "who"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "what the filters work ผิด (work ไม่มีกรรม)",
+    "which ผิด",
+    null,
+    "who ใช้กับคน แต่ประโยคนี้พูดถึงวิธีที่ filters ทำงาน"
+   ],
+   "explanation_th": "understand how … work = เข้าใจว่าทำงานอย่างไร"
+  },
+  {
+   "id": "M09-C2-8",
+   "skill": "g.pronoun",
+   "difficulty": 1,
+   "stem": "(8) He still doesn't understand … the filters work, but he has decided that the cat is ___ favorite.",
+   "options": [
+    "his",
+    "him",
+    "he",
+    "he's"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "him ไม่ใช้หน้าคำนาม",
+    "he ผิด",
+    "he's = he is"
+   ],
+   "explanation_th": "หน้า favorite → his"
+  },
+  {
+   "id": "M09-C2-9",
+   "skill": "g.conditional",
+   "difficulty": 2,
+   "stem": "(9) \"If I ___ to choose,\"",
+   "options": [
+    "have",
+    "will have",
+    "would have",
+    "had"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "have ใช้กับ will",
+    "หลัง if ไม่ใช้ will",
+    "หลัง if ไม่ใช้ would",
+    null
+   ],
+   "explanation_th": "If + V2, would (สมมุติ) → If I had to choose"
+  },
+  {
+   "id": "M09-C2-10",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(10) Cats don't have to ___ the dishes.\"",
+   "options": [
+    "washing",
+    "wash",
+    "to wash",
+    "washed"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "washing ผิด",
+    null,
+    "to to wash ซ้ำ",
+    "washed ผิด"
+   ],
+   "explanation_th": "have to + V1 → \"wash\""
+  }
+ ]
+}

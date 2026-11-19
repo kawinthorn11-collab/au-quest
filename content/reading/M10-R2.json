@@ -1,0 +1,225 @@
+{
+ "id": "M10-R2",
+ "title": "What My Scholarship Taught Me",
+ "topic": "ประสบการณ์ส่วนตัว",
+ "level": "B1",
+ "mock": "M10",
+ "lines": [
+  "When I received a scholarship to study at university, I thought the hard",
+  "part was over. I was wrong. The scholarship paid my tuition, but **it**",
+  "also required me to keep a GPA of 3.0 and work ten hours a week in the",
+  "university library. In my first term, I struggled with both.",
+  "My biggest problem was time. Between classes, library shifts and the long",
+  "bus ride home, I had almost no time to study. My grades began to fall,",
+  "and I was afraid of losing **everything**. A senior student who also worked",
+  "in the library noticed. **She** showed me how she planned her week, hour",
+  "by hour, and how she used quiet times at the library desk to review notes.",
+  "I copied **her** system. It was not easy at first, but by the end of the",
+  "year my GPA had risen to 3.4. More importantly, I had learned to manage",
+  "my time, a skill **that** has helped me in every part of my life.",
+  "Now I am the senior student. When I see a new scholarship student looking",
+  "tired and worried, I do what **she** did for me."
+ ],
+ "questions": [
+  {
+   "id": "M10-R2-1",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'it' in line 2 refers to ___.",
+   "options": [
+    "the scholarship",
+    "the tuition",
+    "the hard part",
+    "the university"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ค่าเล่าเรียนไม่ได้ \"require\"",
+    "ไม่ใช่",
+    "กว้างเกินไป"
+   ],
+   "explanation_th": "The scholarship paid my tuition, but it (the scholarship) also required…"
+  },
+  {
+   "id": "M10-R2-2",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'everything' in line 7 refers to ___.",
+   "options": [
+    "the library job only",
+    "the scholarship and the chance to study",
+    "the bus ride",
+    "the senior student"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "แคบเกินไป",
+    null,
+    "ไม่ใช่สิ่งที่กลัวเสีย",
+    "ไม่ใช่"
+   ],
+   "explanation_th": "กลัวเสียทุกอย่าง = เสียทุนและโอกาสเรียน (เพราะเกรดตก)"
+  },
+  {
+   "id": "M10-R2-3",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'She' in line 8 refers to ___.",
+   "options": [
+    "a senior student",
+    "the writer",
+    "a librarian",
+    "a teacher"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ผู้เขียนคือ me",
+    "ไม่ได้พูดถึง",
+    "ไม่ได้พูดถึง"
+   ],
+   "explanation_th": "A senior student … noticed. She showed me…"
+  },
+  {
+   "id": "M10-R2-4",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'her' in line 10 refers to ___.",
+   "options": [
+    "the writer's",
+    "a teacher's",
+    "the senior student's",
+    "the librarian's"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ไม่ใช่ระบบของตัวเอง",
+    "ไม่มี",
+    null,
+    "ไม่มี"
+   ],
+   "explanation_th": "I copied her (the senior student's) system"
+  },
+  {
+   "id": "M10-R2-5",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'that' in line 12 refers to ___.",
+   "options": [
+    "a GPA of 3.4",
+    "the library",
+    "the end of the year",
+    "the skill of managing time"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "เกรดไม่ใช่ทักษะ",
+    "ไม่ใช่",
+    "ไม่ใช่",
+    null
+   ],
+   "explanation_th": "a skill that has helped me = ทักษะการบริหารเวลา"
+  },
+  {
+   "id": "M10-R2-6",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'she' in line 14 refers to ___.",
+   "options": [
+    "a new scholarship student",
+    "the senior student who helped the writer",
+    "the writer",
+    "a professor"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "รุ่นน้องคือคนที่ผู้เขียนช่วย",
+    null,
+    "ผู้เขียนคือ I",
+    "ไม่มี"
+   ],
+   "explanation_th": "I do what she (รุ่นพี่ที่เคยช่วย) did for me"
+  },
+  {
+   "id": "M10-R2-7",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "What did the scholarship require?",
+   "options": [
+    "Only good grades",
+    "Twenty hours of work a week",
+    "Living on campus",
+    "A GPA of 3.0 and ten hours of library work a week"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ไม่ครบ",
+    "ตัวเลขผิด",
+    "ไม่มีในบทความ",
+    null
+   ],
+   "explanation_th": "บรรทัด 3–4"
+  },
+  {
+   "id": "M10-R2-8",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "What was the writer's biggest problem?",
+   "options": [
+    "Time",
+    "Money",
+    "Friends",
+    "English"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ไม่มีในบทความ (ทุนจ่ายค่าเล่าเรียน)",
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ"
+   ],
+   "explanation_th": "My biggest problem was time"
+  },
+  {
+   "id": "M10-R2-9",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "By the end of the year, the writer's GPA was ___.",
+   "options": [
+    "3.0",
+    "below 3.0",
+    "3.4",
+    "4.0"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "เป็นเกณฑ์ขั้นต่ำ",
+    "ตรงข้าม",
+    null,
+    "ไม่มีในบทความ"
+   ],
+   "explanation_th": "my GPA had risen to 3.4"
+  },
+  {
+   "id": "M10-R2-10",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stem": "What does the writer do now?",
+   "options": [
+    "Works twenty hours a week",
+    "Has stopped working in the library",
+    "Helps new scholarship students manage their time",
+    "Teaches at the university"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ไม่มีหลักฐาน",
+    "ไม่มีหลักฐาน",
+    null,
+    "ไม่มีหลักฐาน"
+   ],
+   "explanation_th": "Now I am the senior student … I do what she did for me"
+  }
+ ]
+}

@@ -1,0 +1,224 @@
+{
+ "id": "M01-R2",
+ "title": "My First Job",
+ "topic": "ประสบการณ์ส่วนตัว",
+ "level": "B1",
+ "mock": "M01",
+ "lines": [
+  "When I got my first part-time job at a busy café, I thought it would be",
+  "easy. I was wrong. On my first morning, I dropped two cups, gave a",
+  "customer the wrong change, and forgot to write down three orders. By",
+  "noon, I was ready to quit. My manager, Ms. Dao, called me into the back",
+  "room. I expected **her** to be angry, but instead she laughed and told me",
+  "about her own first day, when she had spilled coffee on the owner.",
+  "Over the next few weeks, I learned that the job was not really about",
+  "coffee. It was about people. Regular customers liked it when I",
+  "remembered **their** names and favorite drinks. Some were rude, of course,",
+  "but most were patient if I smiled and stayed calm. **This** surprised me.",
+  "I had always been shy, but talking to strangers all day made me braver.",
+  "Now, a year later, I train new staff myself. When **they** make mistakes,",
+  "I tell them about my first morning. It always makes **them** feel better."
+ ],
+ "questions": [
+  {
+   "id": "M01-R2-1",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'her' in line 5 refers to ___.",
+   "options": [
+    "a customer",
+    "the owner",
+    "Ms. Dao",
+    "the writer's mother"
+   ],
+   "answer": 2,
+   "explanation_th": "My manager, Ms. Dao, called me … I expected her to be angry",
+   "why_wrong": [
+    "ลูกค้าไม่ได้เรียกเข้าห้อง",
+    "เจ้าของถูกพูดถึงในเรื่องของ Ms. Dao ทีหลัง",
+    null,
+    "แม่ไม่ได้ถูกพูดถึง"
+   ]
+  },
+  {
+   "id": "M01-R2-2",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'their' in line 9 refers to ___.",
+   "options": [
+    "the regular customers'",
+    "the staff's",
+    "the owner's",
+    "the writer's friends'"
+   ],
+   "answer": 0,
+   "explanation_th": "Regular customers liked it when I remembered their names",
+   "why_wrong": [
+    null,
+    "พนักงานไม่ได้ถูกพูดถึงตรงนี้",
+    "เจ้าของเป็นคนเดียว",
+    "ไม่มีเพื่อนในบริบทนี้"
+   ]
+  },
+  {
+   "id": "M01-R2-3",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'This' in line 10 refers to the fact that ___.",
+   "options": [
+    "some customers were rude",
+    "most customers were patient when the writer smiled and stayed calm",
+    "the writer remembered names",
+    "the job was about coffee"
+   ],
+   "answer": 1,
+   "explanation_th": "ประโยคก่อนหน้า: most were patient if I smiled and stayed calm — สิ่งที่ทำให้แปลกใจ",
+   "why_wrong": [
+    "ลูกค้าบางคนหยาบคาย (of course) = เป็นเรื่องที่คาดไว้ ไม่แปลกใจ",
+    null,
+    "อยู่ก่อนหน้านั้น ไม่ใช่ความคิดที่ this ชี้",
+    "ผู้เขียนบอกว่างานไม่ได้เกี่ยวกับกาแฟจริง ๆ"
+   ]
+  },
+  {
+   "id": "M01-R2-4",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'they' in line 12 refers to ___.",
+   "options": [
+    "the customers",
+    "the owners",
+    "the managers",
+    "the new staff"
+   ],
+   "answer": 3,
+   "explanation_th": "I train new staff myself. When they (new staff) make mistakes…",
+   "why_wrong": [
+    "ลูกค้าไม่ได้ถูกฝึก",
+    "ไม่ได้พูดถึงเจ้าของในประโยคนี้",
+    "ผู้จัดการไม่ได้ถูกฝึกโดยผู้เขียน",
+    null
+   ]
+  },
+  {
+   "id": "M01-R2-5",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'them' in line 13 refers to ___.",
+   "options": [
+    "the regular customers",
+    "the new staff",
+    "Ms. Dao and the owner",
+    "the coffee cups"
+   ],
+   "answer": 1,
+   "explanation_th": "เล่าให้พนักงานใหม่ฟัง แล้วมันทำให้พวกเขา (พนักงานใหม่) รู้สึกดีขึ้น",
+   "why_wrong": [
+    "ลูกค้าไม่ได้ฟังเรื่องนี้",
+    null,
+    "ไม่ได้อยู่ในประโยค",
+    "แก้วรู้สึกไม่ได้"
+   ]
+  },
+  {
+   "id": "M01-R2-6",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "On the first morning, the writer ___.",
+   "options": [
+    "spilled coffee on the owner",
+    "was praised by customers",
+    "made several mistakes",
+    "trained the new staff"
+   ],
+   "answer": 2,
+   "explanation_th": "บรรทัด 2–3: dropped cups, gave wrong change, forgot orders",
+   "why_wrong": [
+    "นั่นคือเรื่องของ Ms. Dao ไม่ใช่ผู้เขียน (ตัวลวงที่ใช้คำจากบทความ)",
+    "ไม่มีข้อมูล",
+    null,
+    "เกิดขึ้นหนึ่งปีต่อมา"
+   ]
+  },
+  {
+   "id": "M01-R2-7",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stem": "Why did Ms. Dao tell the writer about her own first day?",
+   "options": [
+    "To make the writer feel better.",
+    "To complain about the owner.",
+    "Because she was angry.",
+    "To teach the writer a coffee recipe."
+   ],
+   "answer": 0,
+   "explanation_th": "ผู้เขียนกำลังจะลาออก เธอหัวเราะและเล่าความผิดพลาดของตัวเอง = ให้กำลังใจ",
+   "why_wrong": [
+    null,
+    "ไม่ได้บ่นเจ้าของ",
+    "บทความบอกว่าเธอไม่ได้โกรธ (instead she laughed)",
+    "ไม่ใช่เรื่องสูตรกาแฟ"
+   ]
+  },
+  {
+   "id": "M01-R2-8",
+   "skill": "r.detail",
+   "difficulty": 3,
+   "stem": "\"The job was not really about coffee\" (lines 7–8) means that ___.",
+   "options": [
+    "the café sold mostly tea",
+    "the coffee was not good",
+    "the writer did not like coffee",
+    "the most important part of the job was dealing with people"
+   ],
+   "answer": 3,
+   "explanation_th": "ประโยคถัดไปอธิบาย: It was about people (ถอดความ)",
+   "why_wrong": [
+    "ไม่มีข้อมูล",
+    "ไม่มีข้อมูล",
+    "ไม่มีข้อมูล",
+    null
+   ]
+  },
+  {
+   "id": "M01-R2-9",
+   "skill": "r.not-true",
+   "difficulty": 2,
+   "stem": "Which statement is NOT true?",
+   "options": [
+    "The writer wanted to quit on the first day.",
+    "Ms. Dao was angry with the writer.",
+    "Regular customers liked having their names remembered.",
+    "The writer now trains new staff."
+   ],
+   "answer": 1,
+   "explanation_th": "บรรทัด 5: she laughed — ไม่ได้โกรธ ข้อนี้จึงไม่จริง",
+   "why_wrong": [
+    "จริง: ready to quit",
+    null,
+    "จริง บรรทัด 8–9",
+    "จริง บรรทัด 12"
+   ]
+  },
+  {
+   "id": "M01-R2-10",
+   "skill": "r.vocab",
+   "difficulty": 1,
+   "stem": "In line 4, 'quit' is closest in meaning to ___.",
+   "options": [
+    "work harder",
+    "go to lunch",
+    "ask for help",
+    "stop doing the job"
+   ],
+   "answer": 3,
+   "explanation_th": "ready to quit = พร้อมจะลาออก/เลิกทำ",
+   "why_wrong": [
+    "ตรงข้าม",
+    "ไม่เกี่ยว",
+    "ไม่ใช่ความหมายของ quit",
+    null
+   ]
+  }
+ ]
+}

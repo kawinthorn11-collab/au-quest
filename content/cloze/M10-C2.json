@@ -1,0 +1,210 @@
+{
+ "id": "M10-C2",
+ "title": "The Wedding Speech",
+ "genre": "เรื่องเล่าขำ ๆ",
+ "level": "B1",
+ "mock": "M10",
+ "text": "When my best friend asked me to give a speech at his wedding, I was terrified. I am not good at (1) in public. I practiced for weeks and wrote every word on small cards. On the day of the wedding, I put the cards in my jacket pocket and felt (2) confident.\nWhen it was my turn, I stood up, smiled and reached into my pocket. It was empty. I had changed jackets (3) the morning and left the cards at home. Three hundred people were looking at me. Then I saw my friend's grandmother in the front row. She smiled at me (4) kindly that I suddenly relaxed. I forgot (5) I had written and simply told the story of how we met: we were eight, and he had pushed me into a pond (6) mistake. Everyone laughed. Then I said (7) proud I was to be his friend.\nWhen I sat down, my friend hugged me. \"That was perfect,\" he said. \"Much better than (8) you had written.\" Later, his grandmother whispered, \"You (9) those cards. The best words come from the heart.\" I still have the cards somewhere, but I have never (10) them.",
+ "items": [
+  {
+   "id": "M10-C2-1",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(1) I am not good at ___ in public.",
+   "options": [
+    "to speak",
+    "speak",
+    "spoken",
+    "speaking"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "หลัง at ไม่ใช้ to V",
+    "หลังบุพบทใช้ V1 ไม่ได้",
+    "spoken ผิด",
+    null
+   ],
+   "explanation_th": "good at (บุพบท) + V-ing → \"speaking\""
+  },
+  {
+   "id": "M10-C2-2",
+   "skill": "g.wordform",
+   "difficulty": 2,
+   "stem": "(2) On the day of the wedding, I put the cards in my jacket pocket and felt ___ confident.",
+   "options": [
+    "quite",
+    "quiet",
+    "quit",
+    "quieter"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "quiet = เงียบ",
+    "quit = เลิก",
+    "quieter เป็นคุณศัพท์ขั้นกว่า ขยายคุณศัพท์ confident ไม่ได้"
+   ],
+   "explanation_th": "quite confident = ค่อนข้างมั่นใจ (ระวังตัวสะกดคล้าย quiet)"
+  },
+  {
+   "id": "M10-C2-3",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(3) I had changed jackets ___ the morning and left the cards at home.",
+   "options": [
+    "on",
+    "at",
+    "in",
+    "by"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "on the morning ต้องระบุวัน",
+    "at the morning ผิด",
+    null,
+    "by the morning = ภายในเช้า ความหมายผิด"
+   ],
+   "explanation_th": "in the morning"
+  },
+  {
+   "id": "M10-C2-4",
+   "skill": "g.fixed",
+   "difficulty": 1,
+   "stem": "(4) She smiled at me ___ kindly that I suddenly relaxed.",
+   "options": [
+    "such",
+    "too",
+    "so",
+    "very"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "such ต้องมีคำนาม",
+    "too … that ผิด",
+    null,
+    "very … that ผิด"
+   ],
+   "explanation_th": "so + adv + that"
+  },
+  {
+   "id": "M10-C2-5",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(5) I forgot ___ I had written and simply told the story of how we met: we were eight, and he had pushed me into a pond … mistake.",
+   "options": [
+    "what",
+    "which",
+    "who",
+    "how"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "which ต้องมีคำนาม",
+    "who ใช้กับคน แต่สิ่งที่ลืมคือข้อความที่เขียนไว้ ต้องใช้ what",
+    "how ความหมายผิด"
+   ],
+   "explanation_th": "forgot what I had written = ลืมสิ่งที่เขียนไว้"
+  },
+  {
+   "id": "M10-C2-6",
+   "skill": "g.fixed",
+   "difficulty": 1,
+   "stem": "(6) I forgot … I had written and simply told the story of how we met: we were eight, and he had pushed me into a pond ___ mistake.",
+   "options": [
+    "with",
+    "for",
+    "at",
+    "by"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "with mistake ผิด",
+    "for mistake ผิด",
+    "at mistake ผิด",
+    null
+   ],
+   "explanation_th": "by mistake = โดยไม่ได้ตั้งใจ"
+  },
+  {
+   "id": "M10-C2-7",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(7) Then I said ___ proud I was to be his friend.",
+   "options": [
+    "what",
+    "how",
+    "which",
+    "that"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "what proud ผิด",
+    null,
+    "which proud ผิด",
+    "that proud ไม่บอกระดับ"
+   ],
+   "explanation_th": "said how proud I was = บอกว่าภูมิใจแค่ไหน"
+  },
+  {
+   "id": "M10-C2-8",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(8) \"Much better than ___ you had written.\"",
+   "options": [
+    "what",
+    "which",
+    "that",
+    "who"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "which ต้องมีคำนาม",
+    "than that you had written ผิด",
+    "who ใช้กับคน"
+   ],
+   "explanation_th": "better than what you had written = ดีกว่าสิ่งที่เขียนไว้"
+  },
+  {
+   "id": "M10-C2-9",
+   "skill": "g.modal-perfect",
+   "difficulty": 2,
+   "stem": "(9) Later, his grandmother whispered, \"You ___ those cards.",
+   "options": [
+    "not needing",
+    "needn't",
+    "didn't need",
+    "hasn't need"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "not needing ไม่มีกริยาช่วย ใช้เป็นกริยาแท้ไม่ได้",
+    "needn't + those cards ผิด (needn't ตามด้วยกริยา)",
+    null,
+    "hasn't ต้องตามด้วย V3 (needed) และไม่ใช่เวลาที่ถูก"
+   ],
+   "explanation_th": "อดีต (ตอนกล่าวสุนทรพจน์) → didn't need those cards"
+  },
+  {
+   "id": "M10-C2-10",
+   "skill": "g.tense-past",
+   "difficulty": 2,
+   "stem": "(10) I still have the cards somewhere, but I have never ___ them.",
+   "options": [
+    "need",
+    "needed",
+    "needing",
+    "to need"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "need ผิดรูป",
+    null,
+    "needing ผิด",
+    "to need ผิด"
+   ],
+   "explanation_th": "have never + V3 → needed"
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "id": "M05-C2",
+ "title": "Mr. Clean",
+ "genre": "เรื่องเล่าขำ ๆ",
+ "level": "B1",
+ "mock": "M05",
+ "text": "Last month, my mother bought a robot vacuum. She was so excited that she gave it a name: Mr. Clean. On its first day, Mr. Clean (1) around the living room happily while we watched. Then it found my little brother's sock and (2) it. The machine stopped and made a sad beeping sound. We had to (3) it upside down to pull the sock out.\nThe next day was worse. Our cat, (4) name is Lucky, had never seen a moving machine before. She jumped on top of it, and Mr. Clean drove around the house (5) Lucky sat on it like a queen. My brother recorded a video and (6) it online. By evening, it (7) by more than 10,000 people. Now our cat is (8) famous than any of us. My mother says Mr. Clean is the best thing she (9) bought. I think she likes it more than (10) do.",
+ "items": [
+  {
+   "id": "M05-C2-1",
+   "skill": "g.tense-past",
+   "difficulty": 1,
+   "stem": "(1) Clean ___ around the living room happily while we watched.",
+   "options": [
+    "moved",
+    "moves",
+    "moving",
+    "was moved"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "moves เป็นปัจจุบัน",
+    "moving ไม่ใช่กริยาแท้",
+    "was moved = ถูกย้าย ความหมายผิด"
+   ],
+   "explanation_th": "เรื่องเล่าอดีต → moved"
+  },
+  {
+   "id": "M05-C2-2",
+   "skill": "g.parallel",
+   "difficulty": 1,
+   "stem": "(2) Then it found my little brother's sock and ___ it.",
+   "options": [
+    "swallows",
+    "swallowing",
+    "swallowed",
+    "was swallowed"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "swallows ไม่ขนาน",
+    "swallowing ไม่ขนาน",
+    null,
+    "was swallowed = ถูกกลืน ความหมายกลับ"
+   ],
+   "explanation_th": "found … and swallowed (V2 ขนาน)"
+  },
+  {
+   "id": "M05-C2-3",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(3) We had to ___ it upside down to pull the sock out.",
+   "options": [
+    "turning",
+    "turn",
+    "turned",
+    "to turn"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "have to turning ผิด",
+    null,
+    "have to turned ผิด",
+    "to to turn ซ้ำ"
+   ],
+   "explanation_th": "have to + V1 → \"turn\""
+  },
+  {
+   "id": "M05-C2-4",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(4) Our cat, ___ name is Lucky, had never seen a moving machine before.",
+   "options": [
+    "which",
+    "who",
+    "that",
+    "whose"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "which name ผิด",
+    "who name ผิด",
+    "that name ผิด",
+    null
+   ],
+   "explanation_th": "ชื่อของแมว → whose name"
+  },
+  {
+   "id": "M05-C2-5",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stem": "(5) Clean drove around the house ___ Lucky sat on it like a queen.",
+   "options": [
+    "during",
+    "so",
+    "unless",
+    "while"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "during ต้องตามด้วยคำนาม",
+    "so ไม่สมเหตุผล",
+    "unless ไม่สมเหตุผล",
+    null
+   ],
+   "explanation_th": "ขณะที่แมวนั่งอยู่ + ประโยค → while"
+  },
+  {
+   "id": "M05-C2-6",
+   "skill": "g.parallel",
+   "difficulty": 1,
+   "stem": "(6) My brother recorded a video and ___ it online.",
+   "options": [
+    "posting",
+    "posted",
+    "to post",
+    "posts"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "posting ไม่ขนาน",
+    null,
+    "to post ไม่ขนาน",
+    "posts ไม่ขนาน"
+   ],
+   "explanation_th": "recorded … and posted"
+  },
+  {
+   "id": "M05-C2-7",
+   "skill": "g.passive",
+   "difficulty": 3,
+   "stem": "(7) By evening, it ___ by more than 10,000 people.",
+   "options": [
+    "has watched",
+    "was watching",
+    "had been watched",
+    "watched"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "has watched = วิดีโอดู ผิด",
+    "was watching ผิด",
+    null,
+    "watched = วิดีโอดู ผิด"
+   ],
+   "explanation_th": "By evening (อดีต) + วิดีโอถูกดู → had been watched"
+  },
+  {
+   "id": "M05-C2-8",
+   "skill": "g.wordform",
+   "difficulty": 1,
+   "stem": "(8) Now our cat is ___ famous than any of us.",
+   "options": [
+    "more",
+    "most",
+    "much",
+    "very"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "most ใช้กับขั้นสุด",
+    "much famous ผิด",
+    "very famous than ผิด"
+   ],
+   "explanation_th": "more + adj + than"
+  },
+  {
+   "id": "M05-C2-9",
+   "skill": "g.tense-past",
+   "difficulty": 2,
+   "stem": "(9) Clean is the best thing she ___ bought.",
+   "options": [
+    "had ever",
+    "has ever",
+    "ever has",
+    "was ever"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "had ever ใช้กับเรื่องเล่าอดีต แต่ประโยคเป็นปัจจุบัน (says)",
+    null,
+    "ลำดับคำผิด",
+    "was ever bought ความหมายผิด"
+   ],
+   "explanation_th": "the best … she has ever bought (present perfect)"
+  },
+  {
+   "id": "M05-C2-10",
+   "skill": "g.sentence",
+   "difficulty": 2,
+   "stem": "(10) I think she likes it more than ___ do.",
+   "options": [
+    "we",
+    "us",
+    "our",
+    "ours"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "us do ผิด",
+    "our do ผิด",
+    "ours do ผิด"
+   ],
+   "explanation_th": "more than we do = มากกว่าที่พวกเราชอบ"
+  }
+ ]
+}

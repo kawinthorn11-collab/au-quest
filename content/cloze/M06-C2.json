@@ -1,0 +1,210 @@
+{
+ "id": "M06-C2",
+ "title": "The Bravest Singer",
+ "genre": "เรื่องเล่าขำ ๆ",
+ "level": "B1",
+ "mock": "M06",
+ "text": "For my father's fiftieth birthday, we took him to a karaoke room. My father loves singing, (1) he is not very good at it. He chose a famous love song and began (2) loudly. Halfway through the song, the waiter came in (3) our drinks. He stopped, listened for a moment, and then asked very seriously, \"Sir, would you like me (4) a doctor?\"\nWe all laughed (5) hard that my sister fell off the sofa. My father, (6) is always a good sport, laughed too. \"If I (7) a better singer,\" he said, \"I would be famous by now.\" For the rest of the evening, the waiter came back every ten minutes (8) if my father was okay.\nWhen we left, he gave my father a small cake with a message: \"Happy birthday to the bravest singer I (9) met.\" My father still keeps a photo of that cake on his desk, and he still sings (10) badly as ever.",
+ "items": [
+  {
+   "id": "M06-C2-1",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stem": "(1) My father loves singing, ___ he is not very good at it.",
+   "options": [
+    "because",
+    "although",
+    "so",
+    "unless"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "because ไม่สมเหตุผล",
+    null,
+    "so ไม่สมเหตุผล",
+    "unless ไม่สมเหตุผล"
+   ],
+   "explanation_th": "ชอบร้อง แม้จะร้องไม่เก่ง = ขัดกัน → \"although\""
+  },
+  {
+   "id": "M06-C2-2",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(2) He chose a famous love song and began ___ loudly.",
+   "options": [
+    "sung",
+    "sings",
+    "to singing",
+    "singing"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "sung ผิดรูป",
+    "sings ผิดรูป",
+    "to singing ผิดรูป",
+    null
+   ],
+   "explanation_th": "begin + V-ing → began singing"
+  },
+  {
+   "id": "M06-C2-3",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(3) Halfway through the song, the waiter came in ___ our drinks.",
+   "options": [
+    "by",
+    "of",
+    "at",
+    "with"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "by our drinks ผิดความหมาย",
+    "of our drinks ผิด",
+    "at our drinks ผิด",
+    null
+   ],
+   "explanation_th": "came in with our drinks = เข้ามาพร้อมเครื่องดื่ม"
+  },
+  {
+   "id": "M06-C2-4",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(4) He stopped, listened for a moment, and then asked very seriously, \"Sir, would you like me ___ a doctor?\"",
+   "options": [
+    "calling",
+    "to call",
+    "call",
+    "called"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "would like me calling ผิด",
+    null,
+    "ขาด to",
+    "called ผิด"
+   ],
+   "explanation_th": "would like + sb + to V"
+  },
+  {
+   "id": "M06-C2-5",
+   "skill": "g.fixed",
+   "difficulty": 1,
+   "stem": "(5) We all laughed ___ hard that my sister fell off the sofa.",
+   "options": [
+    "such",
+    "too",
+    "so",
+    "very"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "such ต้องมีคำนาม",
+    "too … that ผิด",
+    null,
+    "very … that ผิด"
+   ],
+   "explanation_th": "so + adv + that"
+  },
+  {
+   "id": "M06-C2-6",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(6) My father, ___ is always a good sport, laughed too.",
+   "options": [
+    "who",
+    "which",
+    "whose",
+    "that"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "which ใช้กับสิ่ง",
+    "whose ต้องตามด้วยคำนาม",
+    "หลัง comma ใช้ that ไม่ได้"
+   ],
+   "explanation_th": "ขยายคน หลัง comma → who"
+  },
+  {
+   "id": "M06-C2-7",
+   "skill": "g.conditional",
+   "difficulty": 2,
+   "stem": "(7) \"If I ___ a better singer,\"",
+   "options": [
+    "am",
+    "were",
+    "will be",
+    "being"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "am ไม่ใช้กับ would",
+    null,
+    "หลัง if ไม่ใช้ will",
+    "being วางหลัง If I เป็นกริยาแท้ไม่ได้"
+   ],
+   "explanation_th": "If + were, would (สมมุติปัจจุบัน)"
+  },
+  {
+   "id": "M06-C2-8",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(8) For the rest of the evening, the waiter came back every ten minutes ___ if my father was okay.",
+   "options": [
+    "to check",
+    "checks",
+    "check",
+    "checked"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "checks เป็นกริยาแท้ปัจจุบัน ต่อท้าย came back ... ten minutes ตรงนี้ไม่ได้ ต้องใช้ to check บอกจุดประสงค์",
+    "ขาด to",
+    "checked ผิด"
+   ],
+   "explanation_th": "came back to check = กลับมาเพื่อตรวจดู (จุดประสงค์)"
+  },
+  {
+   "id": "M06-C2-9",
+   "skill": "g.tense-past",
+   "difficulty": 2,
+   "stem": "(9) When we left, he gave my father a small cake with a message: \"Happy birthday to the bravest singer I ___ met.\"",
+   "options": [
+    "had ever",
+    "ever have",
+    "have ever",
+    "was ever"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "had ever ใช้กับจุดอ้างอิงในอดีต",
+    "ลำดับคำผิด",
+    null,
+    "was ever met ผิด"
+   ],
+   "explanation_th": "the bravest … I have ever met"
+  },
+  {
+   "id": "M06-C2-10",
+   "skill": "g.fixed",
+   "difficulty": 2,
+   "stem": "(10) My father still keeps a photo of that cake on his desk, and he still sings ___ badly as ever.",
+   "options": [
+    "so",
+    "such",
+    "too",
+    "as"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "so badly as ever ไม่ใช่สำนวนนี้",
+    "such badly ผิด",
+    "too badly as ผิด",
+    null
+   ],
+   "explanation_th": "as badly as ever = แย่เหมือนเดิม"
+  }
+ ]
+}

@@ -1,0 +1,224 @@
+{
+ "id": "M08-R2",
+ "title": "Lost in Tokyo",
+ "topic": "ประสบการณ์ส่วนตัว",
+ "level": "B1",
+ "mock": "M08",
+ "lines": [
+  "Last year, I went to Tokyo with my school for a cultural exchange. On the",
+  "third day, I stopped to take a photo of a temple, and when I turned",
+  "around, my group was gone. My phone battery was dead, and I could not",
+  "read any of the signs. I felt my heart beating fast.",
+  "I remembered our teacher's advice: \"If you get lost, stay calm and ask",
+  "for help.\" So I walked into a small shop and showed the owner the hotel",
+  "card in my wallet. **She** did not speak English, and I did not speak",
+  "Japanese, but she smiled, closed her shop and walked with me for",
+  "twenty minutes to the hotel. When we arrived, my teacher ran out, looking",
+  "pale. **She** had been searching for an hour. I tried to give the shop",
+  "owner some money, but **she** shook her head and bowed. I still do not know",
+  "her name. Since that day, whenever I see a lost tourist in Bangkok, I",
+  "stop to help. It is my way of thanking **her**."
+ ],
+ "questions": [
+  {
+   "id": "M08-R2-1",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'She' in line 7 refers to ___.",
+   "options": [
+    "the teacher",
+    "the writer",
+    "the shop owner",
+    "a tourist"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ครูยังไม่ปรากฏ",
+    "ผู้เขียนเป็นคนเล่า",
+    null,
+    "ไม่ใช่"
+   ],
+   "explanation_th": "showed the owner the hotel card. She did not speak English"
+  },
+  {
+   "id": "M08-R2-2",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'She' in line 10 refers to ___.",
+   "options": [
+    "the shop owner",
+    "the teacher",
+    "the writer",
+    "the hotel manager"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "เจ้าของร้านเดินมาด้วย ไม่ได้ตามหา",
+    null,
+    "ผู้เขียนเป็นคนหลง",
+    "ไม่มี"
+   ],
+   "explanation_th": "my teacher ran out … She had been searching for an hour"
+  },
+  {
+   "id": "M08-R2-3",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'she' in line 11 refers to ___.",
+   "options": [
+    "the teacher",
+    "the writer",
+    "a classmate",
+    "the shop owner"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ครูไม่ได้รับเงิน",
+    "ผู้เขียนเป็นคนให้",
+    "ไม่มี",
+    null
+   ],
+   "explanation_th": "tried to give the shop owner money, but she shook her head"
+  },
+  {
+   "id": "M08-R2-4",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'her' in line 13 refers to ___.",
+   "options": [
+    "the teacher",
+    "a lost tourist",
+    "the writer's mother",
+    "the shop owner"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ไม่ใช่คนที่ไม่รู้ชื่อ",
+    "เป็นคนที่ผู้เขียนช่วย ไม่ใช่คนที่ขอบคุณ",
+    "ไม่ได้อยู่ในเรื่อง",
+    null
+   ],
+   "explanation_th": "ขอบคุณเจ้าของร้านที่ไม่รู้ชื่อ"
+  },
+  {
+   "id": "M08-R2-5",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "How did the writer get lost?",
+   "options": [
+    "She took the wrong train.",
+    "She stopped to take a photo.",
+    "She went shopping alone.",
+    "She left the hotel at night."
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ไม่มีในบทความ",
+    null,
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ"
+   ],
+   "explanation_th": "stopped to take a photo … my group was gone"
+  },
+  {
+   "id": "M08-R2-6",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "What made the situation more difficult?",
+   "options": [
+    "It was raining heavily.",
+    "She had no money.",
+    "Her phone was dead and she could not read the signs.",
+    "The shop was closed."
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ไม่มีในบทความ",
+    "เธอมีเงิน (พยายามให้)",
+    null,
+    "ร้านเปิดอยู่"
+   ],
+   "explanation_th": "บรรทัด 3–4"
+  },
+  {
+   "id": "M08-R2-7",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "What was the teacher's advice?",
+   "options": [
+    "Stay calm and ask for help.",
+    "Call the police.",
+    "Wait at the temple.",
+    "Take a taxi."
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ"
+   ],
+   "explanation_th": "บรรทัด 5–6"
+  },
+  {
+   "id": "M08-R2-8",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "How did the shop owner help?",
+   "options": [
+    "She called the teacher.",
+    "She walked with the writer to the hotel.",
+    "She drew a map.",
+    "She gave the writer money."
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ไม่มีในบทความ",
+    null,
+    "ไม่มีในบทความ",
+    "กลับกัน"
+   ],
+   "explanation_th": "walked with me for twenty minutes to the hotel"
+  },
+  {
+   "id": "M08-R2-9",
+   "skill": "r.not-true",
+   "difficulty": 2,
+   "stem": "Which statement is NOT true?",
+   "options": [
+    "The shop owner accepted some money.",
+    "The shop owner closed her shop to help.",
+    "The teacher had been searching for an hour.",
+    "The writer does not know the shop owner's name."
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "จริง",
+    "จริง",
+    "จริง"
+   ],
+   "explanation_th": "she shook her head = ปฏิเสธเงิน"
+  },
+  {
+   "id": "M08-R2-10",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "Why does the writer help lost tourists in Bangkok?",
+   "options": [
+    "Because her teacher told her to",
+    "To practice Japanese",
+    "To repay the kindness she received in Tokyo",
+    "Because she works in tourism"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ไม่มีหลักฐาน",
+    "ไม่มีหลักฐาน",
+    null,
+    "ไม่มีหลักฐาน"
+   ],
+   "explanation_th": "It is my way of thanking her"
+  }
+ ]
+}

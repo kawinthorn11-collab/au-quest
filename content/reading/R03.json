@@ -1,0 +1,182 @@
+{
+ "id": "R03",
+ "title": "Why Do We Yawn?",
+ "topic": "วิทยาศาสตร์",
+ "level": "A2",
+ "lines": [
+  "Everybody yawns. Babies yawn even before **they** are born, and many",
+  "animals, such as dogs and cats, yawn too. But why do we do it?",
+  "For a long time, people believed that we yawn because our bodies need",
+  "more oxygen. Today, many scientists do not agree with **this** idea. In",
+  "one experiment, people breathed air with extra oxygen, but they still",
+  "yawned as often as before. Some scientists now think that yawning helps",
+  "to cool the brain. When we open our mouths wide and take a deep breath,",
+  "cool air moves into the head. A brain that is a little cooler may work",
+  "better, so we can stay awake and pay attention.",
+  "Yawning is also \"catching.\" If you see someone yawn, you will probably",
+  "yawn too. Studies show that people yawn more after watching **those** they",
+  "know well, like family and friends, than after watching strangers."
+ ],
+ "questions": [
+  {
+   "id": "R03-1",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'they' in line 1 refers to ___.",
+   "options": [
+    "animals",
+    "babies",
+    "scientists",
+    "people who yawn"
+   ],
+   "answer": 1,
+   "explanation_th": "Babies yawn even before they (babies) are born",
+   "why_wrong": [
+    "animals พูดถึงหลังจากนั้น",
+    null,
+    "นักวิทยาศาสตร์ไม่ได้เกิด",
+    "เป็นคำกว้างเกินไป ประโยคหมายถึงทารก"
+   ]
+  },
+  {
+   "id": "R03-2",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'this' in line 4 refers to the idea that ___.",
+   "options": [
+    "we yawn because we need more oxygen",
+    "yawning cools the brain",
+    "animals yawn too",
+    "yawning is catching"
+   ],
+   "answer": 0,
+   "explanation_th": "ความคิดที่เพิ่งพูดในประโยคก่อนหน้า: yawn because our bodies need more oxygen",
+   "why_wrong": [
+    null,
+    "เป็นความคิดใหม่ที่มาทีหลัง",
+    "ไม่ใช่ \"idea\" ที่นักวิทยาศาสตร์ไม่เห็นด้วย",
+    "พูดถึงในย่อหน้าสุดท้าย"
+   ]
+  },
+  {
+   "id": "R03-3",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'those' in line 11 refers to ___.",
+   "options": [
+    "scientists",
+    "strangers",
+    "people",
+    "studies"
+   ],
+   "answer": 2,
+   "explanation_th": "those they know well = คนที่เรารู้จักดี (people) เช่น ครอบครัวและเพื่อน",
+   "why_wrong": [
+    "นักวิทยาศาสตร์ไม่ได้อยู่ในประโยคนี้",
+    "strangers คือฝั่งตรงข้ามที่ถูกเปรียบเทียบ",
+    null,
+    "การศึกษาไม่ใช่สิ่งที่เรา \"watch\""
+   ]
+  },
+  {
+   "id": "R03-4",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "What happened in the experiment with extra oxygen?",
+   "options": [
+    "People stopped yawning.",
+    "People yawned more.",
+    "People felt cooler.",
+    "People yawned the same amount."
+   ],
+   "answer": 3,
+   "explanation_th": "บรรทัด 5–6: they still yawned as often as before",
+   "why_wrong": [
+    "ถ้าหยุดหาว แนวคิดเรื่องออกซิเจนจะถูก",
+    "ไม่ได้หาวมากขึ้น แค่เท่าเดิม",
+    "การทดลองนี้ไม่ได้วัดความเย็น",
+    null
+   ]
+  },
+  {
+   "id": "R03-5",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "According to some scientists, a cooler brain ___.",
+   "options": [
+    "needs less oxygen",
+    "may help us stay awake",
+    "makes us yawn more",
+    "is found only in babies"
+   ],
+   "answer": 1,
+   "explanation_th": "บรรทัด 8–9: A brain that is a little cooler may work better, so we can stay awake",
+   "why_wrong": [
+    "ไม่ได้พูดเรื่องออกซิเจนในส่วนนี้",
+    null,
+    "กลับกัน การหาวทำให้สมองเย็น",
+    "ไม่มีข้อมูลแบบนี้"
+   ]
+  },
+  {
+   "id": "R03-6",
+   "skill": "r.vocab",
+   "difficulty": 2,
+   "stem": "In line 10, yawning is \"catching\" means ___.",
+   "options": [
+    "it is dangerous",
+    "it happens when we are hungry",
+    "it spreads from one person to another",
+    "it is difficult to stop"
+   ],
+   "answer": 2,
+   "explanation_th": "ประโยคถัดไปอธิบาย: ถ้าเห็นคนหาว เราก็จะหาวตาม = ติดต่อกันได้",
+   "why_wrong": [
+    "ไม่มีอะไรบอกว่าอันตราย",
+    "ไม่เกี่ยวกับความหิว",
+    null,
+    "บทความไม่ได้พูดว่าหยุดยาก"
+   ]
+  },
+  {
+   "id": "R03-7",
+   "skill": "r.not-true",
+   "difficulty": 2,
+   "stem": "Which statement is NOT true according to the passage?",
+   "options": [
+    "Dogs and cats yawn.",
+    "All scientists now agree on why we yawn.",
+    "Yawning may help the brain work better.",
+    "People yawn more after seeing a friend yawn."
+   ],
+   "answer": 1,
+   "explanation_th": "บทความใช้คำว่า some scientists think และ many do not agree แปลว่ายังไม่ตกลงกันทั้งหมด",
+   "why_wrong": [
+    "จริง บรรทัด 2",
+    null,
+    "จริง บรรทัด 8–9",
+    "จริง บรรทัด 11–12"
+   ]
+  },
+  {
+   "id": "R03-8",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "You are most likely to yawn after seeing ___ yawn.",
+   "options": [
+    "a stranger on a bus",
+    "a dog on TV",
+    "your brother",
+    "a baby you have never met"
+   ],
+   "answer": 2,
+   "explanation_th": "คนที่รู้จักดี (ครอบครัว เพื่อน) ทำให้หาวตามมากที่สุด พี่ชายจึงเป็นคำตอบ",
+   "why_wrong": [
+    "คนแปลกหน้าทำให้หาวตามน้อยกว่า",
+    "บทความไม่ได้เปรียบเทียบเรื่องสัตว์ในทีวี",
+    null,
+    "ทารกที่ไม่รู้จักก็คือคนแปลกหน้า"
+   ]
+  }
+ ]
+}

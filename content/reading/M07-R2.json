@@ -1,0 +1,225 @@
+{
+ "id": "M07-R2",
+ "title": "My Grandfather's Shop",
+ "topic": "ประสบการณ์ส่วนตัว",
+ "level": "B1",
+ "mock": "M07",
+ "lines": [
+  "My grandfather has run a small hardware shop in our town for forty",
+  "years. When I was young, I thought **it** was the most boring place in the",
+  "world: dusty shelves, boxes of nails and old men talking about pipes.",
+  "Last summer, he hurt his back and asked me to help **him** for a month. I",
+  "agreed only because my parents insisted. On the first day, a woman came",
+  "in looking worried. Her kitchen tap was leaking, and she could not afford",
+  "a plumber. My grandfather spent twenty minutes drawing a picture to show",
+  "her how to fix **it** herself, and he sold her a part that cost 35 baht. A",
+  "week later, she came back with a bag of mangoes to thank him.",
+  "That kind of thing happened again and again. People did not just come to",
+  "buy things; they came for advice, and sometimes just to talk. I realized",
+  "that the shop was not really about selling. **It** was about helping people",
+  "solve problems. When the month ended, I asked if I could keep working on",
+  "Saturdays. My grandfather smiled. \"I thought **you** might,\" he said."
+ ],
+ "questions": [
+  {
+   "id": "M07-R2-1",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'it' in line 2 refers to ___.",
+   "options": [
+    "the town",
+    "the world",
+    "a box of nails",
+    "the grandfather's hardware shop"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "กว้างเกินไป",
+    "ไม่ใช่ใจความ",
+    "แคบเกินไป",
+    null
+   ],
+   "explanation_th": "ร้านที่ผู้เขียนคิดว่าน่าเบื่อ"
+  },
+  {
+   "id": "M07-R2-2",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'him' in line 4 refers to ___.",
+   "options": [
+    "the writer",
+    "the grandfather",
+    "a plumber",
+    "the writer's father"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ผู้เขียนเป็นผู้ช่วย",
+    null,
+    "ช่างประปามาทีหลังและไม่ได้มาจริง",
+    "ไม่ได้อยู่ในประโยค"
+   ],
+   "explanation_th": "he hurt his back and asked me to help him"
+  },
+  {
+   "id": "M07-R2-3",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'it' in line 8 refers to ___.",
+   "options": [
+    "the leaking kitchen tap",
+    "the picture",
+    "the shop",
+    "the part"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "รูปวาดไม่ต้องซ่อม",
+    "ร้านไม่ได้เสีย",
+    "อะไหล่คือของที่ใช้ซ่อม"
+   ],
+   "explanation_th": "show her how to fix it (the tap) herself"
+  },
+  {
+   "id": "M07-R2-4",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'It' in line 12 refers to ___.",
+   "options": [
+    "selling",
+    "advice",
+    "the shop",
+    "the month"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ประโยคบอกว่าไม่ใช่เรื่องการขาย",
+    "คำแนะนำเป็นส่วนหนึ่ง ไม่ใช่ประธาน",
+    null,
+    "ไม่ใช่"
+   ],
+   "explanation_th": "the shop was not really about selling. It (the shop) was about helping"
+  },
+  {
+   "id": "M07-R2-5",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'you' in line 14 refers to ___.",
+   "options": [
+    "the woman",
+    "the writer",
+    "the customers",
+    "the parents"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ไม่ได้อยู่ในฉาก",
+    null,
+    "ไม่ได้อยู่ในฉาก",
+    "ไม่ได้อยู่ในฉาก"
+   ],
+   "explanation_th": "คุณปู่พูดกับหลานที่ขอทำงานต่อ"
+  },
+  {
+   "id": "M07-R2-6",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Why did the writer agree to help at first?",
+   "options": [
+    "He loved hardware.",
+    "He needed money.",
+    "His friends worked there.",
+    "His parents insisted."
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ขัดกับบทความ (คิดว่าน่าเบื่อ)",
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ",
+    null
+   ],
+   "explanation_th": "agreed only because my parents insisted"
+  },
+  {
+   "id": "M07-R2-7",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "What was the woman's problem?",
+   "options": [
+    "She had broken her back.",
+    "She wanted to buy mangoes.",
+    "Her shop was losing money.",
+    "Her tap was leaking and she could not afford a plumber."
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "คุณปู่เจ็บหลัง (สลับคน)",
+    "เธอนำมะม่วงมาให้ทีหลัง",
+    "ไม่มีในบทความ",
+    null
+   ],
+   "explanation_th": "บรรทัด 6–7"
+  },
+  {
+   "id": "M07-R2-8",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "How did the grandfather help the woman?",
+   "options": [
+    "He fixed it at her house.",
+    "He showed her how to fix the tap herself.",
+    "He called a plumber for her.",
+    "He gave her a new kitchen."
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ไม่มีในบทความ",
+    null,
+    "ไม่มีในบทความ",
+    "เกินจริง"
+   ],
+   "explanation_th": "drawing a picture to show her how to fix it herself (ถอดความ)"
+  },
+  {
+   "id": "M07-R2-9",
+   "skill": "r.detail",
+   "difficulty": 3,
+   "stem": "What did the writer realize?",
+   "options": [
+    "Selling nails makes a lot of money.",
+    "Old men like to talk about pipes.",
+    "The shop was really about helping people.",
+    "His grandfather wanted to retire."
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ไม่มีหลักฐาน",
+    "เป็นความคิดตอนเด็ก",
+    null,
+    "ไม่มีหลักฐาน"
+   ],
+   "explanation_th": "บรรทัด 11–13 (ถอดความ)"
+  },
+  {
+   "id": "M07-R2-10",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "The grandfather's reply \"I thought you might\" suggests that he ___.",
+   "options": [
+    "expected the writer to enjoy the work",
+    "was surprised by the request",
+    "wanted the writer to leave",
+    "did not need help"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ขัดกับคำพูด",
+    "ขัดกับรอยยิ้ม",
+    "ไม่มีหลักฐาน"
+   ],
+   "explanation_th": "เขาคาดไว้แล้วว่าหลานจะขอทำต่อ"
+  }
+ ]
+}

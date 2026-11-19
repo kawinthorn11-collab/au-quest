@@ -1,0 +1,224 @@
+{
+ "id": "M02-R1",
+ "title": "The Octopus Who Escaped",
+ "topic": "วิทยาศาสตร์/ข่าว",
+ "level": "B1",
+ "mock": "M02",
+ "lines": [
+  "Octopuses are famous for being clever, but one octopus in New Zealand",
+  "surprised even the scientists who studied **it**. Inky, as the aquarium staff",
+  "called him, had lived there for two years. One night, a worker forgot to",
+  "close the top of his tank completely. Inky climbed out, crossed the floor",
+  "and squeezed into a narrow pipe that led to the ocean. In the morning, **he**",
+  "was gone. Only a wet trail on the floor showed where he had traveled.",
+  "Octopuses have no bones, so they can fit through any hole bigger than",
+  "**their** beak, the only hard part of their body. They also have about 500",
+  "million nerve cells, two-thirds of **which** are in their arms. This means",
+  "each arm can \"think\" and act partly on its own.",
+  "The aquarium staff were not angry. \"He was a curious fellow,\" the manager",
+  "said. \"**That** is exactly why visitors loved him.\" The pipe has now been",
+  "covered, but **many** still visit the tank and hope to see a new Inky."
+ ],
+ "questions": [
+  {
+   "id": "M02-R1-1",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'it' in line 2 refers to ___.",
+   "options": [
+    "the octopus in New Zealand",
+    "the scientists",
+    "New Zealand",
+    "the aquarium"
+   ],
+   "answer": 0,
+   "explanation_th": "one octopus … surprised the scientists who studied it (the octopus)",
+   "why_wrong": [
+    null,
+    "นักวิทยาศาสตร์เป็นคนศึกษา ไม่ใช่สิ่งที่ถูกศึกษา",
+    "ประเทศไม่ได้ถูกศึกษาในบริบทนี้",
+    "พิพิธภัณฑ์ยังไม่ถูกพูดถึง"
+   ]
+  },
+  {
+   "id": "M02-R1-2",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'he' in line 5 refers to ___.",
+   "options": [
+    "a worker",
+    "Inky",
+    "the manager",
+    "a scientist"
+   ],
+   "answer": 1,
+   "explanation_th": "Inky climbed out … In the morning, he (Inky) was gone",
+   "why_wrong": [
+    "พนักงานไม่ได้หายไป",
+    null,
+    "ผู้จัดการพูดทีหลัง",
+    "ไม่มีนักวิทยาศาสตร์หายไป"
+   ]
+  },
+  {
+   "id": "M02-R1-3",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'their' in line 8 refers to ___.",
+   "options": [
+    "the scientists'",
+    "the workers'",
+    "the octopuses'",
+    "the pipes'"
+   ],
+   "answer": 2,
+   "explanation_th": "Octopuses … bigger than their (octopuses') beak",
+   "why_wrong": [
+    "คนไม่มีจะงอยปาก",
+    "คนไม่มีจะงอยปาก",
+    null,
+    "ท่อไม่มีจะงอยปาก"
+   ]
+  },
+  {
+   "id": "M02-R1-4",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'which' in line 9 refers to ___.",
+   "options": [
+    "their arms",
+    "their bones",
+    "octopuses",
+    "the nerve cells"
+   ],
+   "answer": 3,
+   "explanation_th": "two-thirds of which (nerve cells) are in their arms",
+   "why_wrong": [
+    "แขนไม่ได้อยู่ \"ในแขน\"",
+    "ปลาหมึกไม่มีกระดูก",
+    "ปลาหมึกทั้งตัวไม่ได้อยู่ในแขน",
+    null
+   ]
+  },
+  {
+   "id": "M02-R1-5",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'That' in line 12 refers to ___.",
+   "options": [
+    "Inky's curiosity",
+    "Inky's escape",
+    "the wet trail",
+    "the narrow pipe"
+   ],
+   "answer": 0,
+   "explanation_th": "He was a curious fellow. That (การที่มันขี้สงสัย) is why visitors loved him",
+   "why_wrong": [
+    null,
+    "การหนีเกิดหลังคนมาชอบมันแล้ว",
+    "รอยน้ำไม่ใช่เหตุที่คนชอบ",
+    "ท่อไม่ใช่เหตุที่คนชอบ"
+   ]
+  },
+  {
+   "id": "M02-R1-6",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'many' in line 13 refers to ___.",
+   "options": [
+    "many octopuses",
+    "many visitors",
+    "many workers",
+    "many pipes"
+   ],
+   "answer": 1,
+   "explanation_th": "many (visitors) still visit the tank",
+   "why_wrong": [
+    "ปลาหมึกไม่ได้มาเยี่ยมตู้",
+    null,
+    "พนักงานทำงานอยู่ที่นั่นแล้ว",
+    "ท่อมาเยี่ยมไม่ได้"
+   ]
+  },
+  {
+   "id": "M02-R1-7",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "How did Inky escape?",
+   "options": [
+    "A worker carried him to the sea.",
+    "He broke the glass of his tank.",
+    "He went through a narrow pipe to the ocean.",
+    "He was released by the manager."
+   ],
+   "answer": 2,
+   "explanation_th": "บรรทัด 4–5: squeezed into a narrow pipe that led to the ocean",
+   "why_wrong": [
+    "ไม่มีใครพาไป",
+    "ฝาตู้ปิดไม่สนิท ไม่ได้ทำกระจกแตก",
+    null,
+    "ผู้จัดการไม่ได้ปล่อย"
+   ]
+  },
+  {
+   "id": "M02-R1-8",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Octopuses can pass through very small holes because ___.",
+   "options": [
+    "they are very clever",
+    "they have many nerve cells",
+    "they are very small animals",
+    "they have no bones"
+   ],
+   "answer": 3,
+   "explanation_th": "บรรทัด 7: have no bones, so they can fit through any hole",
+   "why_wrong": [
+    "ความฉลาดไม่ได้ทำให้ตัวผ่านรูได้",
+    "เซลล์ประสาทเกี่ยวกับการคิด ไม่ใช่ขนาด",
+    "บทความไม่ได้พูดว่าตัวเล็ก",
+    null
+   ]
+  },
+  {
+   "id": "M02-R1-9",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "The passage suggests that an octopus arm ___.",
+   "options": [
+    "can make some decisions by itself",
+    "is the hardest part of its body",
+    "cannot move without the brain",
+    "has bones inside"
+   ],
+   "answer": 0,
+   "explanation_th": "each arm can \"think\" and act partly on its own",
+   "why_wrong": [
+    null,
+    "ส่วนที่แข็งคือจะงอยปาก",
+    "ตรงข้าม",
+    "ปลาหมึกไม่มีกระดูก"
+   ]
+  },
+  {
+   "id": "M02-R1-10",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "How did the aquarium staff react to the escape?",
+   "options": [
+    "They punished the worker.",
+    "They accepted it calmly.",
+    "They closed the aquarium.",
+    "They tried to catch Inky in the sea."
+   ],
+   "answer": 1,
+   "explanation_th": "บรรทัด 11: were not angry (ถอดความ = ยอมรับอย่างสงบ)",
+   "why_wrong": [
+    "ไม่มีข้อมูล",
+    null,
+    "ไม่มีข้อมูล",
+    "ไม่มีข้อมูล"
+   ]
+  }
+ ]
+}

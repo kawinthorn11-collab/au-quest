@@ -1,0 +1,224 @@
+{
+ "id": "M04-R3",
+ "title": "Students and Part-Time Jobs",
+ "topic": "ข่าว/ผลสำรวจ",
+ "level": "B1",
+ "mock": "M04",
+ "lines": [
+  "A survey of 3,000 Thai university students found that nearly half of",
+  "**them** have a part-time job. The most common jobs are working in cafés,",
+  "tutoring younger students and selling products online. Most students",
+  "work between ten and fifteen hours a week.",
+  "Money is the main reason. About 60 percent said **they** work to pay for",
+  "living costs such as food and transport, while **some** save for travel or",
+  "new phones. However, the survey also found a worrying trend: students who",
+  "work more than twenty hours a week are twice as likely to fail a course.",
+  "Universities are now trying to help. **Several** have created on-campus",
+  "jobs with flexible hours, so that students do not have to travel far.",
+  "**These** jobs usually pay less than jobs outside, but students say the",
+  "time they save is worth more. Experts advise students to treat study as",
+  "their main job and to keep part-time work below fifteen hours a week."
+ ],
+ "questions": [
+  {
+   "id": "M04-R3-1",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'them' in line 2 refers to ___.",
+   "options": [
+    "the university students in the survey",
+    "the part-time jobs",
+    "the cafés",
+    "younger students"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "งานไม่ได้มีงานทำ",
+    "ร้านกาแฟไม่ได้ทำงาน",
+    "นักเรียนรุ่นน้องคือคนที่ถูกสอน"
+   ],
+   "explanation_th": "nearly half of them (นักศึกษาที่ถูกสำรวจ)"
+  },
+  {
+   "id": "M04-R3-2",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'they' in line 5 refers to ___.",
+   "options": [
+    "all Thai students",
+    "the experts",
+    "about 60 percent of the students",
+    "the universities"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "กว้างเกินไป",
+    "ผู้เชี่ยวชาญพูดถึงทีหลัง",
+    null,
+    "มหาวิทยาลัยไม่ได้ทำงานพาร์ทไทม์"
+   ],
+   "explanation_th": "About 60 percent said they work…"
+  },
+  {
+   "id": "M04-R3-3",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'some' in line 6 refers to ___.",
+   "options": [
+    "some jobs",
+    "some phones",
+    "some students",
+    "some universities"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "งานเก็บเงินไม่ได้",
+    "โทรศัพท์คือสิ่งที่ซื้อ",
+    null,
+    "มหาวิทยาลัยพูดถึงทีหลัง"
+   ],
+   "explanation_th": "some (students) save for travel"
+  },
+  {
+   "id": "M04-R3-4",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'Several' in line 9 refers to ___.",
+   "options": [
+    "several universities",
+    "several students",
+    "several jobs",
+    "several surveys"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "นักศึกษาไม่ได้สร้างงาน",
+    "งานสร้างงานไม่ได้",
+    "มีการสำรวจครั้งเดียว"
+   ],
+   "explanation_th": "Universities are now trying to help. Several (universities) have created…"
+  },
+  {
+   "id": "M04-R3-5",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'These' in line 11 refers to ___.",
+   "options": [
+    "jobs outside the university",
+    "café jobs",
+    "online sales",
+    "on-campus jobs with flexible hours"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ถูกเปรียบเทียบว่าจ่ายมากกว่า",
+    "ไม่ใช่สิ่งที่เพิ่งพูด",
+    "ไม่ใช่สิ่งที่เพิ่งพูด",
+    null
+   ],
+   "explanation_th": "These jobs = งานในมหาวิทยาลัยที่เพิ่งพูด"
+  },
+  {
+   "id": "M04-R3-6",
+   "skill": "r.not-true",
+   "difficulty": 2,
+   "stem": "Which is NOT one of the most common jobs mentioned?",
+   "options": [
+    "Working in cafés",
+    "Working in factories",
+    "Tutoring younger students",
+    "Selling products online"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ถูกพูดถึง",
+    null,
+    "ถูกพูดถึง",
+    "ถูกพูดถึง"
+   ],
+   "explanation_th": "โรงงานไม่ได้ถูกพูดถึง"
+  },
+  {
+   "id": "M04-R3-7",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "Most students work part-time mainly to ___.",
+   "options": [
+    "pay for daily living costs",
+    "travel abroad",
+    "buy new phones",
+    "gain work experience"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "เป็นเหตุผลของ \"บางคน\"",
+    "เป็นเหตุผลของ \"บางคน\"",
+    "ไม่มีในบทความ"
+   ],
+   "explanation_th": "pay for living costs such as food and transport (ถอดความ)"
+  },
+  {
+   "id": "M04-R3-8",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Students who work more than twenty hours a week ___.",
+   "options": [
+    "earn the most money",
+    "usually work on campus",
+    "are more likely to fail a course",
+    "get better grades"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ",
+    null,
+    "ตรงข้าม"
+   ],
+   "explanation_th": "twice as likely to fail a course"
+  },
+  {
+   "id": "M04-R3-9",
+   "skill": "r.detail",
+   "difficulty": 3,
+   "stem": "Which is true about on-campus jobs?",
+   "options": [
+    "They pay more than outside jobs.",
+    "They pay less but save students time.",
+    "They require twenty hours a week.",
+    "Students dislike them."
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ตรงข้าม",
+    null,
+    "ไม่มีในบทความ",
+    "ตรงข้าม"
+   ],
+   "explanation_th": "pay less … the time they save is worth more"
+  },
+  {
+   "id": "M04-R3-10",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stem": "The experts would probably advise a student who works 25 hours a week to ___.",
+   "options": [
+    "find a second job",
+    "stop studying",
+    "work at night instead",
+    "reduce his working hours"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ขัดกับคำแนะนำ",
+    "ขัดกับคำแนะนำ",
+    "ไม่มีหลักฐาน",
+    null
+   ],
+   "explanation_th": "แนะนำให้ทำงานต่ำกว่า 15 ชม./สัปดาห์ และให้การเรียนเป็นงานหลัก"
+  }
+ ]
+}

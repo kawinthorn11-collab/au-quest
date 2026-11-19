@@ -1,0 +1,36 @@
+{
+  "conj": [
+    { "s": "I studied hard, ___ I still felt nervous before the test.", "a": "but", "opts": ["but", "because", "so", "or"] },
+    { "s": "Hurry up, ___ you will miss the bus.", "a": "or", "opts": ["or", "and", "but", "because"] },
+    { "s": "___ it was raining, we played football outside.", "a": "Although", "opts": ["Although", "Because", "So", "Or"] },
+    { "s": "She stayed at home ___ she had a bad cold.", "a": "because", "opts": ["because", "although", "but", "or"] },
+    { "s": "The shop was closed, ___ we went to another one.", "a": "so", "opts": ["so", "because", "although", "whether"] },
+    { "s": "I'm not sure ___ he will come to the party.", "a": "whether", "opts": ["whether", "because", "although", "so"] },
+    { "s": "___ I feel sad, I listen to my favorite song.", "a": "Whenever", "opts": ["Whenever", "Whatever", "Although", "So"] },
+    { "s": "You can eat ___ you like. There is a lot of food.", "a": "whatever", "opts": ["whatever", "whenever", "however", "whether"] },
+    { "s": "Wear a jacket, ___ you'll feel cold on the mountain.", "a": "or", "opts": ["or", "so", "but", "because"] },
+    { "s": "He is very rich, ___ he never seems happy.", "a": "but", "opts": ["but", "so", "because", "or"] },
+    { "s": "___ she was tired, she finished all her homework.", "a": "Although", "opts": ["Although", "Because", "So", "Whenever"] },
+    { "s": "It was very hot, ___ we turned on the fan.", "a": "so", "opts": ["so", "although", "or", "whether"] },
+    { "s": "We will go to the beach ___ it is sunny tomorrow.", "a": "if", "opts": ["if", "although", "but", "so"] },
+    { "s": "I don't know ___ to laugh or cry.", "a": "whether", "opts": ["whether", "because", "although", "so"] }
+  ],
+  "pronoun": [
+    { "text": "Ben has a little sister. **She** loves drawing animals. Every evening Ben helps **her** with **her** homework, and then **they** watch cartoons together.", "pairs": [["She", "Ben's sister"], ["her (helps her)", "Ben's sister"], ["they", "Ben and his sister"], ["her homework", "the sister's homework"]] },
+    { "text": "Many students feel nervous before exams. **This** is normal. Teachers say **it** helps to sleep well. **Some** also listen to music to relax, but **others** prefer to read.", "pairs": [["This", "feeling nervous before exams"], ["it (helps to sleep)", "sleeping well (the idea)"], ["Some", "some students"], ["others", "other students"]] },
+    { "text": "The city built a new park last year. **It** has a big lake. Families go **there** on weekends, and **many** bring food for picnics. The mayor said **this** was the best project of **his** career.", "pairs": [["It", "the new park"], ["there", "the park"], ["many", "many families"], ["this", "building the new park"], ["his", "the mayor's"]] },
+    { "text": "Dr. Nam met two students in the library. **He** asked **them** about **their** project. **One** wanted to study robots; **the other** was interested in plants.", "pairs": [["He", "Dr. Nam"], ["them", "the two students"], ["their", "the students'"], ["One", "one of the students"], ["the other", "the second student"]] }
+  ],
+  "wordform": [
+    { "s": "She answered the question ___.", "root": "correct", "forms": ["correct", "correctly", "correction", "correctness"], "a": "correctly", "why": "ขยายกริยา answered ต้องเป็น adverb (-ly)" },
+    { "s": "His ___ surprised everyone in the room.", "root": "succeed", "forms": ["succeed", "successful", "success", "successfully"], "a": "success", "why": "หลัง His ต้องเป็นคำนาม" },
+    { "s": "It was a very ___ day for our team.", "root": "success", "forms": ["success", "successful", "successfully", "succeed"], "a": "successful", "why": "หน้าคำนาม day ต้องเป็น adjective" },
+    { "s": "___ English every day helps you improve.", "root": "speak", "forms": ["Speak", "Speaking", "Spoken", "Speech"], "a": "Speaking", "why": "ตำแหน่งประธานที่เป็น 'การกระทำ' ใช้ V-ing (gerund)" },
+    { "s": "The ___ of the bridge took three years.", "root": "build", "forms": ["build", "builder", "building", "built"], "a": "building", "why": "หลัง The ต้องเป็นคำนาม 'การสร้าง' = building (builder = คนสร้าง ความหมายไม่เข้า)" },
+    { "s": "He felt ___ after he lied to his mother.", "root": "shame", "forms": ["shame", "ashamed", "shamefully", "shameful"], "a": "ashamed", "why": "ความรู้สึกของคนหลัง felt ใช้ ashamed (shameful = น่าละอาย ใช้บรรยายการกระทำ)" },
+    { "s": "Please drive ___. The road is wet.", "root": "slow", "forms": ["slow", "slowly", "slowness", "slower"], "a": "slowly", "why": "ขยายกริยา drive ต้องเป็น adverb" },
+    { "s": "She is famous for her ___.", "root": "kind", "forms": ["kind", "kindly", "kindness", "kinder"], "a": "kindness", "why": "หลัง her ต้องเป็นคำนาม" },
+    { "s": "The test was ___ difficult, so many students failed.", "root": "extreme", "forms": ["extreme", "extremely", "extremity", "extremes"], "a": "extremely", "why": "ขยาย adjective (difficult) ต้องใช้ adverb" },
+    { "s": "Smoking is ___ to your health.", "root": "harm", "forms": ["harm", "harmful", "harmfully", "harmless"], "a": "harmful", "why": "หลัง is ต้องเป็น adjective และความหมาย 'เป็นอันตราย' = harmful (harmless = ไม่มีอันตราย ความหมายกลับ)" }
+  ]
+}

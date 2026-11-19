@@ -1,0 +1,225 @@
+{
+ "id": "M09-R2",
+ "title": "Learning to Swim at Twenty",
+ "topic": "ประสบการณ์ส่วนตัว",
+ "level": "B1",
+ "mock": "M09",
+ "lines": [
+  "I learned to swim when I was twenty, and I was embarrassed about **it** for",
+  "years. As a child, I had a bad experience at a crowded pool and was too",
+  "afraid to try again. My friends often invited me to the beach, but I",
+  "always made excuses. When **they** went into the water, I stayed on the",
+  "sand and pretended to read.",
+  "In my second year at university, I saw a poster for free adult swimming",
+  "lessons. I almost walked past it. Then I thought about how much I was",
+  "missing. On the first day, I was the oldest person in the class, and the",
+  "instructor, a woman in her sixties, noticed my fear immediately. **She**",
+  "did not push me. For the first week, we only practiced breathing with our",
+  "faces in the water. **This** seemed silly at first, but it helped me relax.",
+  "After two months, I could swim fifty meters. Last summer, I finally went",
+  "into the sea with my friends. **None** of them laughed. In fact, they said",
+  "they were proud of me."
+ ],
+ "questions": [
+  {
+   "id": "M09-R2-1",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'it' in line 1 refers to ___.",
+   "options": [
+    "the swimming pool",
+    "being twenty",
+    "the beach",
+    "learning to swim so late"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "สระว่ายน้ำพูดถึงทีหลัง",
+    "แคบเกินไป",
+    "ไม่ใช่",
+    null
+   ],
+   "explanation_th": "อายเรื่องที่เพิ่งหัดว่ายตอนยี่สิบ"
+  },
+  {
+   "id": "M09-R2-2",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'they' in line 4 refers to ___.",
+   "options": [
+    "the excuses",
+    "the writer's friends",
+    "the swimming teachers",
+    "the books"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ไม่ใช่",
+    null,
+    "ยังไม่ปรากฏ",
+    "ไม่ใช่"
+   ],
+   "explanation_th": "friends … When they went into the water"
+  },
+  {
+   "id": "M09-R2-3",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'She' in line 9 refers to ___.",
+   "options": [
+    "the writer",
+    "a classmate",
+    "the instructor",
+    "the writer's mother"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ผู้เขียนเป็น me",
+    "ไม่ได้พูดถึง",
+    null,
+    "ไม่ได้พูดถึง"
+   ],
+   "explanation_th": "the instructor … She did not push me"
+  },
+  {
+   "id": "M09-R2-4",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'This' in line 11 refers to ___.",
+   "options": [
+    "practicing breathing with faces in the water",
+    "the first week",
+    "the instructor",
+    "swimming fifty meters"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "แคบ/ไม่ใช่สิ่งที่ \"seemed silly\"",
+    "ไม่ใช่",
+    "มาทีหลัง"
+   ],
+   "explanation_th": "สิ่งที่ดูตลกแต่ช่วยให้ผ่อนคลาย = การฝึกหายใจในน้ำ"
+  },
+  {
+   "id": "M09-R2-5",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'None' in line 13 refers to ___.",
+   "options": [
+    "none of the swimmers",
+    "none of the writer's friends",
+    "none of the instructors",
+    "none of the beaches"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ไม่ใช่",
+    null,
+    "ไม่ใช่",
+    "ไม่ใช่"
+   ],
+   "explanation_th": "None of them (friends) laughed"
+  },
+  {
+   "id": "M09-R2-6",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Why was the writer afraid of swimming?",
+   "options": [
+    "She had a bad experience at a crowded pool.",
+    "She could not see well.",
+    "Her friends laughed at her.",
+    "She was afraid of fish."
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ไม่มีในบทความ",
+    "ตรงข้าม เพื่อนไม่หัวเราะ",
+    "ไม่มีในบทความ"
+   ],
+   "explanation_th": "บรรทัด 2"
+  },
+  {
+   "id": "M09-R2-7",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "What did the writer do when friends went into the water?",
+   "options": [
+    "She went home.",
+    "She swam near the beach.",
+    "She stayed on the sand and pretended to read.",
+    "She took photos."
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ไม่มีในบทความ",
+    "ขัดกับเรื่อง",
+    null,
+    "ไม่มีในบทความ"
+   ],
+   "explanation_th": "บรรทัด 4–5"
+  },
+  {
+   "id": "M09-R2-8",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Which is true about the instructor?",
+   "options": [
+    "She was younger than the writer.",
+    "She pushed the writer to swim quickly.",
+    "She was a university student.",
+    "She was in her sixties."
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ขัดกับบทความ",
+    "ขัดกับ She did not push me",
+    "ไม่มีในบทความ",
+    null
+   ],
+   "explanation_th": "a woman in her sixties"
+  },
+  {
+   "id": "M09-R2-9",
+   "skill": "r.not-true",
+   "difficulty": 2,
+   "stem": "Which statement is NOT true?",
+   "options": [
+    "The lessons were free.",
+    "The writer learned to swim in one week.",
+    "The writer was the oldest in the class.",
+    "The writer later swam in the sea."
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "จริง",
+    null,
+    "จริง",
+    "จริง"
+   ],
+   "explanation_th": "ใช้เวลาสองเดือนกว่าจะว่าย 50 เมตร"
+  },
+  {
+   "id": "M09-R2-10",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stem": "How did the writer's friends react when she swam in the sea?",
+   "options": [
+    "They laughed at her.",
+    "They were surprised and angry.",
+    "They did not notice.",
+    "They were supportive."
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ขัดกับบทความ",
+    "ไม่มีหลักฐาน",
+    "ขัดกับบทความ",
+    null
+   ],
+   "explanation_th": "None of them laughed … they were proud of me"
+  }
+ ]
+}

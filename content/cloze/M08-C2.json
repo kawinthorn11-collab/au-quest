@@ -1,0 +1,210 @@
+{
+ "id": "M08-C2",
+ "title": "Captain the Parrot",
+ "genre": "เรื่องเล่าขำ ๆ",
+ "level": "B1",
+ "mock": "M08",
+ "text": "My aunt has a parrot, Captain, (1) vocabulary is about fifty words. Most of (2) are polite, like \"hello\" and \"thank you.\" Last month, my aunt invited her new boss (3) dinner. She cleaned the house for two days and cooked (4) best dishes. Everything was going well (5) the boss asked, \"So, how do you like working at our company?\" Before my aunt could answer, Captain shouted, \"Boring! Boring! Boring!\"\nMy aunt went red. The boss looked at the parrot, then at my aunt. \"Where (6) he learn that?\" he asked. My uncle, who was trying very hard not (7), said, \"From the TV, I think.\" Then the boss started to laugh. \"Honestly,\" he said, \"some of our meetings (8) boring.\" The rest of the evening was (9) relaxed. My aunt kept her job, but now Captain (10) in the bedroom whenever guests come.",
+ "items": [
+  {
+   "id": "M08-C2-1",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(1) My aunt has a parrot, Captain, ___ vocabulary is about fifty words.",
+   "options": [
+    "whose",
+    "which",
+    "who",
+    "that"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "which vocabulary ผิด",
+    "who vocabulary ผิด",
+    "that vocabulary ผิด"
+   ],
+   "explanation_th": "คำศัพท์ของนกแก้ว → whose vocabulary"
+  },
+  {
+   "id": "M08-C2-2",
+   "skill": "g.pronoun",
+   "difficulty": 1,
+   "stem": "(2) Most of ___ are polite, like \"hello\"",
+   "options": [
+    "they",
+    "them",
+    "their",
+    "it"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "they เป็นประธาน",
+    null,
+    "their ต้องมีคำนาม",
+    "it เป็นเอกพจน์"
+   ],
+   "explanation_th": "หลังบุพบท (Most of) + พหูพจน์ (words) → them"
+  },
+  {
+   "id": "M08-C2-3",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(3) Last month, my aunt invited her new boss ___ dinner.",
+   "options": [
+    "for",
+    "at",
+    "by",
+    "with"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "at dinner = ระหว่างมื้อ ไม่ใช่การเชิญ",
+    "by ผิด",
+    "with dinner ผิด"
+   ],
+   "explanation_th": "invite sb for dinner"
+  },
+  {
+   "id": "M08-C2-4",
+   "skill": "g.pronoun",
+   "difficulty": 1,
+   "stem": "(4) She cleaned the house for two days and cooked ___ best dishes.",
+   "options": [
+    "hers",
+    "she",
+    "her",
+    "herself"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "hers ไม่มีคำนามตาม",
+    "she เป็นประธาน",
+    null,
+    "herself ไม่ใช้หน้าคำนาม"
+   ],
+   "explanation_th": "หน้า best dishes → her"
+  },
+  {
+   "id": "M08-C2-5",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stem": "(5) Everything was going well ___ the boss asked, \"So, how do you like working at our company?\"",
+   "options": [
+    "since",
+    "while",
+    "unless",
+    "until"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "since ไม่สมเหตุผล",
+    "while ไม่แสดงจุดเปลี่ยน",
+    "unless ไม่สมเหตุผล",
+    null
+   ],
+   "explanation_th": "ทุกอย่างดี จนกระทั่งเจ้านายถาม → until"
+  },
+  {
+   "id": "M08-C2-6",
+   "skill": "g.tense-past",
+   "difficulty": 1,
+   "stem": "(6) \"Where ___ he learn that?\"",
+   "options": [
+    "does",
+    "did",
+    "has",
+    "was"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "does เป็นปัจจุบัน",
+    null,
+    "has learn ผิดรูป",
+    "was learn ผิดรูป"
+   ],
+   "explanation_th": "คำถามอดีต + learn (V1) → did"
+  },
+  {
+   "id": "M08-C2-7",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(7) My uncle, who was trying very hard not ___, said, \"From the TV, I think.\"",
+   "options": [
+    "laughing",
+    "laugh",
+    "laughed",
+    "to laugh"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "not laughing ไม่ใช่รูปหลัง try แบบนี้",
+    "ขาด to",
+    "laughed ผิด",
+    null
+   ],
+   "explanation_th": "try (hard) not to V"
+  },
+  {
+   "id": "M08-C2-8",
+   "skill": "g.agreement",
+   "difficulty": 1,
+   "stem": "(8) he said, \"some of our meetings ___ boring.\"",
+   "options": [
+    "are",
+    "is",
+    "being",
+    "be"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "is ใช้กับเอกพจน์",
+    "being เป็นกริยาแท้ในประโยคไม่ได้",
+    "be ผิด"
+   ],
+   "explanation_th": "some of our meetings (พหูพจน์) ปัจจุบัน → are"
+  },
+  {
+   "id": "M08-C2-9",
+   "skill": "g.wordform",
+   "difficulty": 2,
+   "stem": "(9) The rest of the evening was ___ relaxed.",
+   "options": [
+    "very more",
+    "much most",
+    "much more",
+    "more much"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "very ขยายขั้นกว่าไม่ได้",
+    "most ผิด",
+    null,
+    "ลำดับคำผิด"
+   ],
+   "explanation_th": "much + ขั้นกว่า (more relaxed)"
+  },
+  {
+   "id": "M08-C2-10",
+   "skill": "g.tense-present",
+   "difficulty": 1,
+   "stem": "(10) My aunt kept her job, but now Captain ___ in the bedroom whenever guests come.",
+   "options": [
+    "stay",
+    "stayed",
+    "stays",
+    "staying"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ประธานเอกพจน์ต้องเติม s",
+    "stayed เป็นอดีต ขัดกับ now",
+    null,
+    "staying ไม่ใช่กริยาแท้"
+   ],
+   "explanation_th": "กิจวัตรปัจจุบัน (whenever guests come) + Captain → stays"
+  }
+ ]
+}

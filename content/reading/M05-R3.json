@@ -1,0 +1,225 @@
+{
+ "id": "M05-R3",
+ "title": "Thailand's Aging Society",
+ "topic": "ข่าว/สังคม (ข้อมูล)",
+ "level": "B2",
+ "mock": "M05",
+ "lines": [
+  "Thailand is aging faster than almost any other country in Asia. In 2000,",
+  "about one in ten Thais was over sixty. Today **that** number is one in five,",
+  "and by 2040 experts expect it to be one in three. The main reasons are",
+  "longer lives and falling birth rates: Thai women now have, on average,",
+  "just one child each, compared with six in the 1960s.",
+  "This change brings serious challenges. Fewer young workers will have to",
+  "support more retired people, and hospitals will need more staff trained",
+  "to care for **them**. In rural areas, **many** elderly people already live",
+  "alone because their children have moved to cities for work.",
+  "Some communities are finding creative solutions. In one village in",
+  "Chiang Rai, retired teachers run a \"school for the elderly,\" where older",
+  "people learn to use smartphones, exercise together and share skills.",
+  "**Its** organizers say loneliness has dropped sharply. Experts believe",
+  "projects like **this** will become more important in the coming years."
+ ],
+ "questions": [
+  {
+   "id": "M05-R3-1",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'that' in line 2 refers to ___.",
+   "options": [
+    "the share of Thais who are over sixty",
+    "the year 2000",
+    "the number of countries in Asia",
+    "the birth rate"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ปีไม่ใช่ number ที่เปลี่ยน",
+    "ไม่ได้พูดถึง",
+    "พูดถึงทีหลัง"
+   ],
+   "explanation_th": "that number = สัดส่วนคนอายุเกิน 60 ที่เพิ่งพูด"
+  },
+  {
+   "id": "M05-R3-2",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'them' in line 8 refers to ___.",
+   "options": [
+    "young workers",
+    "hospital staff",
+    "retired people",
+    "children"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "คนหนุ่มสาวเป็นผู้สนับสนุน",
+    "พนักงานเป็นผู้ดูแล",
+    null,
+    "ไม่ได้พูดถึงในประโยค"
+   ],
+   "explanation_th": "care for them = ดูแลผู้เกษียณ"
+  },
+  {
+   "id": "M05-R3-3",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'many' in line 8 refers to ___.",
+   "options": [
+    "many children",
+    "many elderly people in rural areas",
+    "many cities",
+    "many hospitals"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ลูกหลานคือคนที่ย้ายออก",
+    null,
+    "เมืองอยู่คนเดียวไม่ได้",
+    "ไม่ได้อยู่ในประโยค"
+   ],
+   "explanation_th": "many elderly people already live alone"
+  },
+  {
+   "id": "M05-R3-4",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'Its' in line 13 refers to ___.",
+   "options": [
+    "Chiang Rai's",
+    "the smartphone's",
+    "Thailand's",
+    "the school for the elderly's"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "จังหวัดไม่มี \"organizers\" ในบริบทนี้",
+    "โทรศัพท์ไม่มีผู้จัด",
+    "ไกลเกินไป",
+    null
+   ],
+   "explanation_th": "Its organizers = ผู้จัดของโรงเรียนผู้สูงอายุ"
+  },
+  {
+   "id": "M05-R3-5",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'this' in line 14 refers to ___.",
+   "options": [
+    "loneliness",
+    "the aging society",
+    "using smartphones",
+    "the school for older people in the Chiang Rai village"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ความเหงาคือปัญหา ไม่ใช่โครงการ",
+    "ไม่ใช่โครงการ",
+    "เป็นแค่กิจกรรมหนึ่ง",
+    null
+   ],
+   "explanation_th": "projects like this = โครงการแบบโรงเรียนผู้สูงอายุ"
+  },
+  {
+   "id": "M05-R3-6",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "By 2040, experts expect ___ Thais to be over sixty.",
+   "options": [
+    "one in five",
+    "one in three",
+    "one in ten",
+    "six in ten"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ตัวเลขปัจจุบัน",
+    null,
+    "ตัวเลขปี 2000",
+    "ไม่มีในบทความ"
+   ],
+   "explanation_th": "by 2040 … one in three"
+  },
+  {
+   "id": "M05-R3-7",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "What are the main reasons for the change?",
+   "options": [
+    "Young people move abroad.",
+    "Hospitals are better in cities.",
+    "People live longer and have fewer children.",
+    "More teachers are retiring."
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ไม่มีในบทความ",
+    "ไม่ใช่เหตุผลที่ระบุ",
+    null,
+    "ไม่ใช่เหตุผลที่ระบุ"
+   ],
+   "explanation_th": "longer lives and falling birth rates (ถอดความ)"
+  },
+  {
+   "id": "M05-R3-8",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "In the 1960s, Thai women had about ___ children on average.",
+   "options": [
+    "six",
+    "one",
+    "three",
+    "ten"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ตัวเลขปัจจุบัน",
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ"
+   ],
+   "explanation_th": "compared with six in the 1960s"
+  },
+  {
+   "id": "M05-R3-9",
+   "skill": "r.not-true",
+   "difficulty": 2,
+   "stem": "Which is NOT true about the school for the elderly?",
+   "options": [
+    "Older people learn to use smartphones there.",
+    "It is run by young doctors.",
+    "People exercise together there.",
+    "Loneliness has dropped since it started."
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "จริง บรรทัด 12",
+    null,
+    "จริง บรรทัด 12",
+    "จริง บรรทัด 13"
+   ],
+   "explanation_th": "ดำเนินการโดยครูเกษียณ ไม่ใช่หมอหนุ่ม"
+  },
+  {
+   "id": "M05-R3-10",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "What does the writer suggest about projects like the elderly school?",
+   "options": [
+    "They can help reduce loneliness among older people.",
+    "They will replace hospitals.",
+    "They are only possible in Chiang Rai.",
+    "They make young workers pay more tax."
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "เกินจริง",
+    "ไม่มีหลักฐาน",
+    "ไม่มีหลักฐาน"
+   ],
+   "explanation_th": "loneliness has dropped + experts believe they will become more important"
+  }
+ ]
+}

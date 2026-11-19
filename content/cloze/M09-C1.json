@@ -1,0 +1,210 @@
+{
+ "id": "M09-C1",
+ "title": "Solar Roofs for Schools",
+ "genre": "ข่าว",
+ "level": "B2",
+ "mock": "M09",
+ "text": "More than 200 schools in northeastern Thailand (1) solar panels installed on their roofs by the end of this year. The project, (2) is funded by a group of energy companies, aims (3) electricity costs and teach students about clean energy.\nAt Ban Nong Pai School, (4) panels were installed last year, the electricity bill has fallen by 60 percent. The money saved is now spent (5) books and sports equipment. Students also study the panels in science class. \"They check (6) much power the panels produce every day,\" said one teacher. \"It makes science feel real.\"\nHowever, some experts warn that the panels need regular cleaning, (7) they will produce much less power. The companies have promised (8) local technicians to look after them. If the project succeeds, it (9) to schools in other regions. \"Every school roof is a chance to make energy,\" said the project leader. \"We should not waste (10) of them.\"",
+ "items": [
+  {
+   "id": "M09-C1-1",
+   "skill": "g.passive",
+   "difficulty": 3,
+   "stem": "(1) More than 200 schools in northeastern Thailand ___ solar panels installed on their roofs by the end of this year.",
+   "options": [
+    "will be",
+    "have had",
+    "will have",
+    "had"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "will be solar panels ผิดโครงสร้าง",
+    "have had ไม่เข้ากับ by the end of this year",
+    null,
+    "had ไม่เข้ากับ by the end of this year (อนาคต)"
+   ],
+   "explanation_th": "have + สิ่งของ + V3 = ให้คนอื่นทำให้ (causative) + by the end of this year → will have … installed"
+  },
+  {
+   "id": "M09-C1-2",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(2) The project, ___ is funded by a group of energy companies, aims … electricity costs and teach students about clean energy.",
+   "options": [
+    "which",
+    "that",
+    "who",
+    "what"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "หลัง comma ใช้ that ไม่ได้",
+    "who ใช้กับคน",
+    "what ไม่ขยายคำนาม"
+   ],
+   "explanation_th": "ขยาย The project หลัง comma → which"
+  },
+  {
+   "id": "M09-C1-3",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(3) The project, … is funded by a group of energy companies, aims ___ electricity costs and teach students about clean energy.",
+   "options": [
+    "reducing",
+    "to reduce",
+    "reduce",
+    "reduced"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "aim reducing ผิด",
+    null,
+    "ขาด to",
+    "reduced ผิด"
+   ],
+   "explanation_th": "aim + to V"
+  },
+  {
+   "id": "M09-C1-4",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(4) At Ban Nong Pai School, ___ panels were installed last year, the electricity bill has fallen by 60 percent.",
+   "options": [
+    "where",
+    "which",
+    "that",
+    "when"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "which ใช้เมื่อข้างหลังขาด",
+    "หลัง comma ใช้ that ไม่ได้",
+    "when ใช้กับเวลา"
+   ],
+   "explanation_th": "โรงเรียน (สถานที่) + ข้างหลังครบประโยค → where"
+  },
+  {
+   "id": "M09-C1-5",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(5) The money saved is now spent ___ books and sports equipment.",
+   "options": [
+    "for",
+    "in",
+    "on",
+    "at"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "spent for ไม่ใช่รูปมาตรฐาน",
+    "spent in ผิด",
+    null,
+    "spent at ผิด"
+   ],
+   "explanation_th": "spend money on + สิ่ง"
+  },
+  {
+   "id": "M09-C1-6",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(6) \"They check ___ much power the panels produce every day,\"",
+   "options": [
+    "what",
+    "which",
+    "that",
+    "how"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "what much ผิด",
+    "which much ผิด",
+    "that much ความหมายผิด",
+    null
+   ],
+   "explanation_th": "how much = มากแค่ไหน"
+  },
+  {
+   "id": "M09-C1-7",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stem": "(7) However, some experts warn that the panels need regular cleaning, ___ they will produce much less power.",
+   "options": [
+    "and",
+    "or",
+    "so",
+    "but"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "and ไม่สมเหตุผล",
+    null,
+    "so ไม่สมเหตุผล",
+    "but ไม่สมเหตุผล"
+   ],
+   "explanation_th": "ต้องทำความสะอาด ไม่อย่างนั้นจะผลิตไฟได้น้อยลง → or"
+  },
+  {
+   "id": "M09-C1-8",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(8) The companies have promised ___ local technicians to look after them.",
+   "options": [
+    "training",
+    "train",
+    "trained",
+    "to train"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "promise training ผิด",
+    "ขาด to",
+    "trained ผิด",
+    null
+   ],
+   "explanation_th": "promise + to V"
+  },
+  {
+   "id": "M09-C1-9",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stem": "(9) If the project succeeds, it ___ to schools in other regions.",
+   "options": [
+    "will be extended",
+    "extending",
+    "extends",
+    "is extending"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "extending ไม่ใช่กริยาแท้",
+    "extends ไม่ใช่ผลของ if แบบที่ 1",
+    "is extending ผิด"
+   ],
+   "explanation_th": "โครงการจะถูกขยาย (แบบที่ 1) → will be extended"
+  },
+  {
+   "id": "M09-C1-10",
+   "skill": "g.article",
+   "difficulty": 2,
+   "stem": "(10) \"We should not waste ___ of them.\"",
+   "options": [
+    "some",
+    "every",
+    "any",
+    "each"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "some ไม่ใช้ในประโยคปฏิเสธแบบนี้",
+    "every of ผิด",
+    null,
+    "each of them ทำให้ความหมายแปลก (ไม่ควรเสียทีละหลัง)"
+   ],
+   "explanation_th": "ปฏิเสธ (should not) → any of them"
+  }
+ ]
+}

@@ -1,0 +1,183 @@
+{
+ "id": "R08",
+ "title": "Elephants and Farmers",
+ "topic": "ข่าว/สิ่งแวดล้อม",
+ "level": "B1",
+ "lines": [
+  "In parts of eastern Thailand, wild elephants often leave the forest at",
+  "night and eat crops in nearby farms. For farmers, **this** can mean losing",
+  "a whole year of income in one night. Some farmers have tried loud noises",
+  "and fires to scare the elephants away, but the animals soon learn that",
+  "**these** are not dangerous.",
+  "Now one village is testing a surprising idea: bees. Farmers hang beehives",
+  "on wires around their fields. When an elephant touches a wire, the hives",
+  "shake and the angry bees come out. Elephants are afraid of bee stings near",
+  "their eyes and trunks, so **they** turn back. In the first year, elephants",
+  "entered the fields eighty percent less often. There is another benefit:",
+  "the farmers can sell the honey. \"We used to see elephants as enemies,\"",
+  "says one farmer, Mr. Somsak. \"Now we have found a way to live with **them**.",
+  "Nobody gets hurt, and **we** even earn a little extra money.\""
+ ],
+ "questions": [
+  {
+   "id": "R08-1",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'this' in line 2 refers to ___.",
+   "options": [
+    "elephants eating crops in the farms",
+    "the forest",
+    "eastern Thailand",
+    "farmers working at night"
+   ],
+   "answer": 0,
+   "explanation_th": "this = การที่ช้างออกมากินพืชในไร่ (ประโยคก่อนหน้า)",
+   "why_wrong": [
+    null,
+    "ป่าไม่ทำให้เสียรายได้โดยตรง",
+    "เป็นแค่สถานที่",
+    "ไม่มีข้อมูลว่าชาวนาทำงานกลางคืน"
+   ]
+  },
+  {
+   "id": "R08-2",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'these' in line 5 refers to ___.",
+   "options": [
+    "the farmers",
+    "loud noises and fires",
+    "the crops",
+    "the elephants"
+   ],
+   "answer": 1,
+   "explanation_th": "the animals soon learn that these (loud noises and fires) are not dangerous",
+   "why_wrong": [
+    "ช้างไม่ได้เรียนรู้ว่าชาวนาไม่อันตราย",
+    null,
+    "พืชผลไม่ใช่สิ่งที่ใช้ไล่",
+    "the animals คือช้างเอง"
+   ]
+  },
+  {
+   "id": "R08-3",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'they' in line 9 refers to ___.",
+   "options": [
+    "the bees",
+    "the farmers",
+    "the elephants",
+    "the hives"
+   ],
+   "answer": 2,
+   "explanation_th": "Elephants are afraid … so they (the elephants) turn back",
+   "why_wrong": [
+    "ผึ้งไม่ได้หันกลับ",
+    "ชาวนาไม่ได้กลัวผึ้งในประโยคนี้",
+    null,
+    "รังผึ้งหันกลับไม่ได้"
+   ]
+  },
+  {
+   "id": "R08-4",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'them' in line 12 refers to ___.",
+   "options": [
+    "the bees",
+    "the farmers",
+    "the fields",
+    "the elephants"
+   ],
+   "answer": 3,
+   "explanation_th": "We used to see elephants as enemies… a way to live with them (elephants)",
+   "why_wrong": [
+    "ผึ้งไม่ได้ถูกมองว่าเป็นศัตรู",
+    "ชาวนาคือ we",
+    "ไร่ไม่ใช่สิ่งที่ \"อยู่ร่วมด้วย\"",
+    null
+   ]
+  },
+  {
+   "id": "R08-5",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'we' in line 13 refers to ___.",
+   "options": [
+    "the farmers in the village",
+    "the elephants",
+    "the researchers",
+    "the readers"
+   ],
+   "answer": 0,
+   "explanation_th": "คุณสมศักดิ์ (ชาวนา) พูดแทนชาวนาในหมู่บ้าน",
+   "why_wrong": [
+    null,
+    "ช้างไม่ได้ขายน้ำผึ้ง",
+    "ไม่มีนักวิจัยพูดในบทความ",
+    "ผู้อ่านไม่ได้ทำเงิน"
+   ]
+  },
+  {
+   "id": "R08-6",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Why do the bee fences work?",
+   "options": [
+    "Bees eat the crops first.",
+    "Elephants are afraid of being stung near their eyes and trunks.",
+    "The wires give electric shocks.",
+    "The honey smells bad to elephants."
+   ],
+   "answer": 1,
+   "explanation_th": "บรรทัด 8–9",
+   "why_wrong": [
+    "ผึ้งไม่ได้กินพืช",
+    null,
+    "ไม่มีข้อมูลเรื่องไฟฟ้า",
+    "ไม่มีข้อมูลเรื่องกลิ่น"
+   ]
+  },
+  {
+   "id": "R08-7",
+   "skill": "r.detail",
+   "difficulty": 3,
+   "stem": "In the first year, the bee fences ___.",
+   "options": [
+    "stopped all elephants",
+    "reduced elephant visits by about eighty percent",
+    "made the elephants angry",
+    "cost farmers a year of income"
+   ],
+   "answer": 1,
+   "explanation_th": "บรรทัด 9–10: eighty percent less often",
+   "why_wrong": [
+    "ไม่ได้หยุดทั้งหมด ลดลง 80%",
+    null,
+    "ผึ้งต่างหากที่โกรธ",
+    "กลับกัน ได้เงินเพิ่มจากน้ำผึ้ง"
+   ]
+  },
+  {
+   "id": "R08-8",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "If the farmers used only loud noises and fires, ___.",
+   "options": [
+    "the elephants would soon come back to the fields",
+    "the bees would leave",
+    "they would sell more honey",
+    "the elephants would be hurt"
+   ],
+   "answer": 0,
+   "explanation_th": "บรรทัด 3–5: ช้างเรียนรู้เร็วว่าเสียงและไฟไม่อันตราย จึงจะกลับมาอีก",
+   "why_wrong": [
+    null,
+    "ไม่เกี่ยวกับผึ้ง",
+    "ไม่มีผึ้งก็ไม่มีน้ำผึ้งเพิ่ม",
+    "บทความไม่ได้บอกว่าเสียง/ไฟทำร้ายช้าง"
+   ]
+  }
+ ]
+}

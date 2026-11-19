@@ -1,0 +1,224 @@
+{
+ "id": "M04-R2",
+ "title": "The Night Owl",
+ "topic": "ประสบการณ์ส่วนตัว",
+ "level": "B1",
+ "mock": "M04",
+ "lines": [
+  "During my first year at university, I thought studying late at night",
+  "was the secret to success. I would start my homework at eleven and",
+  "finish at three or four in the morning. My roommate, Jin, went to bed",
+  "at ten every night. I laughed at **him** and called him \"Grandpa.\"",
+  "By the middle of the term, however, things were going badly. I fell",
+  "asleep in morning classes, forgot deadlines and caught a cold that",
+  "lasted for weeks. Jin, on the other hand, was getting the best grades in",
+  "our class. One evening I asked him for his secret. \"There is no",
+  "secret,\" he said. \"I just study when my brain is awake.\" **This** made me",
+  "think. I tried his method for one month: no screens after ten and study",
+  "in the morning. It was hard at first, but my grades improved and I",
+  "stopped getting sick. Now I am the one who goes to bed early, and my",
+  "new roommate calls **me** \"Grandpa.\""
+ ],
+ "questions": [
+  {
+   "id": "M04-R2-1",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'him' in line 4 refers to ___.",
+   "options": [
+    "Jin",
+    "the writer",
+    "a teacher",
+    "the writer's grandfather"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ผู้เขียนหัวเราะคนอื่น ไม่ใช่ตัวเอง",
+    "ไม่มีครู",
+    "Grandpa เป็นแค่ฉายา"
+   ],
+   "explanation_th": "My roommate, Jin … I laughed at him"
+  },
+  {
+   "id": "M04-R2-2",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'This' in line 9 refers to ___.",
+   "options": [
+    "the cold that lasted for weeks",
+    "going to bed at ten",
+    "Jin's answer that he studies when his brain is awake",
+    "the best grades in the class"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "อยู่ไกลเกินไป",
+    "เป็นส่วนหนึ่งแต่ไม่ใช่ความคิดที่ this ชี้",
+    null,
+    "อยู่ไกลเกินไป"
+   ],
+   "explanation_th": "สิ่งที่ทำให้คิด = คำตอบของ Jin ที่เพิ่งพูด"
+  },
+  {
+   "id": "M04-R2-3",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'me' in line 13 refers to ___.",
+   "options": [
+    "Jin",
+    "the new roommate",
+    "a professor",
+    "the writer"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "Jin ไม่ใช่คนที่ถูกเรียกในตอนนี้",
+    "รูมเมทใหม่เป็นผู้เรียก",
+    "ไม่มีอาจารย์",
+    null
+   ],
+   "explanation_th": "รูมเมทใหม่เรียกผู้เขียนว่า Grandpa"
+  },
+  {
+   "id": "M04-R2-4",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "At the start of university, the writer believed ___.",
+   "options": [
+    "sleeping early was important",
+    "studying late at night led to success",
+    "Jin was a good student",
+    "morning classes were easy"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "เป็นสิ่งที่เรียนรู้ทีหลัง",
+    null,
+    "ไม่ได้คิดแบบนั้นตอนแรก",
+    "ขัดกับการหลับในห้อง"
+   ],
+   "explanation_th": "บรรทัด 1–2 (ถอดความ)"
+  },
+  {
+   "id": "M04-R2-5",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "By the middle of the term, the writer ___.",
+   "options": [
+    "had the best grades",
+    "was going to bed at ten",
+    "had found a new roommate",
+    "was having problems with health and studies"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "Jin ต่างหากที่ได้เกรดดีที่สุด (กับดักสลับคน)",
+    "ยังไม่ได้เปลี่ยน",
+    "รูมเมทใหม่มาทีหลัง",
+    null
+   ],
+   "explanation_th": "หลับในห้อง ลืมกำหนดส่ง เป็นหวัดนาน = มีปัญหาทั้งการเรียนและสุขภาพ"
+  },
+  {
+   "id": "M04-R2-6",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "Jin's grades were ___.",
+   "options": [
+    "the best in their class",
+    "very poor",
+    "the same as the writer's",
+    "not mentioned"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ตรงข้าม",
+    "ขัดกับ on the other hand",
+    "บทความระบุชัด"
+   ],
+   "explanation_th": "the best grades in our class"
+  },
+  {
+   "id": "M04-R2-7",
+   "skill": "r.vocab",
+   "difficulty": 2,
+   "stem": "'on the other hand' (line 7) shows ___.",
+   "options": [
+    "that Jin used his other hand",
+    "a reason",
+    "a contrast between the writer and Jin",
+    "an example"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ตีความตามตัวอักษร ผิด",
+    "ไม่ใช่การให้เหตุผล",
+    null,
+    "ไม่ใช่การยกตัวอย่าง"
+   ],
+   "explanation_th": "on the other hand = ในทางกลับกัน (เปรียบต่าง)"
+  },
+  {
+   "id": "M04-R2-8",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "What did the writer change for one month? ___",
+   "options": [
+    "Studying until four in the morning",
+    "Taking medicine for his cold",
+    "No screens after ten and studying in the morning",
+    "Moving to a new room"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "เป็นนิสัยเก่า",
+    "ไม่มีในบทความ",
+    null,
+    "ไม่มีในบทความ"
+   ],
+   "explanation_th": "บรรทัด 10–11"
+  },
+  {
+   "id": "M04-R2-9",
+   "skill": "r.not-true",
+   "difficulty": 2,
+   "stem": "Which statement is NOT true?",
+   "options": [
+    "The new habit was easy from the first day.",
+    "The writer stopped getting sick.",
+    "Jin went to bed at ten.",
+    "The writer now goes to bed early."
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "จริง บรรทัด 12",
+    "จริง บรรทัด 3–4",
+    "จริง บรรทัด 12"
+   ],
+   "explanation_th": "บรรทัด 11: It was hard at first"
+  },
+  {
+   "id": "M04-R2-10",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "The writer's new roommate probably ___.",
+   "options": [
+    "goes to bed at ten",
+    "gets the best grades",
+    "is Jin",
+    "stays up late at night"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ถ้านอนเร็วคงไม่ล้อ",
+    "ไม่มีหลักฐาน",
+    "Jin คือรูมเมทเก่า",
+    null
+   ],
+   "explanation_th": "เรียกผู้เขียนว่า Grandpa เหมือนที่ผู้เขียนเคยเรียก Jin = น่าจะนอนดึก"
+  }
+ ]
+}

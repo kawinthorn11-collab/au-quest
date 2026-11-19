@@ -1,0 +1,225 @@
+{
+ "id": "M10-R3",
+ "title": "Young Volunteers",
+ "topic": "ข่าว/ผลสำรวจ",
+ "level": "B1",
+ "mock": "M10",
+ "lines": [
+  "Volunteering is becoming more popular among young Thais. A recent survey",
+  "found that 45 percent of people aged 15 to 25 had volunteered at least",
+  "once in the past year, up from 30 percent five years ago. The most common",
+  "activities were teaching children, cleaning beaches and helping at",
+  "temples or hospitals.",
+  "When asked why **they** volunteer, most young people said they wanted to",
+  "help society. **Many** also admitted that volunteering looks good on",
+  "university and job applications. Interestingly, those who volunteered",
+  "for practical reasons were just as likely to continue as **those** who",
+  "volunteered only to help others.",
+  "Organizations say young volunteers bring energy and new skills, especially",
+  "in social media and technology. However, **some** complain that young people",
+  "often join for one day and do not return. To solve **this**, several groups",
+  "now offer short, regular projects that fit around students' schedules."
+ ],
+ "questions": [
+  {
+   "id": "M10-R3-1",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'they' in line 6 refers to ___.",
+   "options": [
+    "organizations",
+    "temples",
+    "hospitals",
+    "young people"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "พูดถึงทีหลัง",
+    "ไม่ใช่",
+    "ไม่ใช่",
+    null
+   ],
+   "explanation_th": "most young people said they…"
+  },
+  {
+   "id": "M10-R3-2",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'Many' in line 7 refers to ___.",
+   "options": [
+    "many young people",
+    "many applications",
+    "many organizations",
+    "many jobs"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ไม่ใช่คน",
+    "พูดถึงทีหลัง",
+    "ไม่ใช่คน"
+   ],
+   "explanation_th": "Many (young people) also admitted…"
+  },
+  {
+   "id": "M10-R3-3",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'those' in line 9 refers to ___.",
+   "options": [
+    "people who volunteered for practical reasons",
+    "organizations",
+    "people who volunteered only to help others",
+    "job applications"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "เป็นกลุ่มแรกที่ถูกเปรียบเทียบ",
+    "ไม่ใช่",
+    null,
+    "ไม่ใช่"
+   ],
+   "explanation_th": "just as likely to continue as those who volunteered only to help others"
+  },
+  {
+   "id": "M10-R3-4",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'some' in line 12 refers to ___.",
+   "options": [
+    "some young people",
+    "some projects",
+    "some organizations",
+    "some schedules"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "เป็นกลุ่มที่ถูกบ่น",
+    "โครงการบ่นไม่ได้",
+    null,
+    "ไม่ใช่"
+   ],
+   "explanation_th": "Organizations say … However, some (organizations) complain"
+  },
+  {
+   "id": "M10-R3-5",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'this' in line 13 refers to ___.",
+   "options": [
+    "young people joining once and not returning",
+    "new skills in technology",
+    "cleaning beaches",
+    "the survey"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ไม่ใช่ปัญหา",
+    "ไม่ใช่ปัญหา",
+    "ไม่ใช่"
+   ],
+   "explanation_th": "To solve this = ปัญหาที่เพิ่งพูด (มาวันเดียวแล้วไม่กลับมา)"
+  },
+  {
+   "id": "M10-R3-6",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "What percentage of young people volunteered last year?",
+   "options": [
+    "30 percent",
+    "15 percent",
+    "25 percent",
+    "45 percent"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ตัวเลขห้าปีก่อน",
+    "เป็นช่วงอายุ",
+    "เป็นช่วงอายุ",
+    null
+   ],
+   "explanation_th": "บรรทัด 2"
+  },
+  {
+   "id": "M10-R3-7",
+   "skill": "r.not-true",
+   "difficulty": 2,
+   "stem": "Which was NOT mentioned as a common volunteer activity?",
+   "options": [
+    "Teaching children",
+    "Building houses",
+    "Cleaning beaches",
+    "Helping at hospitals"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ถูกพูดถึง",
+    null,
+    "ถูกพูดถึง",
+    "ถูกพูดถึง"
+   ],
+   "explanation_th": "ไม่ได้พูดถึงการสร้างบ้าน"
+  },
+  {
+   "id": "M10-R3-8",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Most young people said they volunteer because they ___.",
+   "options": [
+    "want to help society",
+    "need money",
+    "are forced by schools",
+    "want to travel"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ"
+   ],
+   "explanation_th": "wanted to help society"
+  },
+  {
+   "id": "M10-R3-9",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "According to organizations, young volunteers bring ___.",
+   "options": [
+    "a lot of money",
+    "experience in hospitals",
+    "energy and skills in social media and technology",
+    "their parents"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ",
+    null,
+    "ไม่มีในบทความ"
+   ],
+   "explanation_th": "บรรทัด 11–12"
+  },
+  {
+   "id": "M10-R3-10",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "Short, regular projects are mainly designed to ___.",
+   "options": [
+    "reduce the number of volunteers",
+    "keep young volunteers coming back",
+    "replace university classes",
+    "make volunteering more expensive"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ตรงข้าม",
+    null,
+    "ไม่มีหลักฐาน",
+    "ไม่มีหลักฐาน"
+   ],
+   "explanation_th": "แก้ปัญหามาครั้งเดียวไม่กลับมา"
+  }
+ ]
+}

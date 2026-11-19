@@ -1,0 +1,210 @@
+{
+ "id": "M04-C1",
+ "title": "The Plastic-Free Island",
+ "genre": "ข่าว",
+ "level": "B1",
+ "mock": "M04",
+ "text": "Koh Mak, a small island in eastern Thailand, has become one of the first places in the country (1) ban single-use plastic. Since January, shops (2) not allowed to give out plastic bags or straws. Tourists, (3) bring their own bottles, can fill them for free at water stations around the island.\nLocal business owners were worried at first, (4) most now support the rule. \"Tourists come here (5) our clean beaches,\" said one hotel manager. \"If the beaches (6) dirty, they would go somewhere else.\" Last year, volunteers collected more than two tons of plastic from the coast, most of (7) had been washed in from the sea.\nThe island's leaders hope that other islands (8) their example. Experts say that (9) works on a small island may be harder in a big city, (10) it is still a good start.",
+ "items": [
+  {
+   "id": "M04-C1-1",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(1) Koh Mak, a small island in eastern Thailand, has become one of the first places in the country ___ ban single-use plastic.",
+   "options": [
+    "for",
+    "in",
+    "to",
+    "of"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "for ban ผิดรูป",
+    "in ban ผิดรูป",
+    null,
+    "of ban ผิดรูป"
+   ],
+   "explanation_th": "the first (place) + to V = แห่งแรกที่…"
+  },
+  {
+   "id": "M04-C1-2",
+   "skill": "g.passive",
+   "difficulty": 1,
+   "stem": "(2) Since January, shops ___ not allowed to give out plastic bags or straws.",
+   "options": [
+    "is",
+    "were being",
+    "are",
+    "have"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "is ใช้กับเอกพจน์",
+    "were being ผิดเวลา (Since January → ยังเป็นอยู่)",
+    null,
+    "have not allowed = ร้านไม่อนุญาต ผิดความหมาย"
+   ],
+   "explanation_th": "shops (พหูพจน์) + are not allowed (passive ปัจจุบัน)"
+  },
+  {
+   "id": "M04-C1-3",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(3) Tourists, ___ bring their own bottles, can fill them for free at water stations around the island.",
+   "options": [
+    "who",
+    "which",
+    "whose",
+    "what"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "which ใช้กับสิ่งของ",
+    "whose ต้องตามด้วยคำนาม",
+    "what ไม่ขยายคำนามข้างหน้า"
+   ],
+   "explanation_th": "ขยาย Tourists (คน) หลัง comma + ประธานของ bring → who"
+  },
+  {
+   "id": "M04-C1-4",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stem": "(4) Local business owners were worried at first, ___ most now support the rule.",
+   "options": [
+    "so",
+    "because",
+    "unless",
+    "but"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "so ไม่สมเหตุผล",
+    "because ไม่สมเหตุผล",
+    "unless = ถ้าไม่",
+    null
+   ],
+   "explanation_th": "กังวลตอนแรก แต่ตอนนี้สนับสนุน = ขัดกัน → \"but\""
+  },
+  {
+   "id": "M04-C1-5",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(5) \"Tourists come here ___ our clean beaches,\"",
+   "options": [
+    "by",
+    "for",
+    "at",
+    "with"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "by our beaches = ข้างชายหาด ความหมายผิด",
+    null,
+    "at our beaches ไม่ได้บอกจุดประสงค์",
+    "with our beaches ไม่มีความหมาย"
+   ],
+   "explanation_th": "come here for + สิ่งที่ต้องการ = มาเพื่อ…"
+  },
+  {
+   "id": "M04-C1-6",
+   "skill": "g.conditional",
+   "difficulty": 2,
+   "stem": "(6) \"If the beaches ___ dirty, they would go somewhere else.\"",
+   "options": [
+    "were",
+    "are",
+    "will be",
+    "had"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "are ใช้กับ will ไม่ใช่ would",
+    "หลัง if ไม่ใช้ will",
+    "had dirty ผิดรูป"
+   ],
+   "explanation_th": "If + V2/were, … would (สมมุติ) → were"
+  },
+  {
+   "id": "M04-C1-7",
+   "skill": "g.relative",
+   "difficulty": 3,
+   "stem": "(7) Last year, volunteers collected more than two tons of plastic from the coast, most of ___ had been washed in from the sea.",
+   "options": [
+    "that",
+    "them",
+    "which",
+    "what"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "หลังบุพบทใช้ that ไม่ได้",
+    "them ทำให้เป็นสองประโยคไม่มีคำเชื่อม",
+    null,
+    "what ไม่อ้างถึงคำนามข้างหน้า"
+   ],
+   "explanation_th": "most of which = ส่วนใหญ่ของพลาสติกนั้น (หลังบุพบท ใช้ which)"
+  },
+  {
+   "id": "M04-C1-8",
+   "skill": "g.tense-present",
+   "difficulty": 2,
+   "stem": "(8) The island's leaders hope that other islands ___ their example.",
+   "options": [
+    "follows",
+    "will follow",
+    "followed",
+    "following"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "other islands เป็นพหูพจน์ ไม่เติม s",
+    null,
+    "followed เป็นอดีต ไม่เข้ากับ hope",
+    "following ไม่ใช่กริยาแท้"
+   ],
+   "explanation_th": "hope that + อนาคต → will follow"
+  },
+  {
+   "id": "M04-C1-9",
+   "skill": "g.relative",
+   "difficulty": 3,
+   "stem": "(9) Experts say that ___ works on a small island may be harder in a big city, … it is still a good start.",
+   "options": [
+    "which",
+    "that",
+    "where",
+    "what"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "which ต้องมีคำนามให้ขยาย",
+    "that works on… ไม่ทำหน้าที่ \"สิ่งที่\" ตรงนี้",
+    "where ใช้กับสถานที่",
+    null
+   ],
+   "explanation_th": "what works = สิ่งที่ได้ผล (ไม่มีคำนามข้างหน้า)"
+  },
+  {
+   "id": "M04-C1-10",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stem": "(10) Experts say that … works on a small island may be harder in a big city, ___ it is still a good start.",
+   "options": [
+    "so",
+    "or",
+    "unless",
+    "but"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "so ไม่สมเหตุผล",
+    "or ใช้กับทางเลือก",
+    "unless ไม่สมเหตุผล",
+    null
+   ],
+   "explanation_th": "อาจยากในเมืองใหญ่ แต่ก็ยังเป็นจุดเริ่มต้นที่ดี → \"but\""
+  }
+ ]
+}

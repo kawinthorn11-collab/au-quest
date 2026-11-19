@@ -1,0 +1,210 @@
+{
+ "id": "M10-C3",
+ "title": "The Last Day of School",
+ "genre": "วรรณกรรม",
+ "level": "B2",
+ "mock": "M10",
+ "text": "On the last day of high school, Ploy stayed in the empty classroom after everyone (1). She looked at the desk (2) she had sat for three years. Her name was still written in small letters on its corner, where she (3) it in her first week. Through the window, she could hear her friends laughing in the courtyard, (4) photos and signing each other's shirts. She wanted to remember this room exactly as it was: the green board, the old fan, and the poster of the solar system (5) had hung on the wall since before she was born.\nMr. Somchai, her English teacher, appeared at the door. \"I thought I (6) find you here,\" he said. Ploy smiled. Three years earlier, she (7) too shy to say a single word in his class. Now she was going to study at an international university. \"I'm scared,\" she admitted. \"Good,\" he said. \"Being scared means you are (8) something that matters.\" He handed her a small envelope. \"Open it on your first day.\"\nPloy put it carefully in her bag and walked out into the sunlight, (9) her friends were waiting. She did not know what the envelope contained, but she knew she would keep it (10) the rest of her life.",
+ "items": [
+  {
+   "id": "M10-C3-1",
+   "skill": "g.tense-past",
+   "difficulty": 2,
+   "stem": "(1) On the last day of high school, Ploy stayed in the empty classroom after everyone ___.",
+   "options": [
+    "had left",
+    "has left",
+    "leaves",
+    "was leaving"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "has left ไม่ใช้ในเรื่องเล่า",
+    "leaves เป็นปัจจุบัน",
+    "was leaving ไม่สื่อว่าออกไปหมดแล้ว"
+   ],
+   "explanation_th": "ทุกคนออกไปก่อนเธอจะอยู่ต่อ → had left"
+  },
+  {
+   "id": "M10-C3-2",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(2) She looked at the desk ___ she had sat for three years.",
+   "options": [
+    "which",
+    "that",
+    "what",
+    "where"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "which ต้องมี at (at which)",
+    "that ต้องการกรรม แต่ sat ไม่มีกรรม",
+    "what ไม่ขยายคำนาม",
+    null
+   ],
+   "explanation_th": "โต๊ะที่เคยนั่ง (sat ไม่มีกรรม) → where"
+  },
+  {
+   "id": "M10-C3-3",
+   "skill": "g.tense-past",
+   "difficulty": 2,
+   "stem": "(3) Her name was still written in small letters on its corner, where she ___ it in her first week.",
+   "options": [
+    "has written",
+    "had written",
+    "writes",
+    "was written"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "has written ไม่ใช้ในเรื่องเล่า",
+    null,
+    "writes เป็นปัจจุบัน",
+    "was written ต้องไม่มีกรรม it"
+   ],
+   "explanation_th": "เขียนไว้ตั้งแต่ปีแรก (ก่อนวันนี้ในอดีต) → had written"
+  },
+  {
+   "id": "M10-C3-4",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(4) Through the window, she could hear her friends laughing in the courtyard, ___ photos and signing each other's shirts.",
+   "options": [
+    "taking",
+    "took",
+    "takes",
+    "to take"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "took ไม่ขนาน",
+    "takes ไม่ขนาน",
+    "to take ไม่ขนาน"
+   ],
+   "explanation_th": "hear friends laughing … taking photos (V-ing ขนาน)"
+  },
+  {
+   "id": "M10-C3-5",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(5) She wanted to remember this room exactly as it was: the green board, the old fan, and the poster of the solar system ___ had hung on the wall since before she was born.",
+   "options": [
+    "what",
+    "who",
+    "that",
+    "where"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "what ไม่ขยายคำนาม",
+    "who ใช้กับคน",
+    null,
+    "where ใช้เมื่อข้างหลังครบประโยค"
+   ],
+   "explanation_th": "ขยาย the poster (สิ่ง) + ประธานของ had hung → that"
+  },
+  {
+   "id": "M10-C3-6",
+   "skill": "g.tense-past",
+   "difficulty": 2,
+   "stem": "(6) \"I thought I ___ find you here,\"",
+   "options": [
+    "will",
+    "would",
+    "can",
+    "should"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "will ต้องถอยเป็น would",
+    null,
+    "can ไม่ถอย tense",
+    "should ความหมายผิด"
+   ],
+   "explanation_th": "I thought (อดีต) + I would find"
+  },
+  {
+   "id": "M10-C3-7",
+   "skill": "g.tense-past",
+   "difficulty": 2,
+   "stem": "(7) Three years earlier, she ___ too shy to say a single word in his class.",
+   "options": [
+    "has been",
+    "is",
+    "would be",
+    "had been"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "has been ไม่ใช้ในเรื่องเล่า",
+    "is เป็นปัจจุบัน",
+    "would be ความหมายผิด",
+    null
+   ],
+   "explanation_th": "Three years earlier (ก่อนตอนนั้น) → had been"
+  },
+  {
+   "id": "M10-C3-8",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(8) \"Being scared means you are ___ something that matters.\"",
+   "options": [
+    "do",
+    "done",
+    "to do",
+    "doing"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "are do ผิด",
+    "are done = ถูกทำ/เสร็จแล้ว ความหมายผิด",
+    "are to do ความหมายผิด",
+    null
+   ],
+   "explanation_th": "you are doing something = กำลังทำบางอย่าง (present continuous)"
+  },
+  {
+   "id": "M10-C3-9",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(9) Ploy put it carefully in her bag and walked out into the sunlight, ___ her friends were waiting.",
+   "options": [
+    "which",
+    "where",
+    "that",
+    "what"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "which ใช้เมื่อข้างหลังขาด",
+    null,
+    "that ใช้เมื่อข้างหลังขาด",
+    "what ไม่ขยายคำนาม"
+   ],
+   "explanation_th": "the sunlight (ที่ที่) เพื่อนรออยู่ + ข้างหลังครบ → where"
+  },
+  {
+   "id": "M10-C3-10",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(10) She did not know what the envelope contained, but she knew she would keep it ___ the rest of her life.",
+   "options": [
+    "since",
+    "at",
+    "for",
+    "by"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "since + จุดเริ่ม",
+    "at ใช้กับเวลาเป็นจุด ไม่ใช่ช่วงเวลาทั้งชีวิต ต้องใช้ for",
+    null,
+    "by = ภายใน ความหมายผิด"
+   ],
+   "explanation_th": "for the rest of her life = ตลอดชีวิตที่เหลือ"
+  }
+ ]
+}

@@ -1,0 +1,225 @@
+{
+ "id": "M09-R3",
+ "title": "Coffee Culture in Thailand",
+ "topic": "ข่าว/ข้อมูล",
+ "level": "B2",
+ "mock": "M09",
+ "lines": [
+  "Twenty years ago, most Thais drank coffee at home or bought it from",
+  "street stalls, where **it** was usually sweet and served with condensed",
+  "milk. Today, the country has more than 10,000 coffee shops, and the number",
+  "is still growing by around 8 percent a year.",
+  "Young customers are driving this change. For **many**, a café is not just a",
+  "place to drink coffee but also a place to study, meet friends or work on a",
+  "laptop. Shop owners say customers aged 18 to 30 often stay for two to",
+  "three hours, which can be a problem when **they** buy only one drink.",
+  "Thailand also grows its own coffee, mainly in the northern mountains.",
+  "Many farmers there used to grow opium, but in the 1970s a royal project",
+  "encouraged **them** to switch to coffee and other crops. **This** helped reduce",
+  "drug production and gave farmers a legal income. Today, Thai coffee beans",
+  "win international awards, and **some** are sold in Japan and Europe at high",
+  "prices."
+ ],
+ "questions": [
+  {
+   "id": "M09-R3-1",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'it' in line 2 refers to ___.",
+   "options": [
+    "the home",
+    "the street stall",
+    "coffee",
+    "condensed milk"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "บ้านไม่หวาน",
+    "แผงลอยไม่หวาน",
+    null,
+    "นมข้นถูกเสิร์ฟพร้อมกาแฟ"
+   ],
+   "explanation_th": "where it (coffee) was usually sweet"
+  },
+  {
+   "id": "M09-R3-2",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'many' in line 5 refers to ___.",
+   "options": [
+    "many coffee shops",
+    "many laptops",
+    "many farmers",
+    "many young customers"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ร้านไม่ได้ใช้ร้าน",
+    "ไม่ใช่",
+    "พูดถึงทีหลัง",
+    null
+   ],
+   "explanation_th": "Young customers … For many (of them)"
+  },
+  {
+   "id": "M09-R3-3",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'they' in line 8 refers to ___.",
+   "options": [
+    "shop owners",
+    "customers aged 18 to 30",
+    "coffee shops",
+    "drinks"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "เจ้าของร้านไม่ได้ซื้อ",
+    null,
+    "ไม่ใช่",
+    "ไม่ใช่"
+   ],
+   "explanation_th": "customers … stay … when they buy only one drink"
+  },
+  {
+   "id": "M09-R3-4",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'them' in line 11 refers to ___.",
+   "options": [
+    "opium plants",
+    "coffee shops",
+    "Thai customers",
+    "farmers in the northern mountains"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "พืชเปลี่ยนเองไม่ได้",
+    "ไม่ใช่",
+    "ไม่ใช่",
+    null
+   ],
+   "explanation_th": "encouraged them (farmers) to switch"
+  },
+  {
+   "id": "M09-R3-5",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'This' in line 11 refers to ___.",
+   "options": [
+    "farmers switching from opium to coffee and other crops",
+    "the royal project only",
+    "drug production",
+    "the 1970s"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "แคบเกินไป",
+    "เป็นสิ่งที่ลดลง",
+    "ไม่ใช่"
+   ],
+   "explanation_th": "การเปลี่ยนมาปลูกกาแฟช่วยลดยาเสพติด (ความคิดทั้งก้อน)"
+  },
+  {
+   "id": "M09-R3-6",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'some' in line 13 refers to ___.",
+   "options": [
+    "some farmers",
+    "some awards",
+    "some Thai coffee beans",
+    "some customers"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "คนไม่ได้ถูกขาย",
+    "รางวัลไม่ได้ถูกขาย",
+    null,
+    "ไม่ใช่"
+   ],
+   "explanation_th": "Thai coffee beans … some are sold in Japan and Europe"
+  },
+  {
+   "id": "M09-R3-7",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "How many coffee shops does Thailand have today?",
+   "options": [
+    "About 8,000",
+    "Fewer than 1,000",
+    "More than 10,000",
+    "Exactly 18,000"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "8 คือเปอร์เซ็นต์การเติบโต",
+    "ไม่ใช่",
+    null,
+    "ไม่มีในบทความ"
+   ],
+   "explanation_th": "more than 10,000 coffee shops"
+  },
+  {
+   "id": "M09-R3-8",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "What problem do shop owners mention?",
+   "options": [
+    "Customers stay for hours but buy only one drink.",
+    "Coffee is too expensive.",
+    "There are not enough customers.",
+    "Customers do not like sweet coffee."
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ไม่มีในบทความ",
+    "ขัดกับบทความ",
+    "ไม่มีในบทความ"
+   ],
+   "explanation_th": "บรรทัด 7–8"
+  },
+  {
+   "id": "M09-R3-9",
+   "skill": "r.detail",
+   "difficulty": 3,
+   "stem": "What were the results of the royal project?",
+   "options": [
+    "More coffee shops in Bangkok",
+    "Cheaper coffee in Europe",
+    "More opium farms",
+    "Less drug production and legal income for farmers"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ",
+    "ตรงข้าม",
+    null
+   ],
+   "explanation_th": "บรรทัด 11–12"
+  },
+  {
+   "id": "M09-R3-10",
+   "skill": "r.not-true",
+   "difficulty": 2,
+   "stem": "Which statement is NOT true?",
+   "options": [
+    "Thai coffee beans have won international awards.",
+    "Thai coffee is sold only inside Thailand.",
+    "Coffee is grown mainly in the north.",
+    "The number of coffee shops is still growing."
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "จริง",
+    null,
+    "จริง",
+    "จริง"
+   ],
+   "explanation_th": "บางส่วนขายในญี่ปุ่นและยุโรป"
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "id": "M01-C2",
+ "title": "Grandma and the Smart Speaker",
+ "genre": "เรื่องเล่าขำ ๆ",
+ "level": "B1",
+ "mock": "M01",
+ "text": "Last year my uncle gave my grandmother a smart speaker for her birthday. You can ask it questions, and it answers in a (1) voice. My grandmother was suspicious of it from the start. \"Why (2) a box want to listen to me all day?\" she asked. For the first week, she refused to touch it.\nThen one evening, she (3) the TV news when the speaker suddenly said, \"Sorry, I didn't understand that.\" My grandmother jumped out of her chair. She was sure the speaker (4) to her conversations for days. From then on, she spoke to it very (5), as if it were an important guest. Every morning she said, \"Good morning, sir. Thank you for (6) my house.\" (7) she asked about the weather, she always said \"please.\"\nMy cousins laughed at (8), but I think she was right in a way. (9) kind costs nothing, even to a machine. Now the speaker plays her favorite old songs every evening, and she says it is the most polite member of (10) family.",
+ "items": [
+  {
+   "id": "M01-C2-1",
+   "skill": "g.wordform",
+   "difficulty": 1,
+   "stem": "(1) You can ask it questions, and it answers in a ___ voice.",
+   "options": [
+    "friend",
+    "friendship",
+    "friendly",
+    "friendlily"
+   ],
+   "answer": 2,
+   "explanation_th": "หน้าคำนาม voice ต้องเป็น adjective → friendly",
+   "why_wrong": [
+    "friend เป็นคำนาม",
+    "friendship เป็นคำนาม",
+    null,
+    "friendlily ไม่ใช่คำที่ใช้กัน และเป็น adverb"
+   ]
+  },
+  {
+   "id": "M01-C2-2",
+   "skill": "g.modal-perfect",
+   "difficulty": 2,
+   "stem": "(2) \"Why ___ a box want to listen to me all day?\"",
+   "options": [
+    "would",
+    "is",
+    "has",
+    "being"
+   ],
+   "answer": 0,
+   "explanation_th": "Why would…? = ทำไมถึงจะ… (แสดงความสงสัย) ตามด้วย V1 want",
+   "why_wrong": [
+    null,
+    "Why is a box want ผิด (is + V1 ไม่ได้)",
+    "Why has a box want ผิดรูป",
+    "being ไม่ใช่กริยาช่วยในคำถาม"
+   ]
+  },
+  {
+   "id": "M01-C2-3",
+   "skill": "g.tense-past",
+   "difficulty": 2,
+   "stem": "(3) Then one evening, she ___ the TV news when the speaker suddenly said, \"Sorry, I didn't understand that.\"",
+   "options": [
+    "watched",
+    "was watching",
+    "is watching",
+    "has watched"
+   ],
+   "answer": 1,
+   "explanation_th": "กำลังดูข่าวอยู่แล้วลำโพงพูดขัด → was watching",
+   "why_wrong": [
+    "watched when… = ดูหลังจากลำโพงพูด ลำดับไม่ตรง",
+    null,
+    "is watching เป็นปัจจุบัน",
+    "has watched ไม่ใช้ในเรื่องเล่าอดีต"
+   ]
+  },
+  {
+   "id": "M01-C2-4",
+   "skill": "g.tense-past",
+   "difficulty": 3,
+   "stem": "(4) She was sure the speaker ___ to her conversations for days.",
+   "options": [
+    "has listened",
+    "listens",
+    "will listen",
+    "had been listening"
+   ],
+   "answer": 3,
+   "explanation_th": "เชื่อว่าลำโพงแอบฟังมาหลายวันก่อนตอนนั้น (อดีต) → had been listening",
+   "why_wrong": [
+    "has listened ไม่ใช้ในเรื่องเล่าอดีต",
+    "listens เป็นปัจจุบัน",
+    "will listen เป็นอนาคต ขัดกับ for days ที่ผ่านมา",
+    null
+   ]
+  },
+  {
+   "id": "M01-C2-5",
+   "skill": "g.wordform",
+   "difficulty": 1,
+   "stem": "(5) From then on, she spoke to it very ___, as if it were an important guest.",
+   "options": [
+    "polite",
+    "politeness",
+    "politely",
+    "more polite"
+   ],
+   "answer": 2,
+   "explanation_th": "ขยายกริยา spoke (พูดอย่างไร) → politely",
+   "why_wrong": [
+    "polite เป็น adjective",
+    "politeness เป็นคำนาม",
+    null,
+    "very more polite ผิด และเป็น adjective"
+   ]
+  },
+  {
+   "id": "M01-C2-6",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(6) Thank you for ___ my house.\"",
+   "options": [
+    "protect",
+    "protected",
+    "to protect",
+    "protecting"
+   ],
+   "answer": 3,
+   "explanation_th": "หลังบุพบท for ต้องเป็น V-ing → for protecting",
+   "why_wrong": [
+    "หลังบุพบทใช้ V1 ไม่ได้",
+    "protected เป็น V2/V3",
+    "หลัง for ไม่ใช้ to + V",
+    null
+   ]
+  },
+  {
+   "id": "M01-C2-7",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stem": "(7) ___ she asked about the weather, she always said \"please.\"",
+   "options": [
+    "Whenever",
+    "Whatever",
+    "However",
+    "Wherever"
+   ],
+   "answer": 0,
+   "explanation_th": "ทุกครั้งที่ถามเรื่องอากาศ → Whenever",
+   "why_wrong": [
+    null,
+    "Whatever = อะไรก็ตาม",
+    "However = อย่างไรก็ตาม/ไม่ว่าจะ…แค่ไหน",
+    "Wherever = ที่ไหนก็ตาม"
+   ]
+  },
+  {
+   "id": "M01-C2-8",
+   "skill": "g.pronoun",
+   "difficulty": 1,
+   "stem": "(8) My cousins laughed at ___, but I think she was right in a way.",
+   "options": [
+    "she",
+    "her",
+    "hers",
+    "herself"
+   ],
+   "answer": 1,
+   "explanation_th": "หลังบุพบท at = กรรม หมายถึงคุณยาย → her",
+   "why_wrong": [
+    "she เป็นประธาน",
+    null,
+    "hers = ของเธอ",
+    "herself = ตัวลูกพี่ลูกน้องเอง? ประธานคือ My cousins ไม่ใช่เธอ"
+   ]
+  },
+  {
+   "id": "M01-C2-9",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(9) ___ kind costs nothing, even to a machine.",
+   "options": [
+    "Be",
+    "Been",
+    "Being",
+    "To being"
+   ],
+   "answer": 2,
+   "explanation_th": "ประธานที่เป็นการกระทำใช้ V-ing → Being kind costs nothing",
+   "why_wrong": [
+    "Be เป็นคำสั่ง ทำหน้าที่ประธานไม่ได้",
+    "Been ต้องมี have นำหน้า",
+    null,
+    "To being ผิดรูป (ต้องเป็น To be)"
+   ]
+  },
+  {
+   "id": "M01-C2-10",
+   "skill": "g.pronoun",
+   "difficulty": 1,
+   "stem": "(10) Now the speaker plays her favorite old songs every evening, and she says it is the most polite member of ___ family.",
+   "options": [
+    "us",
+    "we",
+    "ours",
+    "our"
+   ],
+   "answer": 3,
+   "explanation_th": "หน้าคำนาม family → our",
+   "why_wrong": [
+    "us เป็นกรรม",
+    "we เป็นประธาน",
+    "ours ใช้โดยไม่มีคำนามตาม",
+    null
+   ]
+  }
+ ]
+}

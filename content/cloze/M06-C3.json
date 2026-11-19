@@ -1,0 +1,210 @@
+{
+ "id": "M06-C3",
+ "title": "The Letter in the Library Book",
+ "genre": "วรรณกรรม",
+ "level": "B2",
+ "mock": "M06",
+ "text": "Somchai found the letter inside an old library book about the stars. The paper was yellow, and the date at the top (1) 1974. \"To whoever finds this,\" it began. \"I am sixteen, and tomorrow I (2) my village to work in the city. I do not know (3) I will ever come back.\" The writer, a girl named Kaew, described her village: the rice fields, the river (4) she swam every evening, and the old tamarind tree near her house. \"If you (5) this letter, please visit my village and tell the tree I miss it.\"\nThe village was only two hours away by bus. The next Saturday, Somchai went. The rice fields were gone, (6) by houses and shops, but the tamarind tree was still standing. Under it sat an old woman, (7) a book. \"Excuse me,\" Somchai said, (8) out the letter. The woman read it slowly, and tears filled her eyes. \"I wrote this,\" she whispered. \"I came back many years ago, but I (9) that anyone would find it.\" They talked until sunset, two strangers (10) a fifty-year-old letter had brought together.",
+ "items": [
+  {
+   "id": "M06-C3-1",
+   "skill": "g.tense-past",
+   "difficulty": 1,
+   "stem": "(1) The paper was yellow, and the date at the top ___ 1974.",
+   "options": [
+    "was",
+    "is",
+    "were",
+    "has been"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "is เป็นปัจจุบัน",
+    "were ใช้กับพหูพจน์",
+    "has been ไม่เข้ากับเรื่องเล่าอดีต"
+   ],
+   "explanation_th": "เรื่องเล่าอดีต + the date (เอกพจน์) → was"
+  },
+  {
+   "id": "M06-C3-2",
+   "skill": "g.tense-present",
+   "difficulty": 2,
+   "stem": "(2) \"I am sixteen, and tomorrow I ___ my village to work in the city.",
+   "options": [
+    "leaving",
+    "will leave",
+    "left",
+    "had left"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "leaving ไม่ใช่กริยาแท้",
+    null,
+    "left เป็นอดีต",
+    "had left เป็นอดีต"
+   ],
+   "explanation_th": "tomorrow = อนาคต → will leave"
+  },
+  {
+   "id": "M06-C3-3",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stem": "(3) I do not know ___ I will ever come back.\"",
+   "options": [
+    "whether",
+    "that",
+    "what",
+    "which"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "that ไม่ให้ความหมายสงสัย",
+    "what ต้องมีช่องว่างในประโยคตาม",
+    "which ต้องมีคำนาม"
+   ],
+   "explanation_th": "don't know whether = ไม่รู้ว่า…หรือไม่"
+  },
+  {
+   "id": "M06-C3-4",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(4) The writer, a girl named Kaew, described her village: the rice fields, the river ___ she swam every evening, and the old tamarind tree near her house.",
+   "options": [
+    "which",
+    "that",
+    "where",
+    "what"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "which ต้องมี in",
+    "that ใช้เมื่อข้างหลังขาดประธาน/กรรม",
+    null,
+    "what ไม่ขยายคำนาม"
+   ],
+   "explanation_th": "แม่น้ำ (สถานที่) + ข้างหลังครบประโยค → where"
+  },
+  {
+   "id": "M06-C3-5",
+   "skill": "g.conditional",
+   "difficulty": 1,
+   "stem": "(5) \"If you ___ this letter, please visit my village and tell the tree I miss it.\"",
+   "options": [
+    "found",
+    "will find",
+    "had found",
+    "find"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "found ใช้กับ would",
+    "หลัง if ไม่ใช้ will",
+    "had found ใช้กับแบบที่ 3",
+    null
+   ],
+   "explanation_th": "If แบบที่ 1 + please visit → If you find"
+  },
+  {
+   "id": "M06-C3-6",
+   "skill": "g.passive",
+   "difficulty": 3,
+   "stem": "(6) The rice fields were gone, ___ by houses and shops, but the tamarind tree was still standing.",
+   "options": [
+    "replacing",
+    "replaced",
+    "replace",
+    "to replace"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "replacing = ทุ่งนาเป็นผู้แทนที่ ความหมายกลับ",
+    null,
+    "replace ผิดรูป",
+    "to replace ผิดความหมาย"
+   ],
+   "explanation_th": "ทุ่งนาถูกแทนที่โดยบ้าน → replaced (V3 เชิง passive)"
+  },
+  {
+   "id": "M06-C3-7",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(7) Under it sat an old woman, ___ a book.",
+   "options": [
+    "read",
+    "reads",
+    "to read",
+    "reading"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "read กำกวม/ไม่บอกภาพกำลังทำ",
+    "reads เป็นปัจจุบัน",
+    "to read = เพื่อจะอ่าน",
+    null
+   ],
+   "explanation_th": "วลีขยายภาพ (นั่งอยู่พลางอ่าน) → reading"
+  },
+  {
+   "id": "M06-C3-8",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(8) Somchai said, ___ out the letter.",
+   "options": [
+    "holding",
+    "held",
+    "holds",
+    "to hold"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "held ต้องมีคำเชื่อม",
+    "holds เป็นปัจจุบัน",
+    "to hold ผิดความหมาย"
+   ],
+   "explanation_th": "said, holding out the letter = พูดพลางยื่นจดหมาย"
+  },
+  {
+   "id": "M06-C3-9",
+   "skill": "g.tense-past",
+   "difficulty": 2,
+   "stem": "(9) \"I came back many years ago, but I ___ that anyone would find it.\"",
+   "options": [
+    "have never thought",
+    "never think",
+    "never thought",
+    "will never think"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "have never thought ไม่เข้ากับ came back many years ago",
+    "never think เป็นปัจจุบัน",
+    null,
+    "will เป็นอนาคต"
+   ],
+   "explanation_th": "เล่าความคิดในอดีต → never thought"
+  },
+  {
+   "id": "M06-C3-10",
+   "skill": "g.relative",
+   "difficulty": 3,
+   "stem": "(10) They talked until sunset, two strangers ___ a fifty-year-old letter had brought together.",
+   "options": [
+    "which",
+    "whose",
+    "whom",
+    "where"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "which ใช้กับสิ่ง",
+    "whose ต้องตามด้วยคำนาม",
+    null,
+    "where ใช้กับสถานที่"
+   ],
+   "explanation_th": "strangers (คน) เป็นกรรมของ had brought → whom"
+  }
+ ]
+}

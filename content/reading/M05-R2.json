@@ -1,0 +1,225 @@
+{
+ "id": "M05-R2",
+ "title": "Learning to Say No",
+ "topic": "ประสบการณ์ส่วนตัว",
+ "level": "B1",
+ "mock": "M05",
+ "lines": [
+  "For most of my life, I found it impossible to say no. When classmates",
+  "asked to copy my homework, I let **them**. When my cousin asked me to",
+  "help with her online shop every weekend, I agreed, even though I had",
+  "exams. I thought saying yes made people like me. In fact, it only made",
+  "me tired and stressed.",
+  "Things changed when my teacher, Mrs. Pim, noticed that I looked",
+  "exhausted. After class, she asked what was wrong. When I explained, **she**",
+  "told me something I still remember: \"Every time you say yes to",
+  "something you don't want to do, you say no to something you do.\" **That**",
+  "made me realize how much time I was giving away.",
+  "I started small. I told my classmates I would explain the homework but",
+  "not let them copy **it**. To my surprise, most of them thanked me. My",
+  "cousin was upset at first, but now she pays a student to help her.",
+  "I still help people, but now I choose when and how."
+ ],
+ "questions": [
+  {
+   "id": "M05-R2-1",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'them' in line 2 refers to ___.",
+   "options": [
+    "the classmates",
+    "the exams",
+    "the cousins",
+    "the teachers"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ข้อสอบลอกการบ้านไม่ได้",
+    "มีลูกพี่ลูกน้องคนเดียวและพูดถึงทีหลัง",
+    "ไม่มีครูในประโยค"
+   ],
+   "explanation_th": "classmates asked to copy … I let them"
+  },
+  {
+   "id": "M05-R2-2",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'she' in line 7 refers to ___.",
+   "options": [
+    "the cousin",
+    "the writer",
+    "Mrs. Pim",
+    "a classmate"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ลูกพี่ลูกน้องไม่ได้อยู่ในฉากนี้",
+    "ผู้เขียนเป็นผู้ฟัง",
+    null,
+    "ไม่มีเพื่อนในฉากนี้"
+   ],
+   "explanation_th": "ครูพิมพ์ถามและบอกข้อคิด"
+  },
+  {
+   "id": "M05-R2-3",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'That' in line 9 refers to ___.",
+   "options": [
+    "the online shop",
+    "looking exhausted",
+    "Mrs. Pim's words about saying yes and no",
+    "the homework"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ไม่ได้อยู่ในประโยคก่อนหน้า",
+    "เป็นสิ่งที่ครูสังเกต ไม่ใช่สิ่งที่ทำให้ตระหนัก",
+    null,
+    "ไม่ได้อยู่ในประโยคก่อนหน้า"
+   ],
+   "explanation_th": "สิ่งที่ทำให้ตระหนัก = คำพูดของครูที่เพิ่งยกมา"
+  },
+  {
+   "id": "M05-R2-4",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'it' in line 12 refers to ___.",
+   "options": [
+    "the homework",
+    "the online shop",
+    "the explanation",
+    "the class"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ไม่ได้อยู่ในประโยค",
+    "การอธิบายลอกไม่ได้",
+    "ห้องเรียนลอกไม่ได้"
+   ],
+   "explanation_th": "explain the homework but not let them copy it (the homework)"
+  },
+  {
+   "id": "M05-R2-5",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "Why did the writer always say yes?",
+   "options": [
+    "She wanted to earn money.",
+    "Her teacher told her to.",
+    "She had no exams.",
+    "She thought it made people like her."
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ไม่มีในบทความ",
+    "ครูบอกตรงข้าม",
+    "ขัดกับ even though I had exams",
+    null
+   ],
+   "explanation_th": "บรรทัด 4"
+  },
+  {
+   "id": "M05-R2-6",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "What was the result of always saying yes?",
+   "options": [
+    "She became very popular.",
+    "She felt tired and stressed.",
+    "She got better grades.",
+    "Her cousin paid her."
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ไม่มีหลักฐาน",
+    null,
+    "ไม่มีหลักฐาน",
+    "ญาติจ่ายเงินให้นักศึกษาคนอื่นทีหลัง"
+   ],
+   "explanation_th": "it only made me tired and stressed"
+  },
+  {
+   "id": "M05-R2-7",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Mrs. Pim noticed that the writer ___.",
+   "options": [
+    "looked very tired",
+    "copied homework",
+    "was late for class",
+    "had a part-time job"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ผู้เขียนให้คนอื่นลอก ไม่ได้ลอกเอง",
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ"
+   ],
+   "explanation_th": "looked exhausted (ถอดความ)"
+  },
+  {
+   "id": "M05-R2-8",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "What does Mrs. Pim's advice mean?",
+   "options": [
+    "You should never help anyone.",
+    "Saying no makes people angry.",
+    "When you agree to things you don't want, you lose time for things you do want.",
+    "You should only help your family."
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "เกินจริง",
+    "ไม่ใช่ใจความ",
+    null,
+    "ไม่ใช่ใจความ"
+   ],
+   "explanation_th": "ถอดความจากคำพูดในบรรทัด 8–9"
+  },
+  {
+   "id": "M05-R2-9",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "What does the cousin do now?",
+   "options": [
+    "She closed her online shop.",
+    "She pays a student to help her.",
+    "She still asks the writer every weekend.",
+    "She works alone."
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ไม่มีในบทความ",
+    null,
+    "ขัดกับบทความ",
+    "ขัดกับบทความ"
+   ],
+   "explanation_th": "now she pays a student to help her"
+  },
+  {
+   "id": "M05-R2-10",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stem": "Which best describes the writer now?",
+   "options": [
+    "She refuses to help anyone.",
+    "She still says yes to everything.",
+    "She no longer talks to her cousin.",
+    "She decides for herself when to help others."
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ขัดกับ I still help people",
+    "ขัดกับเรื่องทั้งหมด",
+    "ไม่มีหลักฐาน",
+    null
+   ],
+   "explanation_th": "I still help people, but now I choose when and how"
+  }
+ ]
+}

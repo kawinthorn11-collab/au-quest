@@ -1,0 +1,210 @@
+{
+ "id": "M03-C3",
+ "title": "The Piano in the Hall",
+ "genre": "วรรณกรรม",
+ "level": "B2",
+ "mock": "M03",
+ "text": "Nobody in the village knew (1) the old piano had come from. It stood in the corner of the community hall, its keys yellow with age, and no one had played it for (2) anyone could remember. Children were told not to touch it, (3) the dust might make them sick.\nThen, one rainy afternoon, a girl named Lin (4) into the hall to escape the storm. She was eleven, small for her age, and (5) shy that she rarely spoke at school. Alone in the hall, she lifted the lid and pressed a single key. The sound was soft and sad, like someone (6) a secret. Lin pressed another key, and then another. By the time the rain stopped, she (7) a simple melody.\nShe came back the next day, and the next. Weeks later, the hall caretaker heard music (8) he unlocked the door one morning. He did not say a word to anyone. Instead, he quietly cleaned the piano and placed a new cushion on (9) stool. When Lin saw it, she understood. Someone had heard her. For the first time in her life, she felt that her voice, even without words, (10).",
+ "items": [
+  {
+   "id": "M03-C3-1",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(1) Nobody in the village knew ___ the old piano had come from.",
+   "options": [
+    "what",
+    "where",
+    "which",
+    "that"
+   ],
+   "answer": 1,
+   "explanation_th": "come from + สถานที่ → knew where the piano had come from",
+   "why_wrong": [
+    "what … come from ใช้ได้ยาก และความหมายคือ \"จากอะไร\" ไม่ใช่ที่มา",
+    null,
+    "which ต้องมีคำนามให้ขยาย",
+    "that ทำให้ประโยคขาดกรรมของ from"
+   ]
+  },
+  {
+   "id": "M03-C3-2",
+   "skill": "g.fixed",
+   "difficulty": 3,
+   "stem": "(2) It stood in the corner of the community hall, its keys yellow with age, and no one had played it for ___ anyone could remember.",
+   "options": [
+    "so long",
+    "long as",
+    "as long as",
+    "as long"
+   ],
+   "answer": 2,
+   "explanation_th": "for as long as anyone could remember = นานเท่าที่ใครจะจำได้",
+   "why_wrong": [
+    "so long ไม่ใช่สำนวนนี้",
+    "long as ขาด as ตัวแรก",
+    null,
+    "as long ขาด as ตัวหลัง"
+   ]
+  },
+  {
+   "id": "M03-C3-3",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stem": "(3) Children were told not to touch it, ___ the dust might make them sick.",
+   "options": [
+    "although",
+    "unless",
+    "so",
+    "because"
+   ],
+   "answer": 3,
+   "explanation_th": "ห้ามแตะเพราะฝุ่นอาจทำให้ป่วย → because",
+   "why_wrong": [
+    "although ไม่สมเหตุผล",
+    "unless = ถ้าไม่",
+    "so ทำให้กลับเหตุ-ผล",
+    null
+   ]
+  },
+  {
+   "id": "M03-C3-4",
+   "skill": "g.tense-past",
+   "difficulty": 1,
+   "stem": "(4) Then, one rainy afternoon, a girl named Lin ___ into the hall to escape the storm.",
+   "options": [
+    "ran",
+    "runs",
+    "has run",
+    "had run"
+   ],
+   "answer": 0,
+   "explanation_th": "เหตุการณ์หลักในเรื่องเล่า (one rainy afternoon) → ran",
+   "why_wrong": [
+    null,
+    "runs เป็นปัจจุบัน",
+    "has run ไม่ใช้ในเรื่องเล่าอดีต",
+    "had run ใช้กับสิ่งที่เกิดก่อนอีกเหตุการณ์ แต่นี่คือเหตุการณ์หลัก"
+   ]
+  },
+  {
+   "id": "M03-C3-5",
+   "skill": "g.fixed",
+   "difficulty": 2,
+   "stem": "(5) She was eleven, small for her age, and ___ shy that she rarely spoke at school.",
+   "options": [
+    "such",
+    "so",
+    "too",
+    "very"
+   ],
+   "answer": 1,
+   "explanation_th": "so + adj + that = …มากจน…",
+   "why_wrong": [
+    "such ใช้กับคำนาม (such a shy girl that)",
+    null,
+    "too … that ผิดโครงสร้าง",
+    "very … that ผิดโครงสร้าง"
+   ]
+  },
+  {
+   "id": "M03-C3-6",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(6) The sound was soft and sad, like someone ___ a secret.",
+   "options": [
+    "whisper",
+    "whispers",
+    "whispering",
+    "to whisper"
+   ],
+   "answer": 2,
+   "explanation_th": "like someone whispering = เหมือนใครสักคนกำลังกระซิบ (V-ing ขยาย someone)",
+   "why_wrong": [
+    "someone เป็นเอกพจน์ ถ้าใช้กริยาแท้ต้องเติม s และในที่นี้ต้องใช้ -ing ต่อจาก like someone",
+    "whispers เป็นกริยาแท้ ใช้ตรงนี้ไม่ได้",
+    null,
+    "to whisper = เพื่อจะกระซิบ"
+   ]
+  },
+  {
+   "id": "M03-C3-7",
+   "skill": "g.tense-past",
+   "difficulty": 2,
+   "stem": "(7) By the time the rain stopped, she ___ a simple melody.",
+   "options": [
+    "has learned",
+    "learns",
+    "learn",
+    "had learned"
+   ],
+   "answer": 3,
+   "explanation_th": "By the time + V2 → อีกส่วนใช้ had + V3",
+   "why_wrong": [
+    "has learned ไม่ใช้ในเรื่องเล่าอดีต",
+    "learns เป็นปัจจุบัน",
+    "learn เป็นปัจจุบันรูปพื้นฐาน ไม่เข้ากับ By the time ... stopped ที่เป็นอดีต",
+    null
+   ]
+  },
+  {
+   "id": "M03-C3-8",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stem": "(8) Weeks later, the hall caretaker heard music ___ he unlocked the door one morning.",
+   "options": [
+    "as",
+    "so",
+    "unless",
+    "although"
+   ],
+   "answer": 0,
+   "explanation_th": "as = ขณะที่ (ได้ยินเพลงตอนกำลังไขกุญแจ)",
+   "why_wrong": [
+    null,
+    "so ทำให้เป็นผลลัพธ์",
+    "unless = ถ้าไม่",
+    "although ไม่สมเหตุผล"
+   ]
+  },
+  {
+   "id": "M03-C3-9",
+   "skill": "g.pronoun",
+   "difficulty": 2,
+   "stem": "(9) Instead, he quietly cleaned the piano and placed a new cushion on ___ stool.",
+   "options": [
+    "it's",
+    "it",
+    "its",
+    "their"
+   ],
+   "answer": 2,
+   "explanation_th": "ม้านั่งของเปียโน (the piano = it) → its stool",
+   "why_wrong": [
+    "it's = it is",
+    "it เป็นสรรพนามประธาน/กรรม วางหน้าคำนาม stool ไม่ได้ ต้องใช้ its",
+    null,
+    "their ไม่มีเจ้าของพหูพจน์"
+   ]
+  },
+  {
+   "id": "M03-C3-10",
+   "skill": "g.tense-past",
+   "difficulty": 3,
+   "stem": "(10) For the first time in her life, she felt that her voice, even without words, ___.",
+   "options": [
+    "mattering",
+    "mattered",
+    "was mattering",
+    "matter"
+   ],
+   "answer": 1,
+   "explanation_th": "felt that … (เล่าความรู้สึกในอดีต) → mattered",
+   "why_wrong": [
+    "mattering ไม่ใช่กริยาแท้",
+    null,
+    "matter ไม่ใช้รูป -ing",
+    "her voice matter ผิด (ประธานเอกพจน์ + ต้องเป็นอดีต)"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+.env
+node_modules
+dist
+recordings/
+.DS_Store
+.env*
+reference/*.pdf
+reports/
+5gwu2b.txt
+*.log

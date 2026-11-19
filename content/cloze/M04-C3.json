@@ -1,0 +1,210 @@
+{
+ "id": "M04-C3",
+ "title": "The Old Fisherman's Gift",
+ "genre": "วรรณกรรม",
+ "level": "B1",
+ "mock": "M04",
+ "text": "Every morning, old Somboon (1) his small boat out before the sun came up. He had fished in the same bay for fifty years, and he knew every rock (2) every current. One morning, a boy named Pete was sitting on the beach, (3) at the sea. Somboon had seen him there before, always alone.\n\"Do you want to come?\" the old man asked. Pete looked surprised, but he nodded and (4) into the boat. At first, Pete was too afraid (5) the net. Somboon showed him (6) to throw it, slowly and patiently. By noon, they (7) twenty fish. Pete laughed for the first time in weeks.\nWhen they returned, Pete's mother was waiting on the beach. She told Somboon that her son (8) a word since his father had left. \"Thank you,\" she whispered. The next morning, Pete was on the beach again, (9) time with a small bag of food for the old man. It was the beginning of a friendship (10) would last for many years.",
+ "items": [
+  {
+   "id": "M04-C3-1",
+   "skill": "g.tense-past",
+   "difficulty": 1,
+   "stem": "(1) Every morning, old Somboon ___ his small boat out before the sun came up.",
+   "options": [
+    "push",
+    "pushes",
+    "pushed",
+    "was pushed"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "push เป็นปัจจุบัน",
+    "pushes เป็นปัจจุบัน",
+    null,
+    "was pushed = ถูกผลัก ความหมายผิด"
+   ],
+   "explanation_th": "กิจวัตรในอดีต (เรื่องเล่า) → pushed"
+  },
+  {
+   "id": "M04-C3-2",
+   "skill": "g.parallel",
+   "difficulty": 1,
+   "stem": "(2) He had fished in the same bay for fifty years, and he knew every rock ___ every current.",
+   "options": [
+    "or",
+    "and",
+    "but",
+    "so"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "or = อย่างใดอย่างหนึ่ง ความหมายไม่เข้า",
+    null,
+    "but ไม่ได้ขัดกัน",
+    "so ไม่สมเหตุผล"
+   ],
+   "explanation_th": "every rock and every current = รู้ทั้งสองอย่าง"
+  },
+  {
+   "id": "M04-C3-3",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(3) One morning, a boy named Pete was sitting on the beach, ___ at the sea.",
+   "options": [
+    "stared",
+    "stares",
+    "to stare",
+    "staring"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "stared ต้องมีคำเชื่อม",
+    "stares เป็นปัจจุบัน",
+    "to stare = เพื่อจะจ้อง ความหมายผิด",
+    null
+   ],
+   "explanation_th": "วลีขยายภาพ (นั่ง…พลางจ้องทะเล) → staring"
+  },
+  {
+   "id": "M04-C3-4",
+   "skill": "g.parallel",
+   "difficulty": 1,
+   "stem": "(4) Pete looked surprised, but he nodded and ___ into the boat.",
+   "options": [
+    "climbing",
+    "climbs",
+    "to climb",
+    "climbed"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "climbing ไม่ขนาน",
+    "climbs เป็นปัจจุบัน",
+    "to climb ไม่ขนาน",
+    null
+   ],
+   "explanation_th": "nodded and climbed (V2 ขนานกัน)"
+  },
+  {
+   "id": "M04-C3-5",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(5) At first, Pete was too afraid ___ the net.",
+   "options": [
+    "touching",
+    "to touch",
+    "touch",
+    "for touching"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "too afraid touching ผิด",
+    null,
+    "ขาด to",
+    "for touching ไม่ใช่ too…to"
+   ],
+   "explanation_th": "too + adj + to V"
+  },
+  {
+   "id": "M04-C3-6",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(6) Somboon showed him ___ to throw it, slowly and patiently.",
+   "options": [
+    "what",
+    "which",
+    "how",
+    "that"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "what to throw it ซ้ำกรรม it",
+    "which to throw ต้องมีคำนาม",
+    null,
+    "that to throw ผิด"
+   ],
+   "explanation_th": "show sb how to V = สอนวิธี…"
+  },
+  {
+   "id": "M04-C3-7",
+   "skill": "g.tense-past",
+   "difficulty": 2,
+   "stem": "(7) By noon, they ___ twenty fish.",
+   "options": [
+    "had caught",
+    "have caught",
+    "catch",
+    "were caught"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "have caught ไม่ใช้ในเรื่องเล่าอดีต",
+    "catch เป็นปัจจุบัน",
+    "were caught = ถูกจับ ความหมายกลับ"
+   ],
+   "explanation_th": "By noon (จุดในอดีต) → had caught"
+  },
+  {
+   "id": "M04-C3-8",
+   "skill": "g.tense-past",
+   "difficulty": 3,
+   "stem": "(8) She told Somboon that her son ___ a word since his father had left.",
+   "options": [
+    "has not spoken",
+    "had not spoken",
+    "does not speak",
+    "will not speak"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ต้องถอยเป็น had ในการเล่าอดีต",
+    null,
+    "does not speak เป็นปัจจุบัน",
+    "will not speak เป็นอนาคต"
+   ],
+   "explanation_th": "เล่าคำพูด (told that) + since his father had left → had not spoken"
+  },
+  {
+   "id": "M04-C3-9",
+   "skill": "g.demonstrative",
+   "difficulty": 2,
+   "stem": "(9) The next morning, Pete was on the beach again, ___ time with a small bag of food for the old man.",
+   "options": [
+    "this",
+    "these",
+    "it",
+    "those"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "these ใช้กับพหูพจน์",
+    "it time ผิด",
+    "those ใช้กับพหูพจน์"
+   ],
+   "explanation_th": "this time = ครั้งนี้ (เอกพจน์)"
+  },
+  {
+   "id": "M04-C3-10",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(10) It was the beginning of a friendship ___ would last for many years.",
+   "options": [
+    "what",
+    "where",
+    "that",
+    "who"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "what ไม่ขยายคำนามข้างหน้า",
+    "where ใช้กับสถานที่",
+    null,
+    "who ใช้กับคน"
+   ],
+   "explanation_th": "ขยาย a friendship (สิ่ง) + ประธานของ would last → that"
+  }
+ ]
+}

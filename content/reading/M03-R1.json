@@ -1,0 +1,227 @@
+{
+ "id": "M03-R1",
+ "title": "The Moving Stones",
+ "topic": "วิทยาศาสตร์",
+ "level": "B2",
+ "mock": "M03",
+ "lines": [
+  "For decades, visitors to Racetrack Playa, a dry lake in California, were",
+  "puzzled by a strange sight: heavy rocks, some weighing over 300 kilograms,",
+  "that seemed to have moved across the flat ground by **themselves**, leaving",
+  "long trails behind them. No one had ever seen **them** move, and theories",
+  "ranged from strong winds to magnetic forces and even aliens.",
+  "In 2014, a team of scientists finally solved the mystery. They placed GPS",
+  "trackers on several rocks and set up cameras nearby. During one cold winter,",
+  "a thin layer of rain froze on the lake at night. When the sun came out,",
+  "the ice broke into large, thin sheets. Light winds then pushed **these**",
+  "sheets, and the sheets pushed the rocks at a speed of a few meters per",
+  "minute. The movement was so slow that a person standing nearby might not",
+  "have noticed **it**.",
+  "The discovery shows that some natural events need a rare combination of",
+  "conditions. Without rain, frost and wind arriving in exactly the right",
+  "order, the rocks stay still for years. **That** is why nobody had caught",
+  "them moving before."
+ ],
+ "questions": [
+  {
+   "id": "M03-R1-1",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'themselves' in line 3 refers to ___.",
+   "options": [
+    "the visitors",
+    "the rocks",
+    "the trails",
+    "the scientists"
+   ],
+   "answer": 1,
+   "explanation_th": "heavy rocks … moved by themselves (the rocks)",
+   "why_wrong": [
+    "ผู้มาเยือนไม่ได้เคลื่อน",
+    null,
+    "รอยเป็นผลของการเคลื่อน",
+    "นักวิทยาศาสตร์ยังไม่ปรากฏ"
+   ]
+  },
+  {
+   "id": "M03-R1-2",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'them' in line 4 refers to ___.",
+   "options": [
+    "the trails",
+    "the visitors",
+    "the rocks",
+    "the theories"
+   ],
+   "answer": 2,
+   "explanation_th": "No one had ever seen them (the rocks) move",
+   "why_wrong": [
+    "รอยไม่ได้ \"move\"",
+    "คนมองเห็นกันเองได้ ไม่ใช่ความลึกลับ",
+    null,
+    "ทฤษฎีไม่เคลื่อนที่"
+   ]
+  },
+  {
+   "id": "M03-R1-3",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'these' in line 9 refers to ___.",
+   "options": [
+    "the GPS trackers",
+    "the light winds",
+    "the rocks",
+    "the large, thin sheets of ice"
+   ],
+   "answer": 3,
+   "explanation_th": "the ice broke into large, thin sheets. Light winds pushed these (sheets)",
+   "why_wrong": [
+    "GPS ไม่ได้ถูกลมพัด",
+    "ลมคือสิ่งที่ผลัก ไม่ใช่สิ่งที่ถูกผลัก",
+    "หินถูกแผ่นน้ำแข็งผลักอีกที",
+    null
+   ]
+  },
+  {
+   "id": "M03-R1-4",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'it' in line 12 refers to ___.",
+   "options": [
+    "the movement of the rocks",
+    "the ice",
+    "the camera",
+    "the wind"
+   ],
+   "answer": 0,
+   "explanation_th": "The movement was so slow that a person … might not have noticed it (the movement)",
+   "why_wrong": [
+    null,
+    "ประโยคพูดถึงความช้าของการเคลื่อน ไม่ใช่น้ำแข็ง",
+    "กล้องไม่ใช่สิ่งที่ \"ไม่สังเกตเห็น\"",
+    "ไม่ใช่ประธานของประโยคก่อน"
+   ]
+  },
+  {
+   "id": "M03-R1-5",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'That' in line 15 refers to ___.",
+   "options": [
+    "the speed of a few meters per minute",
+    "the need for rain, frost and wind to come in the right order",
+    "the GPS trackers",
+    "the dry lake"
+   ],
+   "answer": 1,
+   "explanation_th": "ความคิดก่อนหน้า: ต้องมีฝน น้ำค้างแข็ง และลมตามลำดับพอดี หินจึงจะเคลื่อน → จึงไม่มีใครเคยเห็น",
+   "why_wrong": [
+    "ความเร็วไม่ใช่เหตุผลหลักในประโยคก่อนหน้า",
+    null,
+    "ไม่ได้อยู่ในประโยคก่อนหน้า",
+    "ไม่ใช่เหตุผล"
+   ]
+  },
+  {
+   "id": "M03-R1-6",
+   "skill": "r.vocab",
+   "difficulty": 2,
+   "stem": "In line 2, 'puzzled' is closest in meaning to ___.",
+   "options": [
+    "frightened",
+    "excited",
+    "confused",
+    "bored"
+   ],
+   "answer": 2,
+   "explanation_th": "ไม่เข้าใจว่าหินเคลื่อนได้อย่างไร = งุนงง",
+   "why_wrong": [
+    "ไม่มีอะไรบอกว่ากลัว",
+    "ไม่ได้บอกว่าตื่นเต้น",
+    null,
+    "ตรงข้ามกับความรู้สึกสงสัย"
+   ]
+  },
+  {
+   "id": "M03-R1-7",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Before 2014, people ___.",
+   "options": [
+    "had several theories but no proof",
+    "had filmed the rocks moving",
+    "knew that ice moved the rocks",
+    "believed the rocks were light"
+   ],
+   "answer": 0,
+   "explanation_th": "บรรทัด 4–5: no one had seen them move, theories ranged…",
+   "why_wrong": [
+    null,
+    "ไม่มีใครเคยเห็น",
+    "เพิ่งรู้ในปี 2014",
+    "หินหนักกว่า 300 กก."
+   ]
+  },
+  {
+   "id": "M03-R1-8",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "What tools did the scientists use?",
+   "options": [
+    "Magnets and wind machines",
+    "Satellites and drones",
+    "Heaters and ice",
+    "GPS trackers and cameras"
+   ],
+   "answer": 3,
+   "explanation_th": "บรรทัด 6–7",
+   "why_wrong": [
+    "แม่เหล็กเป็นทฤษฎีเก่า",
+    "ไม่ได้พูดถึง",
+    "ไม่ได้ใช้",
+    null
+   ]
+  },
+  {
+   "id": "M03-R1-9",
+   "skill": "r.detail",
+   "difficulty": 3,
+   "stem": "According to the passage, the rocks moved because ___.",
+   "options": [
+    "strong winds blew them across the ground",
+    "sheets of ice, pushed by light wind, pushed the rocks",
+    "the ground was magnetic",
+    "rain washed them along"
+   ],
+   "answer": 1,
+   "explanation_th": "บรรทัด 9–10",
+   "why_wrong": [
+    "ลมแค่ \"เบา\" และผลักแผ่นน้ำแข็ง ไม่ได้ผลักหินโดยตรง",
+    null,
+    "เป็นทฤษฎีที่ไม่ถูก",
+    "ฝนกลายเป็นน้ำแข็ง ไม่ได้พัดหิน"
+   ]
+  },
+  {
+   "id": "M03-R1-10",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "If there had been no rain that winter, ___.",
+   "options": [
+    "the rocks would have moved faster",
+    "the scientists would have seen aliens",
+    "the rocks would probably not have moved",
+    "the wind would have been stronger"
+   ],
+   "answer": 2,
+   "explanation_th": "ต้องมีฝน → น้ำแข็ง → แผ่นน้ำแข็งผลักหิน ถ้าไม่มีฝน หินก็ไม่เคลื่อน",
+   "why_wrong": [
+    "ไม่มีน้ำแข็งก็ไม่มีแรงผลัก",
+    "ไม่มีเหตุผล",
+    null,
+    "ฝนไม่เกี่ยวกับความแรงลม"
+   ]
+  }
+ ]
+}

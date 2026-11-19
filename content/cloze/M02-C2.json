@@ -1,0 +1,210 @@
+{
+ "id": "M02-C2",
+ "title": "Dinner Disaster",
+ "genre": "เรื่องเล่าขำ ๆ",
+ "level": "B1",
+ "mock": "M02",
+ "text": "Last Mother's Day, I decided to cook dinner for my family by (1). I had never cooked anything more difficult than instant noodles, but how hard could it be? I found a recipe for green curry online. It said the dish took thirty minutes. (2) took me three hours.\nFirst, I could not find the coconut milk, so I had to go to the shop. When I came back, I realized I (3) the chicken in the car. Then I added far too much chili. My little brother took one bite and ran to the fridge (4) water. My father, (5) is always polite, said it was \"interesting.\" My mother laughed so hard that tears ran down (6) face. In the end, we ordered pizza.\nStill, my mother says it was the best Mother's Day gift she has ever (7). \"It's not about the food,\" she told me. \"It's about (8) you tried.\" Next year I will cook again, but this time I will practice (9). Or maybe I will just buy her flowers. (10), nobody will get hurt!",
+ "items": [
+  {
+   "id": "M02-C2-1",
+   "skill": "g.pronoun",
+   "difficulty": 1,
+   "stem": "(1) Last Mother's Day, I decided to cook dinner for my family by ___.",
+   "options": [
+    "me",
+    "myself",
+    "my",
+    "mine"
+   ],
+   "answer": 1,
+   "explanation_th": "by + -self = ทำเองคนเดียว → by myself",
+   "why_wrong": [
+    "by me = โดยฉัน (ใช้ใน passive) ความหมายไม่ตรง",
+    null,
+    "my ต้องมีคำนามตาม",
+    "by mine ไม่มีความหมาย"
+   ]
+  },
+  {
+   "id": "M02-C2-2",
+   "skill": "g.sentence",
+   "difficulty": 2,
+   "stem": "(2) ___ took me three hours.",
+   "options": [
+    "There",
+    "He",
+    "It",
+    "Its"
+   ],
+   "answer": 2,
+   "explanation_th": "It took me + เวลา = ใช้เวลา… (It เป็นประธานของโครงสร้างนี้)",
+   "why_wrong": [
+    "There took ผิดไวยากรณ์",
+    "He ไม่มีผู้ชายในบริบท",
+    null,
+    "Its = ของมัน ต้องมีคำนามตาม"
+   ]
+  },
+  {
+   "id": "M02-C2-3",
+   "skill": "g.tense-past",
+   "difficulty": 2,
+   "stem": "(3) When I came back, I realized I ___ the chicken in the car.",
+   "options": [
+    "have left",
+    "leave",
+    "was leaving",
+    "had left"
+   ],
+   "answer": 3,
+   "explanation_th": "ลืมไก่ไว้ในรถก่อนที่จะรู้ตัว (realized อดีต) → had left",
+   "why_wrong": [
+    "have left ไม่ใช้ในเรื่องเล่าอดีต",
+    "leave เป็นปัจจุบัน",
+    "was leaving = กำลังทิ้ง ความหมายผิด",
+    null
+   ]
+  },
+  {
+   "id": "M02-C2-4",
+   "skill": "g.preposition",
+   "difficulty": 2,
+   "stem": "(4) My little brother took one bite and ran to the fridge ___ water.",
+   "options": [
+    "for",
+    "to",
+    "with",
+    "by"
+   ],
+   "answer": 0,
+   "explanation_th": "วิ่งไปเอาอะไร → ran to the fridge for water",
+   "why_wrong": [
+    null,
+    "to water = ไปที่น้ำ ความหมายผิด",
+    "with water = พร้อมน้ำ (มีน้ำอยู่แล้ว)",
+    "by water ไม่มีความหมายในที่นี้"
+   ]
+  },
+  {
+   "id": "M02-C2-5",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(5) My father, ___ is always polite, said it was \"interesting.\"",
+   "options": [
+    "which",
+    "who",
+    "whose",
+    "that"
+   ],
+   "answer": 1,
+   "explanation_th": "ขยายคน (My father) หลัง comma → who",
+   "why_wrong": [
+    "which ใช้กับสิ่งของ",
+    null,
+    "whose = ของใคร ต้องตามด้วยคำนาม",
+    "หลัง comma ใช้ that ไม่ได้"
+   ]
+  },
+  {
+   "id": "M02-C2-6",
+   "skill": "g.pronoun",
+   "difficulty": 1,
+   "stem": "(6) My mother laughed so hard that tears ran down ___ face.",
+   "options": [
+    "hers",
+    "she",
+    "her",
+    "herself"
+   ],
+   "answer": 2,
+   "explanation_th": "หน้าคำนาม face → her",
+   "why_wrong": [
+    "hers ใช้โดยไม่มีคำนามตาม",
+    "she เป็นประธาน",
+    null,
+    "herself ไม่ใช้หน้าคำนาม"
+   ]
+  },
+  {
+   "id": "M02-C2-7",
+   "skill": "g.tense-past",
+   "difficulty": 2,
+   "stem": "(7) Still, my mother says it was the best Mother's Day gift she has ever ___.",
+   "options": [
+    "receive",
+    "receiving",
+    "to receive",
+    "received"
+   ],
+   "answer": 3,
+   "explanation_th": "has ever + V3 (present perfect) → has ever received",
+   "why_wrong": [
+    "หลัง has ต้องเป็น V3",
+    "receiving ไม่ใช้หลัง has",
+    "to receive ไม่ใช้หลัง has",
+    null
+   ]
+  },
+  {
+   "id": "M02-C2-8",
+   "skill": "g.relative",
+   "difficulty": 3,
+   "stem": "(8) \"It's about ___ you tried.\"",
+   "options": [
+    "how hard",
+    "how much hard",
+    "what hard",
+    "so hard"
+   ],
+   "answer": 0,
+   "explanation_th": "It's about how hard you tried = เรื่องที่ว่าลูกพยายามแค่ไหน (how + adj)",
+   "why_wrong": [
+    null,
+    "much ใช้ขยาย hard ในแบบนี้ไม่ได้",
+    "what hard ไม่ใช่โครงสร้างที่ถูก",
+    "about so hard you tried ผิดโครงสร้าง"
+   ]
+  },
+  {
+   "id": "M02-C2-9",
+   "skill": "g.fixed",
+   "difficulty": 2,
+   "stem": "(9) Next year I will cook again, but this time I will practice ___.",
+   "options": [
+    "at first",
+    "first",
+    "firstly",
+    "the first"
+   ],
+   "answer": 1,
+   "explanation_th": "practice first = ฝึกก่อน (ก่อนทำจริง)",
+   "why_wrong": [
+    "at first = ตอนแรก (แล้วเปลี่ยนไป) ความหมายไม่เข้า",
+    null,
+    "firstly ใช้ไล่ลำดับหัวข้อ ไม่ใช่ \"ก่อน\"",
+    "the first ต้องมีคำนามตาม"
+   ]
+  },
+  {
+   "id": "M02-C2-10",
+   "skill": "g.fixed",
+   "difficulty": 2,
+   "stem": "(10) ___, nobody will get hurt!",
+   "options": [
+    "Because",
+    "Although",
+    "That way",
+    "Unless"
+   ],
+   "answer": 2,
+   "explanation_th": "That way = ด้วยวิธีนั้น (ซื้อดอกไม้) จะไม่มีใครเจ็บ",
+   "why_wrong": [
+    "Because ต้องตามด้วยประโยคและไม่ใช้ comma แบบนี้",
+    "Although ไม่สมเหตุผล",
+    null,
+    "Unless = ถ้าไม่ ความหมายผิด"
+   ]
+  }
+ ]
+}

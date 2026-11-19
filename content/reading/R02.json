@@ -1,0 +1,182 @@
+{
+ "id": "R02",
+ "title": "A Robot in the Kitchen",
+ "topic": "เทคโนโลยี",
+ "level": "A2",
+ "lines": [
+  "Last year, a small restaurant in Chiang Mai bought a robot called Rice.",
+  "It cannot cook, but **it** can carry plates from the kitchen to the tables.",
+  "The owner, Mr. Ton, says the robot was expensive, but it saves time.",
+  "Before Rice came, his two waiters walked about fifteen kilometers a day.",
+  "Now **they** have more time to talk to customers and take orders.",
+  "Children love the robot. **Some** come to the restaurant just to see it.",
+  "Rice has a small screen with a smiling face, and it says \"Enjoy your",
+  "meal!\" in Thai, English and Chinese. Not everyone is happy, though. An",
+  "older customer told a reporter that she preferred a real person. \"A",
+  "robot cannot understand when I want less sugar,\" she said. Mr. Ton",
+  "agrees that **this** is a problem. He says he will never replace his",
+  "waiters. \"The robot helps them. It does not take their jobs,\" he says."
+ ],
+ "questions": [
+  {
+   "id": "R02-1",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'it' in line 2 refers to ___.",
+   "options": [
+    "the kitchen",
+    "the robot",
+    "the restaurant",
+    "Chiang Mai"
+   ],
+   "answer": 1,
+   "explanation_th": "ประโยคก่อนหน้า: It cannot cook, but it can carry plates = หุ่นยนต์",
+   "why_wrong": [
+    "ครัวถือจานไม่ได้",
+    null,
+    "ร้านอาหารถือจานไม่ได้",
+    "เชียงใหม่เป็นเมือง"
+   ]
+  },
+  {
+   "id": "R02-2",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'they' in line 5 refers to ___.",
+   "options": [
+    "the customers",
+    "the children",
+    "the two waiters",
+    "the robots"
+   ],
+   "answer": 2,
+   "explanation_th": "ประโยคก่อนหน้าพูดถึง his two waiters ที่เคยเดินวันละ 15 กม.",
+   "why_wrong": [
+    "ลูกค้าคือคนที่พนักงานคุยด้วย",
+    "เด็ก ๆ ยังไม่ปรากฏ",
+    null,
+    "มีหุ่นยนต์ตัวเดียว"
+   ]
+  },
+  {
+   "id": "R02-3",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'Some' in line 6 refers to ___.",
+   "options": [
+    "some children",
+    "some waiters",
+    "some robots",
+    "some restaurants"
+   ],
+   "answer": 0,
+   "explanation_th": "Children love the robot. Some (children) come just to see it.",
+   "why_wrong": [
+    null,
+    "พนักงานทำงานที่ร้านอยู่แล้ว",
+    "มีหุ่นยนต์ตัวเดียว",
+    "ร้านอาหารไม่ได้มาดูหุ่นยนต์"
+   ]
+  },
+  {
+   "id": "R02-4",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'this' in line 11 refers to ___.",
+   "options": [
+    "the price of the robot",
+    "the robot speaking three languages",
+    "customers wanting less sugar",
+    "the robot not understanding special requests"
+   ],
+   "answer": 3,
+   "explanation_th": "this = ปัญหาที่ลูกค้าพูด คือหุ่นยนต์ไม่เข้าใจคำขอพิเศษ (เช่น หวานน้อย)",
+   "why_wrong": [
+    "ราคาพูดไว้ตอนต้นเรื่อง ไม่ใช่ประเด็นก่อนหน้า",
+    "การพูดสามภาษาไม่ใช่ปัญหา",
+    "การขอหวานน้อยไม่ใช่ปัญหา ปัญหาคือหุ่นยนต์ไม่เข้าใจ — ระวังคำตอบที่ใช้คำจากบทความแต่ไม่ใช่ความคิดทั้งก้อน",
+    null
+   ]
+  },
+  {
+   "id": "R02-5",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "What does the robot do?",
+   "options": [
+    "It cooks rice.",
+    "It carries food to the tables.",
+    "It takes orders from customers.",
+    "It cleans the kitchen."
+   ],
+   "answer": 1,
+   "explanation_th": "บรรทัด 2: it can carry plates from the kitchen to the tables",
+   "why_wrong": [
+    "บรรทัด 2 บอกว่า It cannot cook",
+    null,
+    "พนักงานเป็นคนรับออเดอร์",
+    "ไม่มีข้อมูลเรื่องทำความสะอาด"
+   ]
+  },
+  {
+   "id": "R02-6",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "According to Mr. Ton, the main benefit of the robot is that it ___.",
+   "options": [
+    "saves time for the waiters",
+    "is cheaper than a waiter",
+    "brings more children",
+    "speaks Chinese"
+   ],
+   "answer": 0,
+   "explanation_th": "บรรทัด 3–5: it saves time; พนักงานมีเวลาคุยกับลูกค้ามากขึ้น",
+   "why_wrong": [
+    null,
+    "เขาบอกว่ามันแพง (expensive)",
+    "เด็กชอบ แต่ไม่ใช่ประโยชน์หลักที่เจ้าของพูด",
+    "เป็นรายละเอียด ไม่ใช่ประโยชน์หลัก"
+   ]
+  },
+  {
+   "id": "R02-7",
+   "skill": "r.vocab",
+   "difficulty": 2,
+   "stem": "In line 11, 'replace' is closest in meaning to ___.",
+   "options": [
+    "help",
+    "pay",
+    "take the place of",
+    "talk to"
+   ],
+   "answer": 2,
+   "explanation_th": "replace his waiters = เอาหุ่นยนต์มาแทนที่พนักงาน",
+   "why_wrong": [
+    "help ความหมายตรงข้ามกับประโยคถัดไป",
+    "pay = จ่ายเงิน",
+    null,
+    "talk to = คุยกับ"
+   ]
+  },
+  {
+   "id": "R02-8",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stem": "If the restaurant did not have the robot, ___.",
+   "options": [
+    "the waiters would lose their jobs",
+    "the restaurant would close",
+    "older customers would stop coming",
+    "the waiters would walk much more each day"
+   ],
+   "answer": 3,
+   "explanation_th": "ก่อนมีหุ่นยนต์ พนักงานเดินวันละ ~15 กม. ถ้าไม่มี ก็จะกลับไปเดินมากเหมือนเดิม",
+   "why_wrong": [
+    "เจ้าของบอกหุ่นยนต์ไม่ได้แย่งงาน",
+    "ไม่มีข้อมูลว่าร้านจะปิด",
+    "ลูกค้าสูงอายุชอบคนจริง จะมาง่ายขึ้นด้วยซ้ำ",
+    null
+   ]
+  }
+ ]
+}

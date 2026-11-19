@@ -1,0 +1,226 @@
+{
+ "id": "M10-R1",
+ "title": "Laughter Is Good Medicine",
+ "topic": "วิทยาศาสตร์/สุขภาพ",
+ "level": "B2",
+ "mock": "M10",
+ "lines": [
+  "Most people know that laughing makes them feel good, but scientists are",
+  "finding that **it** may also be good for the body. When we laugh, our",
+  "brains release chemicals called endorphins, which reduce pain and stress.",
+  "In one study, people who watched a funny video for fifteen minutes could",
+  "handle 10 percent more pain afterwards than **those** who watched a boring",
+  "documentary.",
+  "Laughter also affects the heart. A good laugh increases blood flow in a",
+  "similar way to light exercise. Some hospitals now use \"laughter therapy,\"",
+  "in which patients join group sessions to laugh together. **They** often",
+  "report sleeping better and feeling less anxious.",
+  "Interestingly, the brain cannot easily tell the difference between real",
+  "and fake laughter. Even forcing yourself to laugh can bring some of the",
+  "same benefits. Of course, laughter cannot replace medicine. But as **one**",
+  "doctor put it, \"It's free, it has no side effects, and you can take as",
+  "much as you want.\""
+ ],
+ "questions": [
+  {
+   "id": "M10-R1-1",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'it' in line 2 refers to ___.",
+   "options": [
+    "the body",
+    "a scientist",
+    "laughing",
+    "a chemical"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ร่างกายคือสิ่งที่ได้ประโยชน์",
+    "ไม่ใช่",
+    null,
+    "พูดถึงทีหลัง"
+   ],
+   "explanation_th": "laughing makes them feel good … it (laughing) may also be good for the body"
+  },
+  {
+   "id": "M10-R1-2",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'those' in line 5 refers to ___.",
+   "options": [
+    "people who watched a funny video",
+    "people who watched a boring documentary",
+    "scientists",
+    "endorphins"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "เป็นกลุ่มที่ถูกเปรียบเทียบ",
+    null,
+    "ไม่ได้ดูวิดีโอ",
+    "ไม่ใช่คน"
+   ],
+   "explanation_th": "than those who watched a boring documentary"
+  },
+  {
+   "id": "M10-R1-3",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'They' in line 9 refers to ___.",
+   "options": [
+    "hospitals",
+    "doctors",
+    "group sessions",
+    "patients in laughter therapy"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "โรงพยาบาลนอนไม่ได้",
+    "ไม่ได้อยู่ในประโยค",
+    "ช่วงเวลากลุ่มรายงานไม่ได้",
+    null
+   ],
+   "explanation_th": "patients join group sessions … They often report…"
+  },
+  {
+   "id": "M10-R1-4",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'one' in line 13 refers to ___.",
+   "options": [
+    "one patient",
+    "one study",
+    "one laugh",
+    "one doctor"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ไม่ใช่",
+    "ไม่ใช่",
+    "ไม่ใช่",
+    null
+   ],
+   "explanation_th": "as one doctor put it"
+  },
+  {
+   "id": "M10-R1-5",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "Endorphins are chemicals that ___.",
+   "options": [
+    "increase pain",
+    "reduce pain and stress",
+    "make us sleepy",
+    "cause laughter"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ตรงข้าม",
+    null,
+    "ไม่มีในบทความ",
+    "กลับเหตุผล"
+   ],
+   "explanation_th": "which reduce pain and stress"
+  },
+  {
+   "id": "M10-R1-6",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "In the study, people who watched a funny video ___.",
+   "options": [
+    "felt more pain",
+    "fell asleep",
+    "could handle more pain afterwards",
+    "watched for an hour"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ตรงข้าม",
+    "ไม่มีในบทความ",
+    null,
+    "ตัวเลขผิด (15 นาที)"
+   ],
+   "explanation_th": "handle 10 percent more pain"
+  },
+  {
+   "id": "M10-R1-7",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "According to the passage, a good laugh ___.",
+   "options": [
+    "increases blood flow like light exercise",
+    "replaces exercise completely",
+    "slows the heart",
+    "damages the heart"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "เกินจริง",
+    "ไม่มีในบทความ",
+    "ตรงข้าม"
+   ],
+   "explanation_th": "บรรทัด 7–8"
+  },
+  {
+   "id": "M10-R1-8",
+   "skill": "r.vocab",
+   "difficulty": 2,
+   "stem": "In line 10, 'anxious' is closest in meaning to ___.",
+   "options": [
+    "hungry",
+    "worried",
+    "tired",
+    "excited"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ไม่ใช่ความหมาย",
+    null,
+    "ไม่ใช่ความหมาย",
+    "ไม่ใช่ความหมาย"
+   ],
+   "explanation_th": "feeling less anxious = กังวลน้อยลง"
+  },
+  {
+   "id": "M10-R1-9",
+   "skill": "r.not-true",
+   "difficulty": 2,
+   "stem": "Which statement is NOT true?",
+   "options": [
+    "Laughter can replace medicine.",
+    "Some hospitals use laughter therapy.",
+    "Fake laughter can bring some benefits.",
+    "Laughter has no side effects."
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "จริง",
+    "จริง",
+    "จริงตามคำพูดของหมอ"
+   ],
+   "explanation_th": "Of course, laughter cannot replace medicine"
+  },
+  {
+   "id": "M10-R1-10",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "What can be inferred about forcing yourself to laugh?",
+   "options": [
+    "It is dangerous.",
+    "It works better than real laughter.",
+    "It may still be good for you.",
+    "It has no effect at all."
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ไม่มีหลักฐาน",
+    "เกินจริง (some benefits)",
+    null,
+    "ตรงข้าม"
+   ],
+   "explanation_th": "Even forcing yourself to laugh can bring some of the same benefits"
+  }
+ ]
+}

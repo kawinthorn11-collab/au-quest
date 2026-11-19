@@ -1,0 +1,210 @@
+{
+ "id": "M03-C2",
+ "title": "The Interview That Went Wrong",
+ "genre": "เรื่องเล่าขำ ๆ",
+ "level": "B2",
+ "mock": "M03",
+ "text": "Two years ago, I went to my very first job interview. I wanted to make a good impression, (1) I bought a new shirt and practiced my answers for a week. On the morning of the interview, I was so nervous that I forgot (2) my alarm. I woke up forty minutes late. I jumped out of bed, put on my shirt, and ran to the bus stop (3) eating breakfast.\nWhen I arrived at the office, the receptionist looked at me strangely. I thought it was (4) I was late. The interview went well. I answered every question (5), and the manager even laughed at one of my jokes. At the end, she said, \"Just one more thing. Did you know that you are wearing your shirt inside (6)?\" I looked down. The price tag (7) under my chin the whole time.\nSurprisingly, I got the job. Months later, the manager told me why. \"Anyone (8) can stay calm with a price tag on their neck,\" she said, \"can handle our angriest customers.\" Since then, I (9) my clothes twice before every important meeting, and my friends still laugh (10) I tell the story.",
+ "items": [
+  {
+   "id": "M03-C2-1",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stem": "(1) I wanted to make a good impression, ___ I bought a new shirt and practiced my answers for a week.",
+   "options": [
+    "because",
+    "so",
+    "but",
+    "or"
+   ],
+   "answer": 1,
+   "explanation_th": "อยากสร้างความประทับใจ จึง (so) ซื้อเสื้อใหม่ = ผลลัพธ์",
+   "why_wrong": [
+    "because ทำให้การซื้อเสื้อเป็นเหตุของการอยากประทับใจ กลับด้าน",
+    null,
+    "but ไม่ได้ขัดกัน",
+    "or ใช้กับทางเลือก"
+   ]
+  },
+  {
+   "id": "M03-C2-2",
+   "skill": "g.gerund-inf",
+   "difficulty": 3,
+   "stem": "(2) On the morning of the interview, I was so nervous that I forgot ___ my alarm.",
+   "options": [
+    "setting",
+    "set",
+    "to set",
+    "to setting"
+   ],
+   "answer": 2,
+   "explanation_th": "forget to V = ลืมที่จะทำ (เลยไม่ได้ตั้ง) — forget V-ing = ลืมว่าเคยทำไปแล้ว",
+   "why_wrong": [
+    "forgot setting = ลืมว่าตั้งไปแล้ว ความหมายไม่เข้ากับตื่นสาย",
+    "forgot set ผิดรูป",
+    null,
+    "to setting ผิดรูป"
+   ]
+  },
+  {
+   "id": "M03-C2-3",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(3) I jumped out of bed, put on my shirt, and ran to the bus stop ___ eating breakfast.",
+   "options": [
+    "without",
+    "with",
+    "by",
+    "for"
+   ],
+   "answer": 0,
+   "explanation_th": "วิ่งไปโดยไม่ได้กินข้าวเช้า → without eating",
+   "why_wrong": [
+    null,
+    "with eating ไม่มีความหมาย",
+    "by eating = ด้วยการกิน ความหมายผิด",
+    "for eating = เพื่อกิน"
+   ]
+  },
+  {
+   "id": "M03-C2-4",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stem": "(4) I thought it was ___ I was late.",
+   "options": [
+    "so",
+    "although",
+    "unless",
+    "because"
+   ],
+   "answer": 3,
+   "explanation_th": "คิดว่า (ที่มองแปลก ๆ) เป็นเพราะมาสาย → because",
+   "why_wrong": [
+    "it was so I was late ผิดโครงสร้าง",
+    "although ไม่สมเหตุผล",
+    "unless = ถ้าไม่",
+    null
+   ]
+  },
+  {
+   "id": "M03-C2-5",
+   "skill": "g.wordform",
+   "difficulty": 1,
+   "stem": "(5) I answered every question ___, and the manager even laughed at one of my jokes.",
+   "options": [
+    "confident",
+    "confidence",
+    "confidently",
+    "more confident"
+   ],
+   "answer": 2,
+   "explanation_th": "ขยายกริยา answered → confidently",
+   "why_wrong": [
+    "confident เป็น adjective",
+    "confidence เป็นคำนาม",
+    null,
+    "more confident เป็น adjective"
+   ]
+  },
+  {
+   "id": "M03-C2-6",
+   "skill": "g.fixed",
+   "difficulty": 2,
+   "stem": "(6) Did you know that you are wearing your shirt inside ___?\"",
+   "options": [
+    "up",
+    "out",
+    "off",
+    "down"
+   ],
+   "answer": 1,
+   "explanation_th": "inside out = กลับด้านในออกนอก (สำนวน)",
+   "why_wrong": [
+    "inside up ไม่มีความหมาย",
+    null,
+    "inside off ไม่มีความหมาย",
+    "inside down ไม่มีความหมาย (upside down = กลับหัว)"
+   ]
+  },
+  {
+   "id": "M03-C2-7",
+   "skill": "g.tense-past",
+   "difficulty": 3,
+   "stem": "(7) The price tag ___ under my chin the whole time.",
+   "options": [
+    "has hung",
+    "hangs",
+    "is hanging",
+    "had been hanging"
+   ],
+   "answer": 3,
+   "explanation_th": "ป้ายราคาห้อยอยู่ตลอดก่อนที่จะรู้ตัว (อดีต) → had been hanging",
+   "why_wrong": [
+    "has hung ไม่ใช้ในเรื่องเล่าอดีต",
+    "hangs เป็นปัจจุบัน",
+    "is hanging เป็นปัจจุบัน",
+    null
+   ]
+  },
+  {
+   "id": "M03-C2-8",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(8) \"Anyone ___ can stay calm with a price tag on their neck,\"",
+   "options": [
+    "who",
+    "which",
+    "whose",
+    "whom"
+   ],
+   "answer": 0,
+   "explanation_th": "ขยาย Anyone (คน) และเป็นประธานของ can stay → who",
+   "why_wrong": [
+    null,
+    "which ใช้กับสิ่งของ",
+    "whose ต้องตามด้วยคำนาม",
+    "whom ใช้ในตำแหน่งกรรม"
+   ]
+  },
+  {
+   "id": "M03-C2-9",
+   "skill": "g.tense-past",
+   "difficulty": 2,
+   "stem": "(9) Since then, I ___ my clothes twice before every important meeting, and my friends still laugh … I tell the story.",
+   "options": [
+    "checked",
+    "have checked",
+    "had checked",
+    "am checking"
+   ],
+   "answer": 1,
+   "explanation_th": "Since then (ตั้งแต่ตอนนั้นจนถึงตอนนี้) → present perfect have checked",
+   "why_wrong": [
+    "checked ไม่ใช้กับ since then ที่ต่อเนื่องถึงปัจจุบัน",
+    null,
+    "had checked ใช้กับจุดอ้างอิงในอดีต",
+    "am checking ไม่ใช้กับ since then"
+   ]
+  },
+  {
+   "id": "M03-C2-10",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stem": "(10) Since then, I … my clothes twice before every important meeting, and my friends still laugh ___ I tell the story.",
+   "options": [
+    "whatever",
+    "whether",
+    "whenever",
+    "what"
+   ],
+   "answer": 2,
+   "explanation_th": "ทุกครั้งที่เล่าเรื่อง → whenever",
+   "why_wrong": [
+    "whatever = อะไรก็ตาม",
+    "whether ไม่ใช่คำเชื่อมเวลา",
+    null,
+    "what I tell the story ผิดโครงสร้าง"
+   ]
+  }
+ ]
+}

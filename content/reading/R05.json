@@ -1,0 +1,183 @@
+{
+ "id": "R05",
+ "title": "Teenagers and Sleep",
+ "topic": "สุขภาพ/ข่าว",
+ "level": "B1",
+ "lines": [
+  "Doctors say that teenagers need about nine hours of sleep a night, but",
+  "a recent survey of 2,000 Thai high school students found that most of",
+  "**them** sleep fewer than six. The main reason is not homework, as many",
+  "parents believe. More than half of the students said they used their",
+  "phones in bed, often until after midnight.",
+  "Lack of sleep affects more than just mood. Students who slept less than",
+  "six hours scored lower in math and reading tests, and **they** were more",
+  "likely to get sick. Some schools in other countries have tried starting",
+  "classes later, at nine instead of seven-thirty. **This** gave students",
+  "nearly an hour of extra sleep, and their grades improved.",
+  "Experts suggest a simple rule: no screens for one hour before bed. \"The",
+  "light from a phone tells the brain that it is still daytime,\" says Dr.",
+  "Pim Chai, a sleep researcher. \"Without **it**, the body can relax.\""
+ ],
+ "questions": [
+  {
+   "id": "R05-1",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'them' in line 3 refers to ___.",
+   "options": [
+    "doctors",
+    "parents",
+    "the students in the survey",
+    "teenagers in other countries"
+   ],
+   "answer": 2,
+   "explanation_th": "most of them = most of the 2,000 students in the survey",
+   "why_wrong": [
+    "หมอไม่ได้ถูกสำรวจ",
+    "พ่อแม่ถูกพูดถึงทีหลัง",
+    null,
+    "ยังไม่ได้พูดถึงประเทศอื่น"
+   ]
+  },
+  {
+   "id": "R05-2",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'they' in line 7 refers to ___.",
+   "options": [
+    "students who slept less than six hours",
+    "all Thai students",
+    "doctors",
+    "math teachers"
+   ],
+   "answer": 0,
+   "explanation_th": "ประโยคเดียวกัน: Students who slept less than six hours … they were more likely to get sick",
+   "why_wrong": [
+    null,
+    "กว้างเกินไป ประโยคหมายถึงกลุ่มที่นอนน้อย",
+    "หมอไม่ได้ทำข้อสอบ",
+    "ครูไม่ได้ถูกพูดถึง"
+   ]
+  },
+  {
+   "id": "R05-3",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'This' in line 9 refers to ___.",
+   "options": [
+    "the survey",
+    "starting classes later",
+    "using phones in bed",
+    "getting sick"
+   ],
+   "answer": 1,
+   "explanation_th": "This = การเริ่มเรียนช้าลง (ประโยคก่อนหน้า) ที่ทำให้นอนเพิ่มเกือบชั่วโมง",
+   "why_wrong": [
+    "การสำรวจไม่ได้ให้เวลานอนเพิ่ม",
+    null,
+    "การเล่นมือถือทำให้นอนน้อยลง ตรงข้าม",
+    "การป่วยไม่ใช่สิ่งที่ \"gave extra sleep\""
+   ]
+  },
+  {
+   "id": "R05-4",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'it' in line 13 refers to ___.",
+   "options": [
+    "the brain",
+    "the body",
+    "daytime",
+    "the light from a phone"
+   ],
+   "answer": 3,
+   "explanation_th": "Without it (the light from a phone), the body can relax",
+   "why_wrong": [
+    "ไม่มีสมองแล้วร่างกายผ่อนคลาย ไม่สมเหตุผล",
+    "body เป็นประธานของส่วนหลัง ไม่ใช่สิ่งที่ \"ไม่มี\"",
+    "daytime ไม่ใช่สิ่งที่เอาออกได้",
+    null
+   ]
+  },
+  {
+   "id": "R05-5",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "According to the survey, the main reason students sleep too little is ___.",
+   "options": [
+    "too much homework",
+    "starting school too early",
+    "using phones in bed",
+    "feeling stressed"
+   ],
+   "answer": 2,
+   "explanation_th": "บรรทัด 3–5: The main reason is not homework… used their phones in bed",
+   "why_wrong": [
+    "บทความบอกชัดว่าไม่ใช่การบ้าน (พ่อแม่เข้าใจผิด)",
+    "เป็นเรื่องที่ประเทศอื่นแก้ แต่ไม่ใช่เหตุผลจากการสำรวจ",
+    null,
+    "ไม่มีข้อมูล"
+   ]
+  },
+  {
+   "id": "R05-6",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "What happened when schools started classes later?",
+   "options": [
+    "Students slept less.",
+    "Students got better grades.",
+    "Students used phones more.",
+    "Teachers complained."
+   ],
+   "answer": 1,
+   "explanation_th": "บรรทัด 9–10: their grades improved",
+   "why_wrong": [
+    "กลับกัน ได้นอนเพิ่ม",
+    null,
+    "ไม่มีข้อมูล",
+    "ไม่มีข้อมูล"
+   ]
+  },
+  {
+   "id": "R05-7",
+   "skill": "r.vocab",
+   "difficulty": 2,
+   "stem": "In line 6, 'Lack of sleep' means ___.",
+   "options": [
+    "too much sleep",
+    "not enough sleep",
+    "deep sleep",
+    "a short nap"
+   ],
+   "answer": 1,
+   "explanation_th": "lack = ขาด → นอนไม่พอ",
+   "why_wrong": [
+    "ความหมายตรงข้าม",
+    null,
+    "ไม่เกี่ยวกับความลึกของการนอน",
+    "nap คือการงีบ"
+   ]
+  },
+  {
+   "id": "R05-8",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "If a student stops using a phone one hour before bed, he will probably ___.",
+   "options": [
+    "need more than nine hours of sleep",
+    "get sick more often",
+    "find it easier to relax and sleep",
+    "do more homework at night"
+   ],
+   "answer": 2,
+   "explanation_th": "ผู้เชี่ยวชาญบอกว่าไม่มีแสงจอ ร่างกายจะผ่อนคลายได้ → หลับง่ายขึ้น",
+   "why_wrong": [
+    "บทความไม่ได้บอกว่าจะต้องนอนมากขึ้น",
+    "ตรงข้าม: นอนน้อยทำให้ป่วย",
+    null,
+    "ไม่มีข้อมูล"
+   ]
+  }
+ ]
+}

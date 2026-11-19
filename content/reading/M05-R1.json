@@ -1,0 +1,224 @@
+{
+ "id": "M05-R1",
+ "title": "Why Cats Purr",
+ "topic": "วิทยาศาสตร์",
+ "level": "B1",
+ "mock": "M05",
+ "lines": [
+  "Most people think cats purr only when they are happy. It is true that a",
+  "cat often purrs while it is being stroked, but **this** is not the whole",
+  "story. Cats also purr when they are hungry, frightened or even injured.",
+  "Mother cats purr to guide their kittens, which are born blind, and the",
+  "kittens purr back to show **they** are safe.",
+  "Some scientists believe purring may also help cats heal. The vibrations",
+  "of a purr are between 25 and 150 times per second, and sound waves at",
+  "**these** levels have been shown to help bones and muscles repair in",
+  "humans. This could explain why cats seem to recover from falls and",
+  "broken bones faster than dogs. However, more research is needed before",
+  "doctors can use purring sounds as medicine. For now, **many** cat owners",
+  "simply enjoy the sound. As one owner put it, \"When my cat purrs on my lap",
+  "after a long day, I feel calmer too. Maybe **it** helps both of us.\""
+ ],
+ "questions": [
+  {
+   "id": "M05-R1-1",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'this' in line 2 refers to ___.",
+   "options": [
+    "being injured",
+    "the fact that cats purr when they are happy or stroked",
+    "the kittens",
+    "the whole story"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "พูดถึงทีหลัง",
+    null,
+    "ยังไม่ปรากฏ",
+    "เป็นส่วนของวลี ไม่ใช่สิ่งที่ this ชี้"
+   ],
+   "explanation_th": "ความคิดก่อนหน้า (แมวครางตอนมีความสุข/ถูกลูบ) ไม่ใช่ทั้งหมด"
+  },
+  {
+   "id": "M05-R1-2",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'they' in line 5 refers to ___.",
+   "options": [
+    "the kittens",
+    "the mother cats",
+    "the scientists",
+    "the owners"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "แม่แมวเป็นผู้นำทาง",
+    "ไม่ได้อยู่ในประโยค",
+    "ไม่ได้อยู่ในประโยค"
+   ],
+   "explanation_th": "the kittens purr back to show they (kittens) are safe"
+  },
+  {
+   "id": "M05-R1-3",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'these' in line 8 refers to ___.",
+   "options": [
+    "bones and muscles",
+    "scientists",
+    "vibrations between 25 and 150 times per second",
+    "cats and dogs"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "เป็นสิ่งที่ถูกช่วยซ่อม",
+    "ไม่ใช่ระดับเสียง",
+    null,
+    "ไม่ใช่ระดับเสียง"
+   ],
+   "explanation_th": "sound waves at these levels = ระดับการสั่นที่เพิ่งพูด"
+  },
+  {
+   "id": "M05-R1-4",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'many' in line 11 refers to ___.",
+   "options": [
+    "many doctors",
+    "many cats",
+    "many sounds",
+    "many cat owners"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "หมอพูดถึงก่อนหน้า แต่ไม่ใช่ผู้ \"enjoy\"",
+    "แมวเป็นผู้คราง",
+    "เสียงไม่ได้ enjoy",
+    null
+   ],
+   "explanation_th": "many cat owners simply enjoy the sound"
+  },
+  {
+   "id": "M05-R1-5",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'it' in line 13 refers to ___.",
+   "options": [
+    "the long day",
+    "the cat's purring",
+    "the lap",
+    "the owner"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "วันที่ยาวนานไม่ได้ช่วย",
+    null,
+    "ตักไม่ได้ช่วย",
+    "เจ้าของคือหนึ่งใน \"both of us\""
+   ],
+   "explanation_th": "Maybe it (the purring) helps both of us"
+  },
+  {
+   "id": "M05-R1-6",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "According to the passage, cats purr ___.",
+   "options": [
+    "only when they are happy",
+    "only when they are hungry",
+    "only when they are with kittens",
+    "in many different situations, not only when happy"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ตรงข้ามกับใจความ",
+    "แคบเกินไป",
+    "แคบเกินไป",
+    null
+   ],
+   "explanation_th": "happy, hungry, frightened, injured … (ถอดความ)"
+  },
+  {
+   "id": "M05-R1-7",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Mother cats purr in order to ___.",
+   "options": [
+    "guide their kittens",
+    "scare other animals",
+    "ask for food",
+    "heal their bones"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ไม่มีในบทความ",
+    "ไม่ใช่เหตุผลของแม่แมว",
+    "ไม่ใช่เหตุผลที่ระบุ"
+   ],
+   "explanation_th": "Mother cats purr to guide their kittens"
+  },
+  {
+   "id": "M05-R1-8",
+   "skill": "r.vocab",
+   "difficulty": 2,
+   "stem": "In line 9, 'recover' is closest in meaning to ___.",
+   "options": [
+    "fall down",
+    "break",
+    "get better",
+    "hide"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ตรงข้าม",
+    "ไม่ใช่ความหมาย",
+    null,
+    "ไม่ใช่ความหมาย"
+   ],
+   "explanation_th": "recover from falls and broken bones = หายจากอาการบาดเจ็บ"
+  },
+  {
+   "id": "M05-R1-9",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stem": "What can be inferred about purring as medicine for people?",
+   "options": [
+    "Doctors use it in every hospital.",
+    "It has been proven useless.",
+    "Doctors do not use it yet.",
+    "It works only for dogs."
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ขัดกับบทความ",
+    "ขัดกับ have been shown to help",
+    null,
+    "ไม่มีหลักฐาน"
+   ],
+   "explanation_th": "more research is needed before doctors can use = ยังไม่ใช้"
+  },
+  {
+   "id": "M05-R1-10",
+   "skill": "r.not-true",
+   "difficulty": 3,
+   "stem": "Which statement is NOT supported by the passage?",
+   "options": [
+    "Scientists have proved that purring cures broken bones in humans.",
+    "Kittens are born blind.",
+    "Cats may recover faster than dogs.",
+    "Some cat owners feel calmer when their cats purr."
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "มีในบรรทัด 4",
+    "มีในบรรทัด 9–10",
+    "มีในบรรทัด 12–13"
+   ],
+   "explanation_th": "บทความบอกแค่ว่าคลื่นเสียงระดับนี้ช่วยได้ และยังต้องวิจัยเพิ่ม ไม่ได้พิสูจน์ว่ารักษาได้"
+  }
+ ]
+}

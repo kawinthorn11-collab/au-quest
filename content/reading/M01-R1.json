@@ -1,0 +1,225 @@
+{
+ "id": "M01-R1",
+ "title": "Help on the Train",
+ "topic": "เรื่องจริงน่าประทับใจ",
+ "level": "B1",
+ "mock": "M01",
+ "lines": [
+  "Small acts of kindness happen every day, and sometimes they change lives.",
+  "Last March, Lena Park was traveling by train from Seoul to Busan. About",
+  "an hour into the trip, she started to feel dizzy, and her hands began to",
+  "shake. She had skipped lunch because she was late for the train, and she",
+  "has diabetes. **She** knew her blood sugar was dangerously low.",
+  "Luckily, the man sitting across from her noticed. **He** was a retired",
+  "nurse named Mr. Cho. He asked her a few quick questions, then gave her",
+  "the orange juice and crackers from **his** own bag. He stayed with her and",
+  "checked her pulse every few minutes until she felt better. Lena was awake",
+  "the whole time and could talk, but she was too weak to stand.",
+  "When the train arrived, Mr. Cho walked with her to the station café to",
+  "make sure she ate a proper meal. Lena later wrote about him online, and",
+  "thousands of people shared **her** story. Stories like **this** remind us that",
+  "the person next to us might be the one who helps us on our worst day."
+ ],
+ "questions": [
+  {
+   "id": "M01-R1-1",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'She' in line 5 refers to ___.",
+   "options": [
+    "Lena Park",
+    "Mr. Cho's wife",
+    "a nurse",
+    "another passenger"
+   ],
+   "answer": 0,
+   "explanation_th": "เรื่องในย่อหน้านี้เกี่ยวกับ Lena ที่ไม่ได้กินข้าวและเป็นเบาหวาน",
+   "why_wrong": [
+    null,
+    "ไม่มีภรรยาของคุณโชในเรื่อง",
+    "พยาบาลคือคุณโช (ผู้ชาย)",
+    "ไม่มีผู้โดยสารคนอื่นที่เป็นเบาหวาน"
+   ]
+  },
+  {
+   "id": "M01-R1-2",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'He' in line 6 refers to ___.",
+   "options": [
+    "a doctor at the station",
+    "the man sitting across from Lena",
+    "the train driver",
+    "Lena's father"
+   ],
+   "answer": 1,
+   "explanation_th": "the man sitting across from her noticed. He was a retired nurse",
+   "why_wrong": [
+    "ไม่มีหมอที่สถานี",
+    null,
+    "คนขับรถไฟไม่ได้ถูกพูดถึง",
+    "พ่อไม่ได้ถูกพูดถึง"
+   ]
+  },
+  {
+   "id": "M01-R1-3",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'his' in line 8 refers to ___.",
+   "options": [
+    "Lena's",
+    "the driver's",
+    "Mr. Cho's",
+    "a waiter's"
+   ],
+   "answer": 2,
+   "explanation_th": "น้ำส้มและขนมจากกระเป๋าของคุณโช",
+   "why_wrong": [
+    "Lena ไม่มีของกินติดตัว (ข้ามมื้อกลางวัน)",
+    "ไม่มีคนขับรถไฟ",
+    null,
+    "ไม่มีบริกร"
+   ]
+  },
+  {
+   "id": "M01-R1-4",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'her' in line 13 refers to ___.",
+   "options": [
+    "a nurse's",
+    "a reporter's",
+    "a doctor's",
+    "Lena's"
+   ],
+   "answer": 3,
+   "explanation_th": "Lena เขียนเรื่องลงออนไลน์ แล้วคนแชร์เรื่องของเธอ",
+   "why_wrong": [
+    "พยาบาลคือคุณโช (ผู้ชาย)",
+    "ไม่มีนักข่าว",
+    "หมอคือคุณโช (ผู้ชาย) ไม่ใช่คนที่เรื่องถูกแชร์",
+    null
+   ]
+  },
+  {
+   "id": "M01-R1-5",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'this' in line 13 refers to ___.",
+   "options": [
+    "the story of a stranger helping Lena",
+    "the train trip to Busan",
+    "having diabetes",
+    "eating at the station café"
+   ],
+   "answer": 0,
+   "explanation_th": "Stories like this = เรื่องแบบที่เพิ่งเล่า คือคนแปลกหน้าช่วย Lena",
+   "why_wrong": [
+    null,
+    "การเดินทางไม่ใช่ \"story\" ที่สอนใจ",
+    "โรคเบาหวานไม่ใช่เรื่องที่ \"remind us\" เรื่องความช่วยเหลือ",
+    "เป็นแค่รายละเอียดเล็ก ๆ"
+   ]
+  },
+  {
+   "id": "M01-R1-6",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Lena felt sick because ___.",
+   "options": [
+    "she was afraid of trains",
+    "she had diabetes and had not eaten lunch",
+    "she drank too much orange juice",
+    "she was very tired from work"
+   ],
+   "answer": 1,
+   "explanation_th": "บรรทัด 4–5: skipped lunch … has diabetes … blood sugar was low",
+   "why_wrong": [
+    "ไม่มีข้อมูล",
+    null,
+    "น้ำส้มคือสิ่งที่ช่วยเธอ",
+    "ไม่มีข้อมูลเรื่องงาน"
+   ]
+  },
+  {
+   "id": "M01-R1-7",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stem": "Mr. Cho was on the train ___.",
+   "options": [
+    "because Lena called him",
+    "as the train nurse",
+    "by chance",
+    "to check on sick passengers"
+   ],
+   "answer": 2,
+   "explanation_th": "เขาเป็นพยาบาลเกษียณที่บังเอิญนั่งตรงข้าม (Luckily … noticed)",
+   "why_wrong": [
+    "ไม่มีข้อมูลว่าเธอโทรหา",
+    "เขาเกษียณแล้ว ไม่ได้ทำงานบนรถไฟ",
+    null,
+    "เขาแค่สังเกตเห็นเธอ ไม่ได้มาเพื่อตรวจคนป่วย"
+   ]
+  },
+  {
+   "id": "M01-R1-8",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "While Mr. Cho was helping her, Lena ___.",
+   "options": [
+    "was unconscious",
+    "could stand and walk",
+    "refused his help",
+    "was still conscious but weak"
+   ],
+   "answer": 3,
+   "explanation_th": "บรรทัด 9–10: awake the whole time and could talk, but too weak to stand (ถอดความ)",
+   "why_wrong": [
+    "ตรงข้ามกับ awake the whole time",
+    "บทความบอกว่ายืนไม่ไหว",
+    "ไม่มีข้อมูลว่าปฏิเสธ",
+    null
+   ]
+  },
+  {
+   "id": "M01-R1-9",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "If Mr. Cho had not given her juice and crackers, ___.",
+   "options": [
+    "Lena could have become seriously ill",
+    "Lena would have eaten lunch",
+    "the train would have stopped",
+    "Lena would have written about him"
+   ],
+   "answer": 0,
+   "explanation_th": "น้ำตาลในเลือดต่ำอันตราย (dangerously low) ถ้าไม่ได้รับน้ำตาล อาจป่วยหนัก",
+   "why_wrong": [
+    null,
+    "ไม่เกี่ยว เธอข้ามมื้อไปแล้ว",
+    "ไม่มีข้อมูลเรื่องรถไฟหยุด",
+    "กลับกัน เธอเขียนเพราะเขาช่วย"
+   ]
+  },
+  {
+   "id": "M01-R1-10",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stem": "Mr. Cho walked Lena to the café because he ___.",
+   "options": [
+    "was hungry himself",
+    "worked at the café",
+    "wanted to be sure she was really okay",
+    "thought her problem was not serious"
+   ],
+   "answer": 2,
+   "explanation_th": "to make sure she ate a proper meal = อยากให้แน่ใจว่าเธอหายดีจริง",
+   "why_wrong": [
+    "ไม่มีข้อมูล",
+    "เขาเป็นพยาบาลเกษียณ",
+    null,
+    "ถ้าคิดว่าไม่ร้ายแรงคงไม่ดูแลขนาดนี้"
+   ]
+  }
+ ]
+}

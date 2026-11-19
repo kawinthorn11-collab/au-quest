@@ -1,0 +1,210 @@
+{
+ "id": "M07-C2",
+ "title": "The Wrong Classroom",
+ "genre": "เรื่องเล่าขำ ๆ",
+ "level": "B1",
+ "mock": "M07",
+ "text": "On my first day of university, I was (1) excited that I arrived thirty minutes early. I found Room 305, sat in the front row and (2) my notebook. Slowly the room filled with students, all of (3) looked much older than me. \"They must (4) second-year students,\" I thought.\nAt nine o'clock, a woman walked in and wrote \"Advanced Statistics\" on the board. My heart stopped. My class was supposed to be \"Introduction to Thai Culture.\" I was (5) embarrassed to stand up in front of everyone, so I stayed. For ninety minutes, I wrote down numbers and symbols (6) I did not understand at all.\nAt the end, the teacher asked (7) had any questions. I raised my hand. \"Yes,\" I said. \"Where is Room 503?\" Everyone laughed, (8) the teacher. She told me I (9) read my timetable more carefully. I still have those notes. They remind me to check things twice (10) I panic.",
+ "items": [
+  {
+   "id": "M07-C2-1",
+   "skill": "g.fixed",
+   "difficulty": 1,
+   "stem": "(1) On my first day of university, I was ___ excited that I arrived thirty minutes early.",
+   "options": [
+    "such",
+    "too",
+    "very",
+    "so"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "such ต้องมีคำนาม",
+    "too … that ผิด",
+    "very … that ผิด",
+    null
+   ],
+   "explanation_th": "so + adj + that"
+  },
+  {
+   "id": "M07-C2-2",
+   "skill": "g.parallel",
+   "difficulty": 1,
+   "stem": "(2) I found Room 305, sat in the front row and ___ my notebook.",
+   "options": [
+    "open",
+    "opened",
+    "opening",
+    "was opened"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "open ไม่ขนาน",
+    null,
+    "opening ไม่ขนาน",
+    "was opened = ถูกเปิด ผิด"
+   ],
+   "explanation_th": "found, sat and opened (V2 ขนาน)"
+  },
+  {
+   "id": "M07-C2-3",
+   "skill": "g.relative",
+   "difficulty": 3,
+   "stem": "(3) Slowly the room filled with students, all of ___ looked much older than me.",
+   "options": [
+    "who",
+    "them",
+    "whom",
+    "which"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "หลังบุพบทใช้ who ไม่ได้",
+    "them ทำให้เป็นสองประโยคไม่มีคำเชื่อม",
+    null,
+    "which ใช้กับสิ่ง"
+   ],
+   "explanation_th": "หลังบุพบท (all of) + คน → whom"
+  },
+  {
+   "id": "M07-C2-4",
+   "skill": "g.modal-perfect",
+   "difficulty": 1,
+   "stem": "(4) \"They must ___ second-year students,\"",
+   "options": [
+    "be",
+    "being",
+    "been",
+    "to be"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "must being ผิด",
+    "must been ผิด",
+    "must to be ผิด"
+   ],
+   "explanation_th": "must + V1 → must be"
+  },
+  {
+   "id": "M07-C2-5",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(5) I was ___ embarrassed to stand up in front of everyone, so I stayed.",
+   "options": [
+    "such",
+    "too",
+    "much",
+    "enough"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "such ใช้กับคำนาม",
+    null,
+    "much embarrassed to ผิด",
+    "enough ต้องอยู่หลัง adj"
+   ],
+   "explanation_th": "too + adj + to V"
+  },
+  {
+   "id": "M07-C2-6",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(6) For ninety minutes, I wrote down numbers and symbols ___ I did not understand at all.",
+   "options": [
+    "that",
+    "what",
+    "who",
+    "where"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "what ไม่ขยายคำนาม",
+    "who ใช้กับคน",
+    "where ใช้กับสถานที่"
+   ],
+   "explanation_th": "ขยาย numbers and symbols (กรรมของ understand) → that"
+  },
+  {
+   "id": "M07-C2-7",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stem": "(7) At the end, the teacher asked ___ had any questions.",
+   "options": [
+    "what anyone",
+    "that anyone",
+    "whether anyone",
+    "which anyone"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "what anyone had … ผิดโครงสร้าง",
+    "asked that ใช้กับคำถามไม่ได้",
+    null,
+    "which anyone ผิด"
+   ],
+   "explanation_th": "asked whether anyone = ถามว่ามีใคร…ไหม"
+  },
+  {
+   "id": "M07-C2-8",
+   "skill": "g.wordform",
+   "difficulty": 2,
+   "stem": "(8) Everyone laughed, ___ the teacher.",
+   "options": [
+    "included",
+    "include",
+    "includes",
+    "including"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "included the teacher ผิดโครงสร้าง",
+    "include ผิด",
+    "includes ผิด",
+    null
+   ],
+   "explanation_th": "including + คำนาม = รวมถึง"
+  },
+  {
+   "id": "M07-C2-9",
+   "skill": "g.modal-perfect",
+   "difficulty": 2,
+   "stem": "(9) She told me I ___ read my timetable more carefully.",
+   "options": [
+    "must have",
+    "should have",
+    "can't have",
+    "needn't have"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "must have ความหมายผิด",
+    null,
+    "can't have ความหมายผิด",
+    "needn't have ความหมายกลับ"
+   ],
+   "explanation_th": "ตำหนิ = ควรจะอ่านตารางให้ดี → should have read"
+  },
+  {
+   "id": "M07-C2-10",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stem": "(10) They remind me to check things twice ___ I panic.",
+   "options": [
+    "after",
+    "since",
+    "until",
+    "before"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "after ไม่สมเหตุผล",
+    "since ไม่สมเหตุผล",
+    "until ไม่สมเหตุผล",
+    null
+   ],
+   "explanation_th": "ตรวจสองรอบก่อนจะตกใจ → before"
+  }
+ ]
+}

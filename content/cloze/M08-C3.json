@@ -1,0 +1,210 @@
+{
+ "id": "M08-C3",
+ "title": "The Bridge",
+ "genre": "วรรณกรรม",
+ "level": "B2",
+ "mock": "M08",
+ "text": "In a valley surrounded by mountains, two villages lived on (1) sides of a deep river. For generations, they had argued about water, land and (2) owned the fish. Children from one village were told never (3) to the children from the other.\nOne rainy season, the river rose so high that the old rope bridge (4) away. Both villages were cut off from the market town, and food began (5) run low. It was an old woman from the east village (6) first suggested building a new bridge together. Many people laughed at her. But she crossed the river by boat and spoke to the leaders of the west village. To everyone's surprise, they agreed.\nFor three months, men and women from both villages worked side by side. They learned each other's names first, (7) each other's stories. By the time the bridge (8) finished, the old arguments seemed small and silly. Today, the two villages hold a festival on the bridge every year, and the children, (9) grandparents once refused to speak to each other, play together (10) the middle.",
+ "items": [
+  {
+   "id": "M08-C3-1",
+   "skill": "g.wordform",
+   "difficulty": 2,
+   "stem": "(1) In a valley surrounded by mountains, two villages lived on ___ sides of a deep river.",
+   "options": [
+    "opposed",
+    "oppose",
+    "opposition",
+    "opposite"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "opposed = ไม่เห็นด้วย",
+    "oppose เป็นกริยา",
+    "opposition เป็นคำนาม",
+    null
+   ],
+   "explanation_th": "opposite sides = ฝั่งตรงข้าม (adjective)"
+  },
+  {
+   "id": "M08-C3-2",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(2) For generations, they had argued about water, land and ___ owned the fish.",
+   "options": [
+    "which",
+    "who",
+    "whom",
+    "what"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "which ต้องมีคำนามให้ขยาย",
+    null,
+    "whom ใช้ในตำแหน่งกรรม",
+    "what owned the fish = อะไรเป็นเจ้าของ ความหมายผิด"
+   ],
+   "explanation_th": "who owned the fish = ใครเป็นเจ้าของปลา (ประธาน)"
+  },
+  {
+   "id": "M08-C3-3",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(3) Children from one village were told never ___ to the children from the other.",
+   "options": [
+    "talking",
+    "talk",
+    "talked",
+    "to talk"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "never talking ผิด",
+    "ขาด to",
+    "talked ผิด",
+    null
+   ],
+   "explanation_th": "tell sb (never) to V"
+  },
+  {
+   "id": "M08-C3-4",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stem": "(4) One rainy season, the river rose so high that the old rope bridge ___ away.",
+   "options": [
+    "was washed",
+    "washing",
+    "has washed",
+    "was washing"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "washing ไม่ใช่กริยาแท้",
+    "has washed ผิด",
+    "was washing ผิด"
+   ],
+   "explanation_th": "สะพานถูกน้ำพัดไป → was washed away"
+  },
+  {
+   "id": "M08-C3-5",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(5) Both villages were cut off from the market town, and food began ___ run low.",
+   "options": [
+    "for",
+    "by",
+    "to",
+    "with"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "for run ผิด",
+    "by run ผิด",
+    null,
+    "with run ผิด"
+   ],
+   "explanation_th": "begin to V → began to run low"
+  },
+  {
+   "id": "M08-C3-6",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(6) It was an old woman from the east village ___ first suggested building a new bridge together.",
+   "options": [
+    "which",
+    "whose",
+    "who",
+    "where"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "which ใช้กับสิ่ง",
+    "whose ต้องตามด้วยคำนาม",
+    null,
+    "where ใช้กับสถานที่"
+   ],
+   "explanation_th": "It was … who … (เน้นบุคคล)"
+  },
+  {
+   "id": "M08-C3-7",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stem": "(7) They learned each other's names first, ___ each other's stories.",
+   "options": [
+    "then",
+    "than",
+    "that",
+    "so"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "than ใช้เปรียบเทียบ",
+    "that ผิด",
+    "so ผิดความหมาย"
+   ],
+   "explanation_th": "first … then = ก่อน…แล้วจึง"
+  },
+  {
+   "id": "M08-C3-8",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stem": "(8) By the time the bridge ___ finished, the old arguments seemed small and silly.",
+   "options": [
+    "is",
+    "has been",
+    "will be",
+    "was"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "is เป็นปัจจุบัน",
+    "has been ไม่ใช้กับ By the time ในอดีต",
+    "will be เป็นอนาคต",
+    null
+   ],
+   "explanation_th": "By the time + อดีต passive → was finished"
+  },
+  {
+   "id": "M08-C3-9",
+   "skill": "g.relative",
+   "difficulty": 3,
+   "stem": "(9) Today, the two villages hold a festival on the bridge every year, and the children, ___ grandparents once refused to speak to each other, play together … the middle.",
+   "options": [
+    "who",
+    "whose",
+    "which",
+    "that"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "who grandparents ผิด",
+    null,
+    "which ใช้กับสิ่ง",
+    "that grandparents ผิด"
+   ],
+   "explanation_th": "ปู่ย่าของเด็ก ๆ → whose grandparents"
+  },
+  {
+   "id": "M08-C3-10",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(10) Today, the two villages hold a festival on the bridge every year, and the children, … grandparents once refused to speak to each other, play together ___ the middle.",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "by"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "on the middle ผิด",
+    "at the middle ไม่ใช่สำนวนมาตรฐาน",
+    "by the middle ผิด"
+   ],
+   "explanation_th": "in the middle = ตรงกลาง"
+  }
+ ]
+}

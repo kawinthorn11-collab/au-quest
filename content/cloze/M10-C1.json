@@ -1,0 +1,210 @@
+{
+ "id": "M10-C1",
+ "title": "A Greener Bangkok",
+ "genre": "ข่าว",
+ "level": "B2",
+ "mock": "M10",
+ "text": "Bangkok has begun an ambitious plan (1) plant 100,000 trees along its main roads by 2030. City officials say the trees will help reduce heat and air pollution, (2) are serious problems in the capital. Studies show that streets with trees can be up to five degrees cooler (3) streets without them. The first 5,000 trees (4) last month along Rama IV Road. Residents (5) live nearby have been asked to help water them during the dry season. \"A tree needs care for its first three years, (6) it may not survive,\" explained one city gardener.\nNot everyone is happy. Some shop owners worry that the trees will hide (7) signs from customers. The city has promised (8) trees that do not grow too wide. Experts welcome the plan but say it must be followed by long-term care. \"Planting is the easy part,\" said one. \"(9) matters is what happens in the next ten years.\" If the project succeeds, Bangkok could become one of the greenest cities in (10) region.",
+ "items": [
+  {
+   "id": "M10-C1-1",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(1) Bangkok has begun an ambitious plan ___ plant 100,000 trees along its main roads by 2030.",
+   "options": [
+    "to",
+    "for",
+    "that",
+    "of"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "for plant ผิด",
+    "that plant ผิด",
+    "of plant ผิด"
+   ],
+   "explanation_th": "a plan to + V = แผนที่จะ…"
+  },
+  {
+   "id": "M10-C1-2",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(2) City officials say the trees will help reduce heat and air pollution, ___ are serious problems in the capital.",
+   "options": [
+    "that",
+    "what",
+    "which",
+    "who"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "หลัง comma ใช้ that ไม่ได้",
+    "what ไม่ขยายคำนาม",
+    null,
+    "who ใช้กับคน"
+   ],
+   "explanation_th": "ขยายความร้อนและมลพิษ หลัง comma → which"
+  },
+  {
+   "id": "M10-C1-3",
+   "skill": "g.fixed",
+   "difficulty": 1,
+   "stem": "(3) Studies show that streets with trees can be up to five degrees cooler ___ streets without them.",
+   "options": [
+    "as",
+    "to",
+    "from",
+    "than"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "as … as ไม่ใช้กับขั้นกว่า",
+    "cooler to ผิด",
+    "cooler from ผิด",
+    null
+   ],
+   "explanation_th": "cooler than = เย็นกว่า"
+  },
+  {
+   "id": "M10-C1-4",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stem": "(4) The first 5,000 trees ___ last month along Rama IV Road.",
+   "options": [
+    "planted",
+    "were planted",
+    "have planted",
+    "are planting"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "planted = ต้นไม้ปลูก ผิด",
+    null,
+    "have planted ผิดทั้งความหมายและเวลา",
+    "are planting ผิด"
+   ],
+   "explanation_th": "ต้นไม้ถูกปลูก (last month) → were planted"
+  },
+  {
+   "id": "M10-C1-5",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(5) Residents ___ live nearby have been asked to help water them during the dry season.",
+   "options": [
+    "which",
+    "whose",
+    "whom",
+    "who"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "which ใช้กับสิ่ง",
+    "whose ต้องตามด้วยคำนาม",
+    "whom ใช้ในตำแหน่งกรรม",
+    null
+   ],
+   "explanation_th": "Residents (คน) + ประธานของ live → who"
+  },
+  {
+   "id": "M10-C1-6",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stem": "(6) \"A tree needs care for its first three years, ___ it may not survive,\"",
+   "options": [
+    "or",
+    "and",
+    "so",
+    "until"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "and ไม่สมเหตุผล",
+    "so ไม่สมเหตุผล",
+    "until ทำให้ความหมายผิด ต้นไม้ไม่ได้ 'อาจตายจนกว่า' ต้องใช้ or = ไม่งั้น"
+   ],
+   "explanation_th": "ต้องดูแล ไม่อย่างนั้นอาจไม่รอด → or"
+  },
+  {
+   "id": "M10-C1-7",
+   "skill": "g.pronoun",
+   "difficulty": 1,
+   "stem": "(7) Some shop owners worry that the trees will hide ___ signs from customers.",
+   "options": [
+    "there",
+    "they're",
+    "their",
+    "them"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "there = ที่นั่น",
+    "they're = they are",
+    null,
+    "them เป็นกรรม"
+   ],
+   "explanation_th": "ป้ายของเจ้าของร้าน → their signs"
+  },
+  {
+   "id": "M10-C1-8",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(8) The city has promised ___ trees that do not grow too wide.",
+   "options": [
+    "choosing",
+    "choose",
+    "to choose",
+    "chosen"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "promise choosing ผิด",
+    "ขาด to",
+    null,
+    "chosen ผิด"
+   ],
+   "explanation_th": "promise + to V"
+  },
+  {
+   "id": "M10-C1-9",
+   "skill": "g.relative",
+   "difficulty": 3,
+   "stem": "(9) \"___ matters is what happens in the next ten years.\"",
+   "options": [
+    "What",
+    "That",
+    "Which",
+    "It"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "That matters ไม่ทำหน้าที่ \"สิ่งที่\"",
+    "Which ต้องมีคำนาม",
+    "It matters is ผิดโครงสร้าง"
+   ],
+   "explanation_th": "What matters = สิ่งที่สำคัญ (ทำหน้าที่ประธาน)"
+  },
+  {
+   "id": "M10-C1-10",
+   "skill": "g.article",
+   "difficulty": 2,
+   "stem": "(10) If the project succeeds, Bangkok could become one of the greenest cities in ___ region.",
+   "options": [
+    "a",
+    "an",
+    "some",
+    "the"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "a region ไม่ชี้เฉพาะ",
+    "an ผิด",
+    "some region ผิด",
+    null
+   ],
+   "explanation_th": "in the region = ในภูมิภาค (ที่รู้กันว่าภูมิภาคนี้)"
+  }
+ ]
+}

@@ -1,0 +1,227 @@
+{
+ "id": "M03-R3",
+ "title": "Working from Home",
+ "topic": "ข่าว/สังคม (ข้อมูล)",
+ "level": "B2",
+ "mock": "M03",
+ "lines": [
+  "Before 2020, only about five percent of workers in the United States",
+  "worked mainly from home. During the pandemic, **this** figure jumped to",
+  "nearly sixty percent. Today, it has settled at around thirty percent,",
+  "which is still six times higher than before.",
+  "Surveys show that most remote workers want to keep **it** that way. They",
+  "say they save time and money on travel and can spend more time with their",
+  "families. **Many** also report being more productive at home, although",
+  "managers do not always agree. In one survey, 85 percent of managers said",
+  "they found it hard to trust that remote staff were working.",
+  "Remote work has also changed cities. Office buildings in some downtown",
+  "areas are half empty, and the cafés and shops that depended on office",
+  "workers have lost customers. On the other hand, small towns have gained",
+  "new residents who no longer need to live near **their** workplace.",
+  "Experts believe the future will be \"hybrid\": two or three days in the",
+  "office and the rest at home. **This**, they say, gives companies the",
+  "face-to-face contact they need while keeping workers happy."
+ ],
+ "questions": [
+  {
+   "id": "M03-R3-1",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'this' in line 2 refers to ___.",
+   "options": [
+    "the number of workers in the U.S.",
+    "the percentage of workers who worked mainly from home",
+    "the pandemic",
+    "the year 2020"
+   ],
+   "answer": 1,
+   "explanation_th": "this figure = ตัวเลขที่เพิ่งพูด: ห้าเปอร์เซ็นต์ของคนที่ทำงานจากบ้าน",
+   "why_wrong": [
+    "ไม่ใช่จำนวนคนทั้งหมด",
+    null,
+    "โรคระบาดไม่ใช่ \"figure\"",
+    "ปีไม่ใช่ตัวเลขที่ \"jumped\""
+   ]
+  },
+  {
+   "id": "M03-R3-2",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'it' in line 5 refers to ___.",
+   "options": [
+    "the survey",
+    "travel",
+    "working from home",
+    "the pandemic"
+   ],
+   "answer": 2,
+   "explanation_th": "remote workers want to keep it (working from home) that way",
+   "why_wrong": [
+    "การสำรวจไม่ใช่สิ่งที่อยาก \"keep\"",
+    "เขาอยากประหยัดการเดินทาง",
+    null,
+    "ไม่มีใครอยากเก็บโรคระบาดไว้"
+   ]
+  },
+  {
+   "id": "M03-R3-3",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'Many' in line 7 refers to ___.",
+   "options": [
+    "many managers",
+    "many families",
+    "many offices",
+    "many remote workers"
+   ],
+   "answer": 3,
+   "explanation_th": "Many (remote workers) also report being more productive",
+   "why_wrong": [
+    "ผู้จัดการพูดถึงในประโยคถัดไปและไม่เห็นด้วย",
+    "ครอบครัวไม่ได้รายงานผลงาน",
+    "สำนักงานรายงานไม่ได้",
+    null
+   ]
+  },
+  {
+   "id": "M03-R3-4",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'their' in line 13 refers to ___.",
+   "options": [
+    "the new residents'",
+    "the managers'",
+    "the cafés'",
+    "the experts'"
+   ],
+   "answer": 0,
+   "explanation_th": "new residents who no longer need to live near their workplace",
+   "why_wrong": [
+    null,
+    "ผู้จัดการไม่ได้อยู่ในประโยคนี้",
+    "ร้านกาแฟไม่มีที่ทำงาน",
+    "ผู้เชี่ยวชาญพูดถึงทีหลัง"
+   ]
+  },
+  {
+   "id": "M03-R3-5",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'This' in line 15 refers to ___.",
+   "options": [
+    "working only in the office",
+    "the hybrid model of work",
+    "moving to small towns",
+    "trusting remote staff"
+   ],
+   "answer": 1,
+   "explanation_th": "This = รูปแบบไฮบริด (2–3 วันในออฟฟิศ ที่เหลือที่บ้าน) ที่เพิ่งพูด",
+   "why_wrong": [
+    "ไม่ใช่สิ่งที่ผู้เชี่ยวชาญเสนอ",
+    null,
+    "ไม่ได้อยู่ในประโยคก่อนหน้า",
+    "ไม่ได้อยู่ในประโยคก่อนหน้า"
+   ]
+  },
+  {
+   "id": "M03-R3-6",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Today, about what percentage of U.S. workers work mainly from home?",
+   "options": [
+    "five percent",
+    "sixty percent",
+    "thirty percent",
+    "eighty-five percent"
+   ],
+   "answer": 2,
+   "explanation_th": "บรรทัด 3",
+   "why_wrong": [
+    "ก่อนปี 2020",
+    "ช่วงโรคระบาด",
+    null,
+    "เป็นตัวเลขผู้จัดการในแบบสำรวจ"
+   ]
+  },
+  {
+   "id": "M03-R3-7",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Why do most remote workers want to continue working from home?",
+   "options": [
+    "They earn higher salaries.",
+    "Their managers trust them more.",
+    "Offices are closed.",
+    "They save time and money and see their families more."
+   ],
+   "answer": 3,
+   "explanation_th": "บรรทัด 5–7",
+   "why_wrong": [
+    "ไม่มีข้อมูล",
+    "ตรงข้าม",
+    "ไม่จริง ออฟฟิศแค่ว่างครึ่งหนึ่ง",
+    null
+   ]
+  },
+  {
+   "id": "M03-R3-8",
+   "skill": "r.detail",
+   "difficulty": 3,
+   "stem": "Which is true about managers, according to the passage?",
+   "options": [
+    "Many find it hard to trust that remote staff are working.",
+    "Most believe remote workers are more productive.",
+    "They want everyone to work from home.",
+    "They prefer small towns."
+   ],
+   "answer": 0,
+   "explanation_th": "บรรทัด 8–9",
+   "why_wrong": [
+    null,
+    "ตรงข้าม (managers do not always agree)",
+    "ไม่มีข้อมูล",
+    "ไม่มีข้อมูล"
+   ]
+  },
+  {
+   "id": "M03-R3-9",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "How has remote work affected some downtown areas?",
+   "options": [
+    "More people have moved there.",
+    "Shops and cafés near offices have lost customers.",
+    "Office rents have gone up.",
+    "New offices have been built."
+   ],
+   "answer": 1,
+   "explanation_th": "บรรทัด 10–12",
+   "why_wrong": [
+    "คนย้ายไปเมืองเล็ก",
+    null,
+    "ไม่มีข้อมูล",
+    "ไม่มีข้อมูล"
+   ]
+  },
+  {
+   "id": "M03-R3-10",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "A café owner in a downtown business area would probably prefer ___.",
+   "options": [
+    "more people working fully from home",
+    "people moving to small towns",
+    "more workers returning to the office",
+    "fewer office buildings"
+   ],
+   "answer": 2,
+   "explanation_th": "ร้านที่พึ่งพาพนักงานออฟฟิศเสียลูกค้า → อยากให้คนกลับมาทำงานที่ออฟฟิศ",
+   "why_wrong": [
+    "จะทำให้ลูกค้าน้อยลงอีก",
+    "จะทำให้ลูกค้าน้อยลง",
+    null,
+    "จะทำให้ลูกค้าน้อยลง"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "id": "M07-C3",
+ "title": "The Red Kite",
+ "genre": "วรรณกรรม",
+ "level": "B2",
+ "mock": "M07",
+ "text": "Every afternoon in March, the field behind the temple (1) with colorful kites. Arun watched them from his window. He was (2) sick to go outside that year, and his mother would not let him leave the house. His older sister, Mai, understood how he felt. One evening, she came home (3) a large red kite under her arm. \"Tomorrow,\" she said, \"you will fly it (4) your window.\"\nThe next day, she tied a very long string to the kite and gave the end to Arun. Then she ran out into the field and threw the kite into the wind. (5) the string tightened, Arun felt it pull in his hands. The red kite rose higher and higher (6) it was flying above all the others. Children in the field pointed and shouted, \"Whose kite is that?\" Mai pointed up at the small window (7) Arun was waving.\nYears later, when he (8) a doctor, Arun kept the red kite on the wall of his office. Whenever his young patients felt sad, he told them the story. \"Sometimes,\" he said, \"the people (9) love you find a way to bring the sky (10) you.\"",
+ "items": [
+  {
+   "id": "M07-C3-1",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stem": "(1) Every afternoon in March, the field behind the temple ___ with colorful kites.",
+   "options": [
+    "filling",
+    "was filled",
+    "fills",
+    "is filling"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "filling ไม่ใช่กริยาแท้",
+    null,
+    "fills เป็นปัจจุบัน",
+    "is filling ผิดทั้งเวลาและความหมาย"
+   ],
+   "explanation_th": "ทุ่งถูกเติมเต็มด้วยว่าว (อดีต) → was filled"
+  },
+  {
+   "id": "M07-C3-2",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(2) He was ___ sick to go outside that year, and his mother would not let him leave the house.",
+   "options": [
+    "too",
+    "so",
+    "very",
+    "enough"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "so … to ผิด",
+    "very … to ผิด",
+    "sick enough to go = ป่วยพอจะไปได้ ความหมายกลับ"
+   ],
+   "explanation_th": "too + adj + to V"
+  },
+  {
+   "id": "M07-C3-3",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(3) One evening, she came home ___ a large red kite under her arm.",
+   "options": [
+    "by",
+    "of",
+    "with",
+    "for"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "by ผิด",
+    "of ผิด",
+    null,
+    "for = เพื่อเอา ความหมายผิด"
+   ],
+   "explanation_th": "came home with … under her arm"
+  },
+  {
+   "id": "M07-C3-4",
+   "skill": "g.preposition",
+   "difficulty": 2,
+   "stem": "(4) she said, \"you will fly it ___ your window.\"",
+   "options": [
+    "of",
+    "for",
+    "on",
+    "from"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "fly it of your window ผิด",
+    "fly it for your window ผิด",
+    "on = บน",
+    null
+   ],
+   "explanation_th": "fly it from your window = ชักว่าวจากหน้าต่าง"
+  },
+  {
+   "id": "M07-C3-5",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stem": "(5) ___ the string tightened, Arun felt it pull in his hands.",
+   "options": [
+    "Because of",
+    "As",
+    "Despite",
+    "Unless"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "Because of ต้องตามด้วยคำนาม",
+    null,
+    "Despite ต้องตามด้วยคำนาม",
+    "Unless ไม่สมเหตุผล"
+   ],
+   "explanation_th": "As = ขณะที่ (เชือกตึง ก็รู้สึกแรงดึง)"
+  },
+  {
+   "id": "M07-C3-6",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stem": "(6) The red kite rose higher and higher ___ it was flying above all the others.",
+   "options": [
+    "since",
+    "unless",
+    "whether",
+    "until"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "since ไม่สมเหตุผล",
+    "unless ไม่สมเหตุผล",
+    "whether ไม่สมเหตุผล",
+    null
+   ],
+   "explanation_th": "ขึ้นสูงเรื่อย ๆ จนกระทั่ง… → until"
+  },
+  {
+   "id": "M07-C3-7",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(7) Mai pointed up at the small window ___ Arun was waving.",
+   "options": [
+    "where",
+    "which",
+    "that",
+    "what"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "which ใช้เมื่อข้างหลังขาดประธาน/กรรม",
+    "that ใช้เมื่อข้างหลังขาด",
+    "what ไม่ขยายคำนาม"
+   ],
+   "explanation_th": "หน้าต่าง (สถานที่) + ข้างหลังครบประโยค → where"
+  },
+  {
+   "id": "M07-C3-8",
+   "skill": "g.tense-past",
+   "difficulty": 2,
+   "stem": "(8) Years later, when he ___ a doctor, Arun kept the red kite on the wall of his office.",
+   "options": [
+    "has become",
+    "becomes",
+    "became",
+    "would become"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "has become ไม่เข้ากับเรื่องเล่าอดีต",
+    "becomes เป็นปัจจุบัน",
+    null,
+    "would become ผิดความหมาย"
+   ],
+   "explanation_th": "Years later, when he became … (เรื่องเล่าอดีต)"
+  },
+  {
+   "id": "M07-C3-9",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(9) he said, \"the people ___ love you find a way to bring the sky … you.\"",
+   "options": [
+    "which",
+    "whose",
+    "who",
+    "where"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "which ใช้กับสิ่ง",
+    "whose ต้องตามด้วยคำนาม",
+    null,
+    "where ใช้กับสถานที่"
+   ],
+   "explanation_th": "the people (คน) + ประธานของ love → who"
+  },
+  {
+   "id": "M07-C3-10",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(10) he said, \"the people … love you find a way to bring the sky ___ you.\"",
+   "options": [
+    "to",
+    "at",
+    "in",
+    "with"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "bring … at you ผิด",
+    "bring … in you ผิด",
+    "bring … with you = พาไปด้วย ความหมายผิด"
+   ],
+   "explanation_th": "bring something to you = นำมาให้"
+  }
+ ]
+}

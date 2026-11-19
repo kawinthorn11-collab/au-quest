@@ -1,0 +1,225 @@
+{
+ "id": "M01-R3",
+ "title": "Car-Free Youth",
+ "topic": "ข่าว/สังคม (ผลสำรวจ)",
+ "level": "B1",
+ "mock": "M01",
+ "lines": [
+  "A recent study has found that the number of young people in Japan who",
+  "get a driving license has fallen sharply. In 2005, about 60 percent of",
+  "people aged 18 to 24 had a license. Today the figure is under 40 percent.",
+  "**These young people** are sometimes called \"car-free youth.\"",
+  "When asked why, more than half said that owning a car was simply too",
+  "expensive. Insurance, parking and fuel can cost more than a month's",
+  "salary. **Others** said that trains and buses in big cities are so good that",
+  "a car is unnecessary. Only a small number said they were worried about",
+  "the environment, although **many** said it was \"a nice extra reason.\"",
+  "Car companies see this trend as a serious challenge. Some now offer",
+  "low-cost car-sharing services that let users pay only for the hours they",
+  "drive. **This**, they hope, will introduce young people to driving without",
+  "the cost of owning a car. Experts, however, say that if public transport",
+  "keeps improving, the number of young drivers may continue to fall."
+ ],
+ "questions": [
+  {
+   "id": "M01-R3-1",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'These young people' in line 4 refers to ___.",
+   "options": [
+    "all people aged 18 to 24",
+    "people who own cars",
+    "young people without a driving license",
+    "young people in 2005"
+   ],
+   "answer": 2,
+   "explanation_th": "คนหนุ่มสาวที่ไม่มีใบขับขี่ (ถูกเรียกว่า car-free youth)",
+   "why_wrong": [
+    "กว้างเกินไป มีบางส่วนมีใบขับขี่",
+    "ตรงข้าม",
+    null,
+    "ปี 2005 เป็นแค่ตัวเลขเปรียบเทียบ"
+   ]
+  },
+  {
+   "id": "M01-R3-2",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'Others' in line 7 refers to ___.",
+   "options": [
+    "other cities",
+    "other young people in the study",
+    "other car companies",
+    "other countries"
+   ],
+   "answer": 1,
+   "explanation_th": "more than half said … Others (คนหนุ่มสาวคนอื่น ๆ ที่ถูกถาม) said…",
+   "why_wrong": [
+    "เมืองพูดไม่ได้",
+    null,
+    "บริษัทรถยนต์ถูกพูดถึงย่อหน้าถัดไป",
+    "ไม่มีประเทศอื่น"
+   ]
+  },
+  {
+   "id": "M01-R3-3",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'many' in line 9 refers to ___.",
+   "options": [
+    "many of the young people asked",
+    "many experts",
+    "many cars",
+    "many trains"
+   ],
+   "answer": 0,
+   "explanation_th": "คนหนุ่มสาวจำนวนมากที่ตอบแบบสอบถามบอกว่าเป็น \"เหตุผลเสริม\"",
+   "why_wrong": [
+    null,
+    "ผู้เชี่ยวชาญยังไม่ถูกพูดถึง",
+    "รถพูดไม่ได้",
+    "รถไฟพูดไม่ได้"
+   ]
+  },
+  {
+   "id": "M01-R3-4",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'This' in line 12 refers to ___.",
+   "options": [
+    "the fall in driving licenses",
+    "owning a car",
+    "public transport improving",
+    "offering low-cost car-sharing services"
+   ],
+   "answer": 3,
+   "explanation_th": "บริษัทหวังว่า \"สิ่งนี้\" (บริการแชร์รถราคาถูก) จะแนะนำคนรุ่นใหม่ให้รู้จักการขับรถ",
+   "why_wrong": [
+    "การลดลงเป็นปัญหา ไม่ใช่สิ่งที่บริษัทหวังผล",
+    "บริการนี้ทำให้ไม่ต้องเป็นเจ้าของรถ",
+    "พูดถึงทีหลัง และเป็นความเห็นของผู้เชี่ยวชาญ",
+    null
+   ]
+  },
+  {
+   "id": "M01-R3-5",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "Which is true about young license holders in Japan?",
+   "options": [
+    "Their number has gone down from about 60% to under 40%.",
+    "Their number has risen since 2005.",
+    "Their number has stayed the same.",
+    "Most young people have a license today."
+   ],
+   "answer": 0,
+   "explanation_th": "บรรทัด 2–3",
+   "why_wrong": [
+    null,
+    "ตรงข้าม",
+    "ไม่จริง ลดลงมาก (fallen sharply)",
+    "ปัจจุบันต่ำกว่า 40% ไม่ใช่ส่วนใหญ่"
+   ]
+  },
+  {
+   "id": "M01-R3-6",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "What was the most common reason for not getting a license?",
+   "options": [
+    "Worry about the environment.",
+    "Fear of driving.",
+    "The high cost of owning a car.",
+    "Driving tests are too difficult."
+   ],
+   "answer": 2,
+   "explanation_th": "บรรทัด 5–6: more than half said owning a car was too expensive",
+   "why_wrong": [
+    "มีเพียงส่วนน้อย (Only a small number)",
+    "ไม่มีข้อมูล",
+    null,
+    "ไม่มีข้อมูล"
+   ]
+  },
+  {
+   "id": "M01-R3-7",
+   "skill": "r.detail",
+   "difficulty": 3,
+   "stem": "According to the passage, worry about the environment was ___.",
+   "options": [
+    "the main reason for most people",
+    "never mentioned by the young people",
+    "the reason that car companies gave",
+    "the main reason for only a few, but an extra reason for many"
+   ],
+   "answer": 3,
+   "explanation_th": "บรรทัด 8–9: Only a small number … although many said it was a nice extra reason",
+   "why_wrong": [
+    "ตรงข้าม",
+    "ถูกพูดถึง",
+    "บริษัทไม่ได้ให้เหตุผลนี้",
+    null
+   ]
+  },
+  {
+   "id": "M01-R3-8",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stem": "\"Car companies see this trend as a serious challenge\" means that car companies ___.",
+   "options": [
+    "are worried because fewer young people may buy cars",
+    "want fewer people to drive",
+    "plan to build more trains",
+    "are happy about the trend"
+   ],
+   "answer": 0,
+   "explanation_th": "challenge = ความท้าทาย/ปัญหา → กังวลเรื่องยอดขายลดลง",
+   "why_wrong": [
+    null,
+    "บริษัทรถอยากให้คนขับมากขึ้น",
+    "ไม่มีข้อมูล",
+    "ตรงข้ามกับ serious challenge"
+   ]
+  },
+  {
+   "id": "M01-R3-9",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Car-sharing services allow users to ___.",
+   "options": [
+    "buy a car at a lower price",
+    "pay only for the time they drive",
+    "get a license more quickly",
+    "ride trains for free"
+   ],
+   "answer": 1,
+   "explanation_th": "บรรทัด 11–12: pay only for the hours they drive",
+   "why_wrong": [
+    "ไม่ได้ซื้อรถ",
+    null,
+    "ไม่มีข้อมูล",
+    "ไม่เกี่ยวกับรถไฟ"
+   ]
+  },
+  {
+   "id": "M01-R3-10",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "According to experts, if public transport keeps improving, ___.",
+   "options": [
+    "more young people will buy cars",
+    "car-sharing will become free",
+    "there may be even fewer young drivers",
+    "licenses will become cheaper"
+   ],
+   "answer": 2,
+   "explanation_th": "บรรทัด 13–14: the number of young drivers may continue to fall",
+   "why_wrong": [
+    "ตรงข้าม",
+    "ไม่มีข้อมูล",
+    null,
+    "ไม่มีข้อมูล"
+   ]
+  }
+ ]
+}

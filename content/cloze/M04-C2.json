@@ -1,0 +1,210 @@
+{
+ "id": "M04-C2",
+ "title": "The Wrong Person",
+ "genre": "เรื่องเล่าขำ ๆ",
+ "level": "B1",
+ "mock": "M04",
+ "text": "Last year, I joined a big English camp at a university in Bangkok. On the first morning, I was (1) nervous that I could hardly eat breakfast. I saw a young man in a blue shirt (2) next to the stage. I thought he was one of the students, so I walked up to him and said, \"Hi! Are you new here?\" He smiled and said he had been there (3) a long time.\nWe talked for ten minutes about music, food and (4) favorite movies. He was so friendly that I asked him (5) he wanted to sit with me during the opening speech. \"I'd love to,\" he said, \"but I can't. I (6) the opening speech.\" Then he walked onto the stage. He was the director of the camp! My face turned red. Everyone (7) seen me talking to him.\nLater, he came over and said, \"Thank you for (8) so friendly. Most students are too afraid (9) to me.\" Since then, I have never judged people by (10) clothes.",
+ "items": [
+  {
+   "id": "M04-C2-1",
+   "skill": "g.fixed",
+   "difficulty": 1,
+   "stem": "(1) On the first morning, I was ___ nervous that I could hardly eat breakfast.",
+   "options": [
+    "such",
+    "too",
+    "very",
+    "so"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "such ต้องมีคำนาม",
+    "too … that ผิด",
+    "very … that ผิด",
+    null
+   ],
+   "explanation_th": "so + adj + that"
+  },
+  {
+   "id": "M04-C2-2",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(2) I saw a young man in a blue shirt ___ next to the stage.",
+   "options": [
+    "stood",
+    "standing",
+    "stands",
+    "to stand"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "stood ไม่ใช้หลัง see + กรรม",
+    null,
+    "stands เป็นกริยาแท้ ใช้ตรงนี้ไม่ได้",
+    "to stand ผิดรูปหลัง see"
+   ],
+   "explanation_th": "see + sb + V-ing = เห็นใครกำลังทำ → \"standing\""
+  },
+  {
+   "id": "M04-C2-3",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(3) He smiled and said he had been there ___ a long time.",
+   "options": [
+    "for",
+    "since",
+    "during",
+    "at"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "since + จุดเริ่ม",
+    "during ไม่ใช้กับ a long time แบบนี้",
+    "at ใช้กับจุดเวลา"
+   ],
+   "explanation_th": "for + ระยะเวลา (a long time)"
+  },
+  {
+   "id": "M04-C2-4",
+   "skill": "g.pronoun",
+   "difficulty": 1,
+   "stem": "(4) We talked for ten minutes about music, food and ___ favorite movies.",
+   "options": [
+    "us",
+    "we",
+    "our",
+    "ours"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "us เป็นกรรม",
+    "we เป็นประธาน",
+    null,
+    "ours ไม่มีคำนามตาม"
+   ],
+   "explanation_th": "หน้าคำนาม movies → our"
+  },
+  {
+   "id": "M04-C2-5",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stem": "(5) He was so friendly that I asked him ___ he wanted to sit with me during the opening speech.",
+   "options": [
+    "that",
+    "whether",
+    "what",
+    "which"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "asked him that ใช้กับคำถามไม่ได้",
+    null,
+    "what ต้องมีช่องว่างในประโยคตาม",
+    "which ต้องมีคำนามให้ขยาย"
+   ],
+   "explanation_th": "asked him whether = ถามว่า…หรือไม่"
+  },
+  {
+   "id": "M04-C2-6",
+   "skill": "g.tense-present",
+   "difficulty": 3,
+   "stem": "(6) I ___ the opening speech.\"",
+   "options": [
+    "gave",
+    "have given",
+    "was giving",
+    "am giving"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "gave เป็นอดีต แต่สุนทรพจน์ยังไม่เริ่ม",
+    "have given = พูดไปแล้ว ขัดกับบริบท",
+    "was giving เป็นอดีต",
+    null
+   ],
+   "explanation_th": "แผนที่นัดไว้แน่นอนในอนาคตอันใกล้ → present continuous (am giving)"
+  },
+  {
+   "id": "M04-C2-7",
+   "skill": "g.modal-perfect",
+   "difficulty": 2,
+   "stem": "(7) Everyone ___ seen me talking to him.",
+   "options": [
+    "should have",
+    "can't have",
+    "needn't have",
+    "must have"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "should have = ควรเห็น ความหมายแปลก",
+    "can't have ขัดกับความอาย",
+    "needn't have ความหมายผิด",
+    null
+   ],
+   "explanation_th": "มั่นใจว่าทุกคนเห็น → must have seen"
+  },
+  {
+   "id": "M04-C2-8",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(8) Later, he came over and said, \"Thank you for ___ so friendly.",
+   "options": [
+    "be",
+    "being",
+    "been",
+    "to be"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "หลังบุพบทใช้ V1 ไม่ได้",
+    null,
+    "been ต้องมี have",
+    "หลัง for ไม่ใช้ to V"
+   ],
+   "explanation_th": "Thank you for + V-ing → being"
+  },
+  {
+   "id": "M04-C2-9",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(9) Most students are too afraid ___ to me.\"",
+   "options": [
+    "talking",
+    "talk",
+    "to talk",
+    "for talking"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "too afraid talking ผิด",
+    "ขาด to",
+    null,
+    "for talking ไม่ใช่โครงสร้าง too…to"
+   ],
+   "explanation_th": "too + adj + to V"
+  },
+  {
+   "id": "M04-C2-10",
+   "skill": "g.pronoun",
+   "difficulty": 1,
+   "stem": "(10) Since then, I have never judged people by ___ clothes.",
+   "options": [
+    "their",
+    "there",
+    "they're",
+    "them"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "there = ที่นั่น",
+    "they're = they are",
+    "them เป็นกรรม"
+   ],
+   "explanation_th": "เสื้อผ้าของคน (people) → their clothes"
+  }
+ ]
+}

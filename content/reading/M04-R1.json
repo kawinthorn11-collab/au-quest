@@ -1,0 +1,225 @@
+{
+ "id": "M04-R1",
+ "title": "The Dog Who Walked Home",
+ "topic": "เรื่องจริงน่าทึ่ง",
+ "level": "B1",
+ "mock": "M04",
+ "lines": [
+  "In 2019, a family in northern Thailand lost their dog, Mali, during a",
+  "trip to Bangkok. **They** searched for days, put up posters and asked",
+  "people on social media for help, but nobody had seen her. Sadly, the",
+  "family returned home without her.",
+  "Three months later, a farmer in a village 200 kilometers away noticed a",
+  "thin, tired dog walking along the road. **He** gave her food and water and",
+  "took a photo. When the photo appeared online, the family recognized **her**",
+  "at once. Mali had been walking north, toward home, the whole time.",
+  "Scientists are not completely sure how dogs find their way over such long",
+  "distances. Some believe **they** use their strong sense of smell; **others**",
+  "think they can sense the Earth's magnetic field. Whatever the reason, Mali's",
+  "owners were simply happy to have her back. \"She was thinner,\" said the",
+  "father, \"but she still wagged her tail the moment she saw us. **That** was",
+  "all that mattered.\""
+ ],
+ "questions": [
+  {
+   "id": "M04-R1-1",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'They' in line 2 refers to ___.",
+   "options": [
+    "the posters",
+    "people on social media",
+    "the dogs",
+    "the family"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "โปสเตอร์ตามหาไม่ได้",
+    "คนในโซเชียลถูกขอให้ช่วย ไม่ใช่ผู้ตามหาหลัก",
+    "มีสุนัขตัวเดียวและเป็นตัวที่หาย",
+    null
+   ],
+   "explanation_th": "ครอบครัวเป็นคนที่ตามหาสุนัข"
+  },
+  {
+   "id": "M04-R1-2",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'He' in line 6 refers to ___.",
+   "options": [
+    "the father",
+    "the farmer",
+    "a scientist",
+    "a tourist"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "พ่ออยู่บ้าน",
+    null,
+    "นักวิทยาศาสตร์พูดถึงทีหลัง",
+    "ไม่มีนักท่องเที่ยว"
+   ],
+   "explanation_th": "a farmer … He gave her food"
+  },
+  {
+   "id": "M04-R1-3",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'her' in line 7 refers to ___.",
+   "options": [
+    "the farmer's wife",
+    "the mother",
+    "Mali",
+    "the photo"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ไม่มีภรรยาชาวนา",
+    "แม่ไม่ได้ถูกพูดถึง",
+    null,
+    "รูปไม่ใช่ \"her\""
+   ],
+   "explanation_th": "ครอบครัวจำ \"เธอ\" ได้ = Mali"
+  },
+  {
+   "id": "M04-R1-4",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'they' in line 10 refers to ___.",
+   "options": [
+    "dogs",
+    "scientists",
+    "the owners",
+    "farmers"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "นักวิทยาศาสตร์เป็นผู้เชื่อ ไม่ใช่ผู้ดม",
+    "เจ้าของไม่ได้หาทางกลับบ้าน",
+    "ไม่ได้พูดถึงชาวนาในประโยคนี้"
+   ],
+   "explanation_th": "how dogs find their way … they (dogs) use their sense of smell"
+  },
+  {
+   "id": "M04-R1-5",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'others' in line 10 refers to ___.",
+   "options": [
+    "other dogs",
+    "other scientists",
+    "other families",
+    "other farmers"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "สุนัขไม่ได้ \"think\"",
+    null,
+    "ไม่ได้พูดถึงครอบครัวอื่น",
+    "ไม่ได้พูดถึงชาวนาอื่น"
+   ],
+   "explanation_th": "Some (scientists) believe … others (other scientists) think"
+  },
+  {
+   "id": "M04-R1-6",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'That' in line 13 refers to ___.",
+   "options": [
+    "Mali wagging her tail when she saw them",
+    "Mali being thinner",
+    "the magnetic field",
+    "the photo online"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "การผอมลงเป็นสิ่งที่ \"but\" ตัดทิ้ง",
+    "ไม่ได้อยู่ในประโยคนี้",
+    "ไม่ได้อยู่ในประโยคนี้"
+   ],
+   "explanation_th": "ประโยคก่อนหน้า: but she still wagged her tail… That was all that mattered"
+  },
+  {
+   "id": "M04-R1-7",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "Where was Mali found? ___",
+   "options": [
+    "In Bangkok",
+    "At the family's home",
+    "In a village far from Bangkok",
+    "At an animal shelter"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "สูญหายที่กรุงเทพ แต่พบที่อื่น",
+    "เธอยังเดินทางไม่ถึงบ้าน",
+    null,
+    "ไม่มีในบทความ"
+   ],
+   "explanation_th": "a village 200 kilometers away"
+  },
+  {
+   "id": "M04-R1-8",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "When the farmer found Mali, she was ___.",
+   "options": [
+    "sleeping on the road",
+    "injured and bleeding",
+    "with another family",
+    "thin and tired"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "เธอกำลังเดิน ไม่ได้นอน",
+    "ไม่มีข้อมูลบาดเจ็บ",
+    "ไม่มีในบทความ",
+    null
+   ],
+   "explanation_th": "thin, tired dog walking along the road"
+  },
+  {
+   "id": "M04-R1-9",
+   "skill": "r.vocab",
+   "difficulty": 2,
+   "stem": "In line 7, 'recognized' is closest in meaning to ___.",
+   "options": [
+    "forgot",
+    "knew who she was",
+    "photographed",
+    "called"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ตรงข้าม",
+    null,
+    "ชาวนาเป็นคนถ่าย",
+    "ไม่ใช่ความหมาย"
+   ],
+   "explanation_th": "เห็นรูปแล้ว \"จำได้\" ทันที"
+  },
+  {
+   "id": "M04-R1-10",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "If the farmer had not posted the photo, ___.",
+   "options": [
+    "Mali would have walked faster",
+    "scientists would have studied Mali",
+    "the family would have moved to Bangkok",
+    "the family might never have found Mali"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ไม่มีหลักฐาน",
+    "ไม่มีหลักฐาน",
+    "ไม่มีหลักฐาน",
+    null
+   ],
+   "explanation_th": "ครอบครัวรู้เพราะเห็นรูปออนไลน์ ถ้าไม่มีรูปอาจไม่ได้เจอ"
+  }
+ ]
+}

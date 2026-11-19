@@ -1,0 +1,225 @@
+{
+ "id": "M06-R3",
+ "title": "Shopping on Your Phone",
+ "topic": "ข่าว/ข้อมูล",
+ "level": "B1",
+ "mock": "M06",
+ "lines": [
+  "Online shopping in Thailand has grown rapidly over the past five years.",
+  "According to a recent report, about 70 percent of Thai internet users",
+  "bought something online last year, compared with only 40 percent in",
+  "2018. Clothes and beauty products were the most popular items, followed",
+  "by electronics and food delivery.",
+  "Younger shoppers are leading the change. People aged 18 to 34 make up more",
+  "than half of all online buyers, and **they** spend most of their money",
+  "through mobile apps rather than websites. Older shoppers, however, still",
+  "prefer to see products before buying **them**, especially expensive items.",
+  "The growth has not been good news for everyone. Many small shops in",
+  "traditional markets have lost customers, and **some** have closed. To",
+  "survive, a number of shop owners now sell through social media as well",
+  "as in person. **This** has allowed them to reach customers far beyond their",
+  "neighborhood."
+ ],
+ "questions": [
+  {
+   "id": "M06-R3-1",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'they' in line 7 refers to ___.",
+   "options": [
+    "shoppers aged 18 to 34",
+    "all online buyers",
+    "mobile apps",
+    "older shoppers"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "กว้างเกินไป",
+    "แอปใช้เงินไม่ได้",
+    "ถูกพูดถึงในประโยคถัดไปและต่างกัน"
+   ],
+   "explanation_th": "People aged 18 to 34 … and they spend…"
+  },
+  {
+   "id": "M06-R3-2",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'them' in line 9 refers to ___.",
+   "options": [
+    "older shoppers",
+    "websites",
+    "younger shoppers",
+    "products"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "คนไม่ได้ถูกซื้อ",
+    "เว็บไม่ได้ถูกซื้อ",
+    "คนไม่ได้ถูกซื้อ",
+    null
+   ],
+   "explanation_th": "see products before buying them (products)"
+  },
+  {
+   "id": "M06-R3-3",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'some' in line 11 refers to ___.",
+   "options": [
+    "some customers",
+    "some small shops",
+    "some markets",
+    "some reports"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ลูกค้าไม่ได้ \"ปิด\"",
+    null,
+    "กว้างเกินไป",
+    "ไม่ใช่"
+   ],
+   "explanation_th": "small shops … some (shops) have closed"
+  },
+  {
+   "id": "M06-R3-4",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'This' in line 13 refers to ___.",
+   "options": [
+    "selling through social media as well as in person",
+    "losing customers",
+    "closing their shops",
+    "the traditional market"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ตรงข้าม",
+    "ตรงข้าม",
+    "ไม่ใช่การกระทำ"
+   ],
+   "explanation_th": "สิ่งที่ช่วยให้เข้าถึงลูกค้าไกล = การขายผ่านโซเชียลควบคู่หน้าร้าน"
+  },
+  {
+   "id": "M06-R3-5",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "In 2018, about ___ of Thai internet users shopped online.",
+   "options": [
+    "70 percent",
+    "18 percent",
+    "40 percent",
+    "34 percent"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ตัวเลขปีที่แล้ว (กับดัก)",
+    "เป็นอายุ ไม่ใช่เปอร์เซ็นต์",
+    null,
+    "เป็นอายุ"
+   ],
+   "explanation_th": "compared with only 40 percent in 2018"
+  },
+  {
+   "id": "M06-R3-6",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "The most popular items bought online were ___.",
+   "options": [
+    "electronics",
+    "clothes and beauty products",
+    "food delivery",
+    "expensive items"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "อันดับถัดมา",
+    null,
+    "อันดับถัดมา",
+    "คนสูงวัยระวังเรื่องนี้"
+   ],
+   "explanation_th": "บรรทัด 4"
+  },
+  {
+   "id": "M06-R3-7",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Younger shoppers mainly shop through ___.",
+   "options": [
+    "websites",
+    "traditional markets",
+    "social media only",
+    "mobile apps"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ตรงข้าม (rather than)",
+    "ไม่ใช่",
+    "ไม่มีในบทความ",
+    null
+   ],
+   "explanation_th": "through mobile apps rather than websites"
+  },
+  {
+   "id": "M06-R3-8",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Older shoppers ___.",
+   "options": [
+    "spend more online than younger people",
+    "only buy cheap items",
+    "never shop online",
+    "like to see products before they buy"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ขัดกับบทความ",
+    "ไม่มีหลักฐาน",
+    "เกินจริง (never)",
+    null
+   ],
+   "explanation_th": "prefer to see products before buying them (ถอดความ)"
+  },
+  {
+   "id": "M06-R3-9",
+   "skill": "r.not-true",
+   "difficulty": 2,
+   "stem": "Which statement is NOT true?",
+   "options": [
+    "Online shopping has grown quickly.",
+    "All small shops in traditional markets have closed.",
+    "People aged 18–34 are more than half of online buyers.",
+    "Some shop owners now use social media."
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "จริง",
+    null,
+    "จริง",
+    "จริง"
+   ],
+   "explanation_th": "บทความบอกว่า \"some\" ปิด ไม่ใช่ทั้งหมด"
+  },
+  {
+   "id": "M06-R3-10",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "Selling on social media helps small shop owners mainly by ___.",
+   "options": [
+    "lowering their prices",
+    "closing their shops",
+    "finding customers outside their area",
+    "avoiding older customers"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ไม่มีหลักฐาน",
+    "ตรงข้าม",
+    null,
+    "ไม่มีหลักฐาน"
+   ],
+   "explanation_th": "reach customers far beyond their neighborhood"
+  }
+ ]
+}

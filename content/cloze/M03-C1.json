@@ -1,0 +1,210 @@
+{
+ "id": "M03-C1",
+ "title": "Students Replant the Reef",
+ "genre": "ข่าว",
+ "level": "B2",
+ "mock": "M03",
+ "text": "Marine scientists warn that more than half of the coral reefs in the Gulf of Thailand (1) damaged by rising sea temperatures. In response, a group of students from a Bangkok university has launched a project to grow new coral (2) small pieces of healthy reefs. The pieces are tied to metal frames and placed on the sea floor, (3) they can grow safely. So far, the students have planted more than 3,000 pieces, about 70 percent of (4) have survived.\nThe project leader, Ploy Rattana, said the work was slow and often (5). \"Some days we dive for hours and lose half of the pieces in a storm,\" she said. \"But (6) we stop, the reefs will keep dying.\" Local fishermen, (7) income depends on healthy reefs, have joined the students as volunteers.\nExperts praised the project but warned that planting coral is not enough (8) itself. \"Unless we reduce carbon emissions, the water will become too warm for any coral (9) survive,\" said one researcher. The students now hope to (10) the project to three more islands next year.",
+ "items": [
+  {
+   "id": "M03-C1-1",
+   "skill": "g.agreement",
+   "difficulty": 3,
+   "stem": "(1) Marine scientists warn that more than half of the coral reefs in the Gulf of Thailand ___ damaged by rising sea temperatures.",
+   "options": [
+    "has been",
+    "have been",
+    "was",
+    "is"
+   ],
+   "answer": 1,
+   "explanation_th": "half of + นามพหูพจน์ (reefs) → กริยาพหูพจน์ have been",
+   "why_wrong": [
+    "has ตาม half แบบเอกพจน์ แต่ half of + พหูพจน์ใช้พหูพจน์",
+    null,
+    "was เป็นเอกพจน์และอดีต",
+    "is เป็นเอกพจน์"
+   ]
+  },
+  {
+   "id": "M03-C1-2",
+   "skill": "g.preposition",
+   "difficulty": 2,
+   "stem": "(2) In response, a group of students from a Bangkok university has launched a project to grow new coral ___ small pieces of healthy reefs.",
+   "options": [
+    "by",
+    "of",
+    "from",
+    "at"
+   ],
+   "answer": 2,
+   "explanation_th": "ปลูกปะการังใหม่จากชิ้นเล็ก ๆ → grow … from",
+   "why_wrong": [
+    "by small pieces ไม่ได้บอกแหล่งที่มา",
+    "grow coral of pieces ไม่มีความหมาย",
+    null,
+    "at ไม่บอกแหล่งที่มา"
+   ]
+  },
+  {
+   "id": "M03-C1-3",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(3) The pieces are tied to metal frames and placed on the sea floor, ___ they can grow safely.",
+   "options": [
+    "which",
+    "when",
+    "what",
+    "where"
+   ],
+   "answer": 3,
+   "explanation_th": "ขยายสถานที่ (the sea floor) → where they can grow",
+   "why_wrong": [
+    "which ต้องเป็นประธาน/กรรมในประโยคตาม แต่ประโยคหลังครบแล้ว",
+    "when ใช้กับเวลา",
+    "what ไม่ขยายคำนามข้างหน้า",
+    null
+   ]
+  },
+  {
+   "id": "M03-C1-4",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(4) So far, the students have planted more than 3,000 pieces, about 70 percent of ___ have survived.",
+   "options": [
+    "which",
+    "whom",
+    "them",
+    "what"
+   ],
+   "answer": 0,
+   "explanation_th": "about 70 percent of which (ชิ้นปะการัง) = ส่วนหนึ่งของสิ่งที่พูดถึง",
+   "why_wrong": [
+    null,
+    "whom ใช้กับคน",
+    "them ทำให้กลายเป็นสองประโยคที่ไม่มีคำเชื่อม (comma splice)",
+    "what ไม่ใช้ต่อจาก of แบบนี้"
+   ]
+  },
+  {
+   "id": "M03-C1-5",
+   "skill": "g.wordform",
+   "difficulty": 2,
+   "stem": "(5) The project leader, Ploy Rattana, said the work was slow and often ___.",
+   "options": [
+    "exhausted",
+    "exhausting",
+    "exhaust",
+    "exhaustion"
+   ],
+   "answer": 1,
+   "explanation_th": "งานทำให้เหนื่อย (ลักษณะของงาน) → exhausting",
+   "why_wrong": [
+    "exhausted ใช้กับคนที่รู้สึกเหนื่อย",
+    null,
+    "exhaust เป็นกริยา/คำนาม (ไอเสีย)",
+    "exhaustion เป็นคำนาม"
+   ]
+  },
+  {
+   "id": "M03-C1-6",
+   "skill": "g.conditional",
+   "difficulty": 2,
+   "stem": "(6) \"But ___ we stop, the reefs will keep dying.\"",
+   "options": [
+    "unless",
+    "although",
+    "if",
+    "whether"
+   ],
+   "answer": 2,
+   "explanation_th": "ถ้าเราหยุด ปะการังจะตายต่อ → if",
+   "why_wrong": [
+    "unless = ถ้าไม่ ทำให้ความหมายกลับ",
+    "although ไม่ใช่เงื่อนไข",
+    null,
+    "whether ใช้กับ or not หรือหลังกริยาสงสัย"
+   ]
+  },
+  {
+   "id": "M03-C1-7",
+   "skill": "g.relative",
+   "difficulty": 3,
+   "stem": "(7) Local fishermen, ___ income depends on healthy reefs, have joined the students as volunteers.",
+   "options": [
+    "who",
+    "which",
+    "whom",
+    "whose"
+   ],
+   "answer": 3,
+   "explanation_th": "รายได้ของชาวประมง (ความเป็นเจ้าของ) → whose income",
+   "why_wrong": [
+    "who income ผิด ต้องเป็นความเป็นเจ้าของ",
+    "which ใช้กับสิ่งของ และไม่บอกความเป็นเจ้าของ",
+    "whom ใช้ในตำแหน่งกรรม",
+    null
+   ]
+  },
+  {
+   "id": "M03-C1-8",
+   "skill": "g.fixed",
+   "difficulty": 2,
+   "stem": "(8) Experts praised the project but warned that planting coral is not enough ___ itself.",
+   "options": [
+    "by",
+    "on",
+    "at",
+    "for"
+   ],
+   "answer": 0,
+   "explanation_th": "by itself = ด้วยตัวมันเองลำพัง",
+   "why_wrong": [
+    null,
+    "on itself ไม่ใช่สำนวนนี้",
+    "at itself ไม่ใช่สำนวน",
+    "for itself = เพื่อตัวเอง"
+   ]
+  },
+  {
+   "id": "M03-C1-9",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(9) \"Unless we reduce carbon emissions, the water will become too warm for any coral ___ survive,\"",
+   "options": [
+    "that",
+    "can",
+    "for",
+    "to"
+   ],
+   "answer": 3,
+   "explanation_th": "too + adj + for + คน/สิ่ง + to V → too warm for any coral to survive",
+   "why_wrong": [
+    "too … that ผิดโครงสร้าง",
+    "can ซ้อนหลัง coral แบบนี้ไม่ได้",
+    "for มีอยู่แล้วก่อน any coral",
+    null
+   ]
+  },
+  {
+   "id": "M03-C1-10",
+   "skill": "g.wordform",
+   "difficulty": 1,
+   "stem": "(10) The students now hope to ___ the project to three more islands next year.",
+   "options": [
+    "expansion",
+    "expand",
+    "expansive",
+    "expanding"
+   ],
+   "answer": 1,
+   "explanation_th": "hope to + V1 → expand",
+   "why_wrong": [
+    "expansion เป็นคำนาม",
+    null,
+    "expansive เป็น adjective",
+    "หลัง to (infinitive) ใช้ V1 ไม่ใช่ V-ing"
+   ]
+  }
+ ]
+}

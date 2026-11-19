@@ -1,0 +1,210 @@
+{
+ "id": "M02-C1",
+ "title": "Drones Carry Medicine to the Mountains",
+ "genre": "ข่าว",
+ "level": "B1",
+ "mock": "M02",
+ "text": "A hospital in northern Thailand has started (1) drones to deliver medicine to villages in the mountains. Before the project began, nurses had to travel up to four hours on bad roads to reach patients in (2) homes. Now a drone can make the same trip in twenty minutes.\nThe project, (3) is supported by a local university, will run for one year. Each drone can carry up to two kilograms, so it is too small (4) carry large equipment. (5), the hospital director says it has already saved several lives. \"Last month, a boy (6) by a snake, and the drone brought the medicine in time,\" he said.\nNot everyone is convinced. Some villagers say the noise frightens (7) animals, (8) others are worried about privacy. The university plans to study these concerns (9) the trial period. If the project (10) well, it will be used in other provinces next year.",
+ "items": [
+  {
+   "id": "M02-C1-1",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(1) A hospital in northern Thailand has started ___ drones to deliver medicine to villages in the mountains.",
+   "options": [
+    "use",
+    "using",
+    "used",
+    "uses"
+   ],
+   "answer": 1,
+   "explanation_th": "start + V-ing = เริ่ม… → started using",
+   "why_wrong": [
+    "started use ผิดรูป ต้องเป็น V-ing หรือ to V",
+    null,
+    "started used ผิดรูป",
+    "started uses ผิดรูป"
+   ]
+  },
+  {
+   "id": "M02-C1-2",
+   "skill": "g.pronoun",
+   "difficulty": 1,
+   "stem": "(2) Before the project began, nurses had to travel up to four hours on bad roads to reach patients in ___ homes.",
+   "options": [
+    "its",
+    "his",
+    "their",
+    "them"
+   ],
+   "answer": 2,
+   "explanation_th": "บ้านของผู้ป่วย (patients พหูพจน์) → their homes",
+   "why_wrong": [
+    "its ใช้กับสิ่งของเอกพจน์",
+    "his ใช้กับผู้ชายคนเดียว",
+    null,
+    "them เป็นกรรม วางหน้าคำนามไม่ได้"
+   ]
+  },
+  {
+   "id": "M02-C1-3",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(3) The project, ___ is supported by a local university, will run for one year.",
+   "options": [
+    "who",
+    "what",
+    "that",
+    "which"
+   ],
+   "answer": 3,
+   "explanation_th": "ขยาย The project หลัง comma → which (หลัง comma ใช้ that ไม่ได้)",
+   "why_wrong": [
+    "who ใช้กับคน",
+    "what ไม่ขยายคำนามข้างหน้า",
+    "หลัง comma (non-defining) ใช้ that ไม่ได้",
+    null
+   ]
+  },
+  {
+   "id": "M02-C1-4",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(4) Each drone can carry up to two kilograms, so it is too small ___ carry large equipment.",
+   "options": [
+    "to",
+    "for",
+    "that",
+    "so"
+   ],
+   "answer": 0,
+   "explanation_th": "too + adj + to V = เกินกว่าจะ…",
+   "why_wrong": [
+    null,
+    "too small for carry ผิดรูป",
+    "too … that ไม่ใช่โครงสร้างที่ถูก",
+    "too … so ไม่ใช่โครงสร้างที่ถูก"
+   ]
+  },
+  {
+   "id": "M02-C1-5",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stem": "(5) ___, the hospital director says it has already saved several lives.",
+   "options": [
+    "Therefore",
+    "However",
+    "Because",
+    "Unless"
+   ],
+   "answer": 1,
+   "explanation_th": "โดรนเล็ก (ข้อจำกัด) แต่ช่วยชีวิตได้แล้ว = ขัดกัน → However",
+   "why_wrong": [
+    "Therefore = ดังนั้น ทำให้เป็นผลลัพธ์ ไม่สมเหตุผล",
+    null,
+    "Because ต้องตามด้วยประโยคเหตุ ไม่ใช้กับ comma แบบนี้",
+    "Unless = ถ้าไม่ ความหมายผิด"
+   ]
+  },
+  {
+   "id": "M02-C1-6",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stem": "(6) \"Last month, a boy ___ by a snake, and the drone brought the medicine in time,\"",
+   "options": [
+    "bit",
+    "has bitten",
+    "was bitten",
+    "was biting"
+   ],
+   "answer": 2,
+   "explanation_th": "เด็ก \"ถูก\" งูกัด → was bitten (by a snake)",
+   "why_wrong": [
+    "bit = เด็กกัด ความหมายกลับ",
+    "has bitten = เด็กกัด และไม่ใช้กับ Last month",
+    null,
+    "was biting = เด็กกำลังกัด ความหมายกลับ"
+   ]
+  },
+  {
+   "id": "M02-C1-7",
+   "skill": "g.pronoun",
+   "difficulty": 1,
+   "stem": "(7) Some villagers say the noise frightens ___ animals, … others are worried about privacy.",
+   "options": [
+    "they're",
+    "there",
+    "them",
+    "their"
+   ],
+   "answer": 3,
+   "explanation_th": "สัตว์ของพวกเขา หน้าคำนาม animals → their",
+   "why_wrong": [
+    "they're = they are",
+    "there = ที่นั่น",
+    "them เป็นกรรม",
+    null
+   ]
+  },
+  {
+   "id": "M02-C1-8",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stem": "(8) Some villagers say the noise frightens … animals, ___ others are worried about privacy.",
+   "options": [
+    "while",
+    "so",
+    "because",
+    "unless"
+   ],
+   "answer": 0,
+   "explanation_th": "บางคน… ขณะที่คนอื่น… (เปรียบต่าง) → while",
+   "why_wrong": [
+    null,
+    "so ทำให้เป็นผลลัพธ์",
+    "because ทำให้เป็นเหตุผล",
+    "unless = ถ้าไม่"
+   ]
+  },
+  {
+   "id": "M02-C1-9",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(9) The university plans to study these concerns ___ the trial period.",
+   "options": [
+    "while",
+    "during",
+    "since",
+    "at"
+   ],
+   "answer": 1,
+   "explanation_th": "ระหว่างช่วงที่เป็นคำนาม (the trial period) → during",
+   "why_wrong": [
+    "while ต้องตามด้วยประโยค",
+    null,
+    "since + จุดเริ่ม",
+    "at ใช้กับจุดเวลา"
+   ]
+  },
+  {
+   "id": "M02-C1-10",
+   "skill": "g.conditional",
+   "difficulty": 2,
+   "stem": "(10) If the project ___ well, it will be used in other provinces next year.",
+   "options": [
+    "will go",
+    "went",
+    "goes",
+    "going"
+   ],
+   "answer": 2,
+   "explanation_th": "If แบบที่ 1: If + V1(s), … will → If the project goes well",
+   "why_wrong": [
+    "หลัง if ไม่ใช้ will",
+    "went ใช้กับ if แบบที่ 2 (would) ไม่เข้ากับ will be used",
+    null,
+    "going อยู่ลำพังเป็นกริยาแท้ไม่ได้"
+   ]
+  }
+ ]
+}

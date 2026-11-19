@@ -1,0 +1,210 @@
+{
+ "id": "M01-C3",
+ "title": "The Lighthouse Keeper",
+ "genre": "วรรณกรรม",
+ "level": "B1",
+ "mock": "M01",
+ "text": "The storm had been growing all afternoon. By evening, the waves (1) over the rocks below the lighthouse, and the wind screamed like an animal. Old Tomas climbed the stairs slowly, holding the rail with both hands. He had made this climb every night for thirty years, (2) tonight his legs felt heavy.\nAt the top, he lit the great lamp. Its light swept across the dark sea. Then he saw it: a small fishing boat, far from the harbor, (3) up and down like a toy. Tomas knew he was too old (4) row out to sea. But he also knew the boat would hit the rocks (5) somebody guided it to safety. He grabbed his signal lamp and began flashing it, again and again. It was uncertain (6) the fishermen could see it through the rain.\nMinutes passed. Then, slowly, the boat turned. It followed (7) light toward the narrow entrance of the harbor. The next morning, the fishermen came to thank him. They told him that they (8) all hope. Tomas only smiled. He had done (9) any keeper would have done. But that night, for the first time in years, he did not feel old at all; he felt (10).",
+ "items": [
+  {
+   "id": "M01-C3-1",
+   "skill": "g.tense-past",
+   "difficulty": 2,
+   "stem": "(1) By evening, the waves ___ over the rocks below the lighthouse, and the wind screamed like an animal.",
+   "options": [
+    "are crashing",
+    "crash",
+    "were crashing",
+    "have crashed"
+   ],
+   "answer": 2,
+   "explanation_th": "ฉากหลังที่กำลังเกิดอยู่ในอดีต (By evening) → were crashing",
+   "why_wrong": [
+    "are crashing เป็นปัจจุบัน",
+    "crash เป็นปัจจุบัน",
+    null,
+    "have crashed ไม่ใช้ในเรื่องเล่าอดีต"
+   ]
+  },
+  {
+   "id": "M01-C3-2",
+   "skill": "g.conj-contrast",
+   "difficulty": 1,
+   "stem": "(2) He had made this climb every night for thirty years, ___ tonight his legs felt heavy.",
+   "options": [
+    "but",
+    "so",
+    "because",
+    "or"
+   ],
+   "answer": 0,
+   "explanation_th": "ขึ้นทุกคืนมาสามสิบปี แต่คืนนี้ขาหนัก = ขัดกัน → but",
+   "why_wrong": [
+    null,
+    "so ทำให้เป็นผลลัพธ์ ไม่สมเหตุผล",
+    "because ทำให้เป็นเหตุผล",
+    "or ใช้กับทางเลือก"
+   ]
+  },
+  {
+   "id": "M01-C3-3",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(3) Then he saw it: a small fishing boat, far from the harbor, ___ up and down like a toy.",
+   "options": [
+    "bounced",
+    "bounces",
+    "to bounce",
+    "bouncing"
+   ],
+   "answer": 3,
+   "explanation_th": "วลีขยายเรือ (เรือที่กำลังโคลงขึ้นลง) ใช้ V-ing → bouncing",
+   "why_wrong": [
+    "bounced = ถูกเด้ง/เด้งแล้ว ไม่ได้บรรยายภาพที่กำลังเห็น",
+    "bounces เป็นกริยาแท้ ใช้ในวลีขยายแบบนี้ไม่ได้",
+    "to bounce = เพื่อจะเด้ง ความหมายผิด",
+    null
+   ]
+  },
+  {
+   "id": "M01-C3-4",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(4) Tomas knew he was too old ___ row out to sea.",
+   "options": [
+    "for",
+    "to",
+    "that",
+    "than"
+   ],
+   "answer": 1,
+   "explanation_th": "too + adj + to V = …เกินกว่าจะ…",
+   "why_wrong": [
+    "too old for row ผิด (for + คำนาม)",
+    null,
+    "too old that ไม่ใช่โครงสร้างที่ถูก (so…that)",
+    "than ใช้เปรียบเทียบ"
+   ]
+  },
+  {
+   "id": "M01-C3-5",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stem": "(5) But he also knew the boat would hit the rocks ___ somebody guided it to safety.",
+   "options": [
+    "if",
+    "because",
+    "unless",
+    "although"
+   ],
+   "answer": 2,
+   "explanation_th": "เรือจะชนหิน ถ้าไม่มีใครนำทาง → unless (= if not)",
+   "why_wrong": [
+    "if ทำให้ความหมายกลับ (ถ้ามีคนนำทาง เรือจะชน)",
+    "because ทำให้การนำทางเป็นสาเหตุที่ชน",
+    null,
+    "although ไม่สมเหตุผล"
+   ]
+  },
+  {
+   "id": "M01-C3-6",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stem": "(6) It was uncertain ___ the fishermen could see it through the rain.",
+   "options": [
+    "that",
+    "what",
+    "which",
+    "whether"
+   ],
+   "answer": 3,
+   "explanation_th": "ไม่แน่ใจว่า…หรือไม่ → It was uncertain whether",
+   "why_wrong": [
+    "that ไม่ให้ความหมาย \"หรือไม่\" กับ uncertain",
+    "what ต้องมีช่องว่างในประโยคตาม แต่ประโยคหลังครบแล้ว",
+    "which ใช้ขยายคำนาม",
+    null
+   ]
+  },
+  {
+   "id": "M01-C3-7",
+   "skill": "g.pronoun",
+   "difficulty": 1,
+   "stem": "(7) It followed ___ light toward the narrow entrance of the harbor.",
+   "options": [
+    "its",
+    "his",
+    "their",
+    "her"
+   ],
+   "answer": 1,
+   "explanation_th": "แสงของ Tomas → his light",
+   "why_wrong": [
+    "its light = แสงของเรือเอง ไม่สมเหตุผล",
+    null,
+    "their light = แสงของชาวประมง ความหมายผิด",
+    "her ไม่มีผู้หญิงในเรื่อง"
+   ]
+  },
+  {
+   "id": "M01-C3-8",
+   "skill": "g.tense-past",
+   "difficulty": 2,
+   "stem": "(8) They told him that they ___ all hope.",
+   "options": [
+    "had lost",
+    "have lost",
+    "lose",
+    "losing"
+   ],
+   "answer": 0,
+   "explanation_th": "เล่าคำพูด (told him that) + หมดหวังไปแล้วก่อนเห็นแสง → had lost",
+   "why_wrong": [
+    null,
+    "have lost ต้องถอยเป็น had lost",
+    "lose เป็นปัจจุบัน",
+    "losing ไม่มี had/were นำหน้า จึงเป็นกริยาแท้ไม่ได้"
+   ]
+  },
+  {
+   "id": "M01-C3-9",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(9) He had done ___ any keeper would have done.",
+   "options": [
+    "that",
+    "which",
+    "what",
+    "who"
+   ],
+   "answer": 2,
+   "explanation_th": "what = สิ่งที่ (the thing that) ทำหน้าที่ทั้งคำนามและตัวเชื่อม",
+   "why_wrong": [
+    "that ต้องมีคำนามข้างหน้าให้ขยาย",
+    "which ต้องมีคำนามข้างหน้าให้ขยาย",
+    null,
+    "who ใช้กับคน"
+   ]
+  },
+  {
+   "id": "M01-C3-10",
+   "skill": "g.wordform",
+   "difficulty": 1,
+   "stem": "(10) But that night, for the first time in years, he did not feel old at all; he felt ___.",
+   "options": [
+    "youth",
+    "young",
+    "youngster",
+    "youngly"
+   ],
+   "answer": 1,
+   "explanation_th": "หลัง felt ต้องเป็น adjective → young",
+   "why_wrong": [
+    "youth เป็นคำนาม",
+    null,
+    "youngster เป็นคำนาม (เด็กหนุ่ม)",
+    "youngly ไม่มีในภาษาอังกฤษ"
+   ]
+  }
+ ]
+}

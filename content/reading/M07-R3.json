@@ -1,0 +1,225 @@
+{
+ "id": "M07-R3",
+ "title": "Clean Food, Good Taste",
+ "topic": "ข่าว/ข้อมูล",
+ "level": "B1",
+ "mock": "M07",
+ "lines": [
+  "Street food is one of the main reasons tourists choose Thailand. A survey",
+  "of 5,000 visitors found that 82 percent tried street food during their",
+  "trip, and nearly half said **it** was the highlight of their holiday.",
+  "Pad thai and mango sticky rice were the most popular dishes, while",
+  "som tam was named the spiciest.",
+  "However, the survey also showed concerns. About one in four visitors",
+  "worried about hygiene, and **some** said they had avoided certain stalls",
+  "because **they** looked dirty. In response, Bangkok has started a \"Clean",
+  "Food, Good Taste\" program. Vendors who pass a hygiene check receive a",
+  "green sign to display at **their** stalls.",
+  "So far, more than 3,000 vendors have joined. **Those** with green signs",
+  "report that their sales have increased by about 15 percent. City officials",
+  "hope the program will protect both tourists' health and the reputation of",
+  "Thai street food."
+ ],
+ "questions": [
+  {
+   "id": "M07-R3-1",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'it' in line 3 refers to ___.",
+   "options": [
+    "the survey",
+    "the trip",
+    "Thailand",
+    "street food"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "การสำรวจไม่ใช่ไฮไลต์",
+    "กว้างเกินไป",
+    "กว้างเกินไป",
+    null
+   ],
+   "explanation_th": "nearly half said it (street food) was the highlight"
+  },
+  {
+   "id": "M07-R3-2",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'some' in line 7 refers to ___.",
+   "options": [
+    "some stalls",
+    "some visitors",
+    "some dishes",
+    "some vendors"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ร้านเป็นสิ่งที่ถูกหลีกเลี่ยง",
+    null,
+    "อาหารพูดไม่ได้",
+    "ผู้ขายพูดถึงทีหลัง"
+   ],
+   "explanation_th": "visitors worried … some (visitors) said they had avoided…"
+  },
+  {
+   "id": "M07-R3-3",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'they' in line 8 refers to ___.",
+   "options": [
+    "the visitors",
+    "the officials",
+    "certain stalls",
+    "the dishes"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "คนไม่ได้ดูสกปรกในบริบทนี้",
+    "ไม่ได้อยู่ในประโยค",
+    null,
+    "ไม่ใช่"
+   ],
+   "explanation_th": "avoided certain stalls because they (the stalls) looked dirty"
+  },
+  {
+   "id": "M07-R3-4",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'their' in line 10 refers to ___.",
+   "options": [
+    "the vendors'",
+    "the tourists'",
+    "the officials'",
+    "the dishes'"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "นักท่องเที่ยวไม่มีแผง",
+    "ไม่ได้อยู่ในประโยค",
+    "ไม่ใช่"
+   ],
+   "explanation_th": "Vendors … display at their stalls"
+  },
+  {
+   "id": "M07-R3-5",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'Those' in line 11 refers to ___.",
+   "options": [
+    "tourists with green signs",
+    "vendors with green signs",
+    "all street vendors",
+    "city officials"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "นักท่องเที่ยวไม่ได้ป้าย",
+    null,
+    "กว้างเกินไป",
+    "ไม่ได้รับป้าย"
+   ],
+   "explanation_th": "Those with green signs = ผู้ขายที่ได้ป้ายเขียว"
+  },
+  {
+   "id": "M07-R3-6",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "What percentage of visitors tried street food?",
+   "options": [
+    "82 percent",
+    "50 percent",
+    "25 percent",
+    "15 percent"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ประมาณครึ่งคือคนที่บอกว่าเป็นไฮไลต์",
+    "หนึ่งในสี่คือคนที่กังวล",
+    "ยอดขายที่เพิ่ม"
+   ],
+   "explanation_th": "บรรทัด 2"
+  },
+  {
+   "id": "M07-R3-7",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "Which dish was named the spiciest?",
+   "options": [
+    "Pad thai",
+    "Mango sticky rice",
+    "Som tam",
+    "Green curry"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "เป็นเมนูยอดนิยม",
+    "เป็นเมนูยอดนิยม",
+    null,
+    "ไม่ได้พูดถึง"
+   ],
+   "explanation_th": "som tam was named the spiciest"
+  },
+  {
+   "id": "M07-R3-8",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Vendors receive a green sign when they ___.",
+   "options": [
+    "sell the most food",
+    "join a tourist survey",
+    "lower their prices",
+    "pass a hygiene check"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ",
+    null
+   ],
+   "explanation_th": "Vendors who pass a hygiene check receive a green sign"
+  },
+  {
+   "id": "M07-R3-9",
+   "skill": "r.not-true",
+   "difficulty": 2,
+   "stem": "Which statement is NOT true?",
+   "options": [
+    "Pad thai was one of the most popular dishes.",
+    "All visitors were worried about hygiene.",
+    "More than 3,000 vendors have joined the program.",
+    "Vendors with green signs sell more."
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "จริง",
+    null,
+    "จริง",
+    "จริง"
+   ],
+   "explanation_th": "มีแค่ประมาณหนึ่งในสี่ที่กังวล"
+  },
+  {
+   "id": "M07-R3-10",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "City officials probably want the program to ___.",
+   "options": [
+    "close dirty restaurants",
+    "stop tourists eating spicy food",
+    "raise food prices",
+    "make tourists feel safe eating street food"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "เกินจริง",
+    "ไม่มีหลักฐาน",
+    "ไม่มีหลักฐาน",
+    null
+   ],
+   "explanation_th": "protect tourists' health and the reputation of Thai street food"
+  }
+ ]
+}

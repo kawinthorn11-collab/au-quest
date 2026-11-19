@@ -1,0 +1,183 @@
+{
+ "id": "R04",
+ "title": "The Night Market Business",
+ "topic": "ชีวิตนักศึกษา/ธุรกิจ",
+ "level": "B1",
+ "lines": [
+  "When Nam was in Grade 11, her family's small shop was losing money.",
+  "Instead of complaining, Nam decided to help. Every Friday and Saturday",
+  "night, she sold handmade bracelets at a night market near her home. At",
+  "first, **she** sold only three or four a night, and she almost gave up.",
+  "Then she noticed something. Tourists did not just want pretty bracelets;",
+  "**they** wanted a story. So Nam started writing a small card for each one,",
+  "explaining the meaning of the colors and the name of the village where",
+  "the beads were made. Her sales went up quickly. Within six months, she was",
+  "selling over fifty bracelets every weekend, and she had to ask two friends",
+  "to help **her**. Nam used part of the money to pay for her English lessons,",
+  "because many of her customers came from abroad. Now Nam is a first-year",
+  "business student. \"The market taught me more than any textbook,\" she says.",
+  "\"**It** showed me that people buy feelings, not just products.\""
+ ],
+ "questions": [
+  {
+   "id": "R04-1",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'she' in line 4 refers to ___.",
+   "options": [
+    "Nam's mother",
+    "Nam",
+    "a tourist",
+    "a friend"
+   ],
+   "answer": 1,
+   "explanation_th": "เรื่องทั้งหมดเล่าเกี่ยวกับ Nam ที่ขายกำไล",
+   "why_wrong": [
+    "แม่ไม่ได้ถูกพูดถึง",
+    null,
+    "นักท่องเที่ยวเป็นคนซื้อ",
+    "เพื่อนมาช่วยทีหลัง"
+   ]
+  },
+  {
+   "id": "R04-2",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'they' in line 6 refers to ___.",
+   "options": [
+    "the bracelets",
+    "the villages",
+    "the tourists",
+    "her friends"
+   ],
+   "answer": 2,
+   "explanation_th": "Tourists did not just want pretty bracelets; they (tourists) wanted a story",
+   "why_wrong": [
+    "กำไลไม่ได้ \"ต้องการ\" อะไร",
+    "หมู่บ้านถูกพูดถึงหลังจากนั้น",
+    null,
+    "เพื่อนยังไม่ปรากฏ"
+   ]
+  },
+  {
+   "id": "R04-3",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'her' in line 10 refers to ___.",
+   "options": [
+    "Nam",
+    "a customer",
+    "her mother",
+    "her teacher"
+   ],
+   "answer": 0,
+   "explanation_th": "ask two friends to help her (Nam)",
+   "why_wrong": [
+    null,
+    "ลูกค้าไม่ได้ขอให้เพื่อนช่วย",
+    "แม่ไม่ได้อยู่ในประโยค",
+    "ไม่มีครูในเรื่อง"
+   ]
+  },
+  {
+   "id": "R04-4",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'It' in line 13 refers to ___.",
+   "options": [
+    "the textbook",
+    "the business course",
+    "the English lessons",
+    "the night market"
+   ],
+   "answer": 3,
+   "explanation_th": "The market taught me … It (the market) showed me…",
+   "why_wrong": [
+    "ตำราถูกเปรียบว่าสอนน้อยกว่า",
+    "ไม่ได้พูดถึงในประโยคก่อน",
+    "ไม่ได้พูดถึงในประโยคก่อน",
+    null
+   ]
+  },
+  {
+   "id": "R04-5",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Why did Nam start selling bracelets?",
+   "options": [
+    "Her family's shop was losing money.",
+    "She wanted to pay for university.",
+    "Her friends asked her to.",
+    "She needed to practice English."
+   ],
+   "answer": 0,
+   "explanation_th": "บรรทัด 1–2: the shop was losing money … Nam decided to help",
+   "why_wrong": [
+    null,
+    "ไม่ได้บอกเป็นเหตุผลเริ่มต้น",
+    "เพื่อนมาช่วยทีหลัง",
+    "ภาษาอังกฤษเป็นสิ่งที่ใช้เงินจ่ายทีหลัง"
+   ]
+  },
+  {
+   "id": "R04-6",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "What made her sales increase?",
+   "options": [
+    "She lowered the price.",
+    "She added a card with a story to each bracelet.",
+    "She moved to a bigger market.",
+    "She made more colorful bracelets."
+   ],
+   "answer": 1,
+   "explanation_th": "บรรทัด 6–8: started writing a small card … Her sales went up quickly",
+   "why_wrong": [
+    "ไม่มีข้อมูลเรื่องลดราคา",
+    null,
+    "ไม่ได้ย้ายตลาด",
+    "ไม่ได้พูดว่าทำสีสันมากขึ้น"
+   ]
+  },
+  {
+   "id": "R04-7",
+   "skill": "r.inference",
+   "difficulty": 2,
+   "stem": "Why did Nam pay for English lessons?",
+   "options": [
+    "Her school required it.",
+    "She wanted to study abroad.",
+    "She wanted to talk better with foreign customers.",
+    "Her friends were taking them."
+   ],
+   "answer": 2,
+   "explanation_th": "บรรทัด 10–11: because many of her customers came from abroad",
+   "why_wrong": [
+    "ไม่มีข้อมูล",
+    "ไม่มีข้อมูลเรื่องเรียนต่างประเทศ",
+    null,
+    "ไม่มีข้อมูล"
+   ]
+  },
+  {
+   "id": "R04-8",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "What is the main lesson Nam learned?",
+   "options": [
+    "Textbooks are not useful.",
+    "Tourists have a lot of money.",
+    "Working at night is difficult.",
+    "People buy because of the meaning behind a product."
+   ],
+   "answer": 3,
+   "explanation_th": "ประโยคสุดท้าย: people buy feelings, not just products",
+   "why_wrong": [
+    "เธอบอกว่าตลาดสอนมากกว่า ไม่ได้บอกว่าตำราไร้ประโยชน์ (เกินกว่าที่บทความพูด)",
+    "ไม่ใช่บทเรียนที่เธอพูด",
+    "ไม่ใช่ประเด็นของเรื่อง",
+    null
+   ]
+  }
+ ]
+}

@@ -1,0 +1,224 @@
+{
+ "id": "M06-R2",
+ "title": "The Shy Black Dog",
+ "topic": "ประสบการณ์ส่วนตัว",
+ "level": "B1",
+ "mock": "M06",
+ "lines": [
+  "Last summer, I volunteered at an animal shelter outside Bangkok. I",
+  "expected to spend my days playing with puppies. Instead, my first job",
+  "was cleaning cages, and **it** smelled terrible. By lunchtime, I wanted",
+  "to go home.",
+  "Everything changed on the third day. A shy black dog named Coal had",
+  "been at the shelter for two years. Nobody wanted to adopt **him** because",
+  "he was old and afraid of people. The staff asked me to sit near his cage",
+  "for an hour each day and read aloud. At first, Coal stayed in the corner.",
+  "After a week, he came closer. After two weeks, he let me touch **his** ear.",
+  "On my last day, a young couple visited. They saw Coal resting his head",
+  "on my knee and asked about him. **They** adopted him that afternoon. The",
+  "staff said **this** would not have happened if Coal had still been afraid.",
+  "I learned that the most important work is not always the most exciting."
+ ],
+ "questions": [
+  {
+   "id": "M06-R2-1",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'it' in line 3 refers to ___.",
+   "options": [
+    "the shelter",
+    "lunchtime",
+    "the puppies",
+    "cleaning cages"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "กว้างเกินไป",
+    "เวลาไม่มีกลิ่น",
+    "ลูกสุนัขเป็นสิ่งที่คาดหวัง",
+    null
+   ],
+   "explanation_th": "my first job was cleaning cages, and it smelled terrible"
+  },
+  {
+   "id": "M06-R2-2",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'him' in line 6 refers to ___.",
+   "options": [
+    "the writer",
+    "Coal",
+    "a staff member",
+    "a puppy"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ผู้เขียนไม่ได้ถูกรับเลี้ยง",
+    null,
+    "ไม่ใช่",
+    "Coal แก่แล้ว ไม่ใช่ลูกสุนัข"
+   ],
+   "explanation_th": "Nobody wanted to adopt him (Coal)"
+  },
+  {
+   "id": "M06-R2-3",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'his' in line 9 refers to ___.",
+   "options": [
+    "the writer's",
+    "the staff's",
+    "the couple's",
+    "Coal's"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ผู้เขียนเป็นคนแตะ",
+    "ไม่ใช่",
+    "คู่รักยังไม่มา",
+    null
+   ],
+   "explanation_th": "let me touch his ear = หูของ Coal"
+  },
+  {
+   "id": "M06-R2-4",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'They' in line 11 refers to ___.",
+   "options": [
+    "the young couple",
+    "the staff",
+    "the puppies",
+    "the writer and Coal"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "พนักงานไม่ได้รับเลี้ยง",
+    "ลูกสุนัขรับเลี้ยงไม่ได้",
+    "ไม่ใช่"
+   ],
+   "explanation_th": "a young couple visited … They adopted him"
+  },
+  {
+   "id": "M06-R2-5",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'this' in line 12 refers to ___.",
+   "options": [
+    "the last day",
+    "reading aloud",
+    "Coal being adopted",
+    "Coal being afraid"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ไม่ใช่เหตุการณ์ที่ขึ้นกับความกลัว",
+    "เป็นวิธี ไม่ใช่ผล",
+    null,
+    "ขัดกับความหมาย"
+   ],
+   "explanation_th": "สิ่งที่จะไม่เกิดถ้า Coal ยังกลัว = การถูกรับเลี้ยง"
+  },
+  {
+   "id": "M06-R2-6",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "The writer's first job at the shelter was ___.",
+   "options": [
+    "playing with puppies",
+    "reading to dogs",
+    "cleaning cages",
+    "feeding cats"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "เป็นสิ่งที่คาดหวัง (กับดัก)",
+    "มาทีหลัง",
+    null,
+    "ไม่มีในบทความ"
+   ],
+   "explanation_th": "my first job was cleaning cages"
+  },
+  {
+   "id": "M06-R2-7",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Nobody wanted to adopt Coal because ___.",
+   "options": [
+    "he was old and afraid of people",
+    "he was too big",
+    "he was sick",
+    "he barked all night"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ"
+   ],
+   "explanation_th": "บรรทัด 6–7"
+  },
+  {
+   "id": "M06-R2-8",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "What did the staff ask the writer to do?",
+   "options": [
+    "Take Coal for walks",
+    "Find a family for Coal",
+    "Train Coal to sit",
+    "Sit near Coal and read aloud every day"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ",
+    null
+   ],
+   "explanation_th": "บรรทัด 7–8"
+  },
+  {
+   "id": "M06-R2-9",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "If Coal had still been afraid on the last day, he probably ___.",
+   "options": [
+    "would have bitten the couple",
+    "would not have been adopted",
+    "would have run away",
+    "would have been adopted anyway"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ไม่มีหลักฐาน",
+    null,
+    "ไม่มีหลักฐาน",
+    "ขัดกับคำพูดของพนักงาน"
+   ],
+   "explanation_th": "staff said this (การรับเลี้ยง) would not have happened"
+  },
+  {
+   "id": "M06-R2-10",
+   "skill": "r.detail",
+   "difficulty": 3,
+   "stem": "What is the main lesson the writer learned?",
+   "options": [
+    "Important work is not always exciting.",
+    "Cleaning is the most important job.",
+    "Old dogs are better than puppies.",
+    "Volunteers should only play with animals."
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "เกินจริง",
+    "ไม่มีหลักฐาน",
+    "ขัดกับบทเรียน"
+   ],
+   "explanation_th": "ประโยคสุดท้าย (ถอดความ)"
+  }
+ ]
+}

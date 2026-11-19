@@ -1,0 +1,225 @@
+{
+ "id": "M08-R3",
+ "title": "Do Young Thais Read?",
+ "topic": "ข่าว/ผลสำรวจ",
+ "level": "B2",
+ "mock": "M08",
+ "lines": [
+  "How much do young Thais read? A national survey of 10,000 students aged",
+  "15 to 22 found that they read for an average of 80 minutes a day. That",
+  "sounds like a lot, but most of **it** is reading on social media, such as",
+  "short posts and comments. Only 25 percent said they had read a whole book",
+  "for pleasure in the past month.",
+  "The survey also asked students why they did not read more books. The",
+  "most common answer was lack of time, followed by the price of books.",
+  "**A third** said they found books \"boring\" compared with videos.",
+  "However, the news is not all bad. Sales of e-books and audiobooks among",
+  "young people have tripled since 2020, and **many** said they enjoy",
+  "listening to stories while traveling. Libraries are also changing. **Some**",
+  "now offer free reading apps and comfortable spaces for group study.",
+  "Experts say parents and teachers should focus on helping young people",
+  "find books **they** enjoy, rather than forcing them to read."
+ ],
+ "questions": [
+  {
+   "id": "M08-R3-1",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'it' in line 3 refers to ___.",
+   "options": [
+    "the 80 minutes of daily reading",
+    "the survey",
+    "social media",
+    "a whole book"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "การสำรวจไม่ได้ \"อ่านบนโซเชียล\"",
+    "เป็นที่ที่อ่าน ไม่ใช่ it",
+    "ขัดกับความหมาย"
+   ],
+   "explanation_th": "most of it (การอ่านวันละ 80 นาที) is reading on social media"
+  },
+  {
+   "id": "M08-R3-2",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'A third' in line 8 refers to ___.",
+   "options": [
+    "a third of the books",
+    "a third of the students surveyed",
+    "a third of the videos",
+    "a third of the price"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "หนังสือพูดไม่ได้",
+    null,
+    "วิดีโอพูดไม่ได้",
+    "ไม่ใช่"
+   ],
+   "explanation_th": "A third (of the students) said they found books boring"
+  },
+  {
+   "id": "M08-R3-3",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'many' in line 10 refers to ___.",
+   "options": [
+    "many young people",
+    "many e-books",
+    "many libraries",
+    "many stories"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "หนังสือพูดไม่ได้",
+    "ห้องสมุดพูดถึงทีหลัง",
+    "เรื่องพูดไม่ได้"
+   ],
+   "explanation_th": "many (young people) said they enjoy listening…"
+  },
+  {
+   "id": "M08-R3-4",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'Some' in line 11 refers to ___.",
+   "options": [
+    "some students",
+    "some apps",
+    "some libraries",
+    "some books"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "นักเรียนไม่ได้ให้บริการแอป",
+    "แอปให้ตัวเองไม่ได้",
+    null,
+    "ไม่ใช่"
+   ],
+   "explanation_th": "Libraries are also changing. Some (libraries) now offer…"
+  },
+  {
+   "id": "M08-R3-5",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'they' in line 14 refers to ___.",
+   "options": [
+    "parents and teachers",
+    "experts",
+    "books",
+    "young people"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "เป็นผู้ช่วย",
+    "เป็นผู้ให้ความเห็น",
+    "หนังสือไม่ได้ enjoy",
+    null
+   ],
+   "explanation_th": "helping young people find books they (young people) enjoy"
+  },
+  {
+   "id": "M08-R3-6",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Most of the reading young Thais do is ___.",
+   "options": [
+    "reading whole books",
+    "on social media",
+    "reading textbooks",
+    "reading newspapers"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "มีเพียง 25% อ่านหนังสือทั้งเล่ม",
+    null,
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ"
+   ],
+   "explanation_th": "most of it is reading on social media"
+  },
+  {
+   "id": "M08-R3-7",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "The most common reason for not reading more books was ___.",
+   "options": [
+    "the price of books",
+    "books are boring",
+    "no libraries nearby",
+    "lack of time"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "อันดับสอง",
+    "เป็นของหนึ่งในสาม",
+    "ไม่มีในบทความ",
+    null
+   ],
+   "explanation_th": "The most common answer was lack of time"
+  },
+  {
+   "id": "M08-R3-8",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Since 2020, sales of e-books and audiobooks among young people have ___.",
+   "options": [
+    "tripled",
+    "fallen",
+    "doubled",
+    "stayed the same"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ตรงข้าม",
+    "ตัวเลขผิด",
+    "ตรงข้าม"
+   ],
+   "explanation_th": "have tripled since 2020"
+  },
+  {
+   "id": "M08-R3-9",
+   "skill": "r.not-true",
+   "difficulty": 2,
+   "stem": "Which statement is NOT true?",
+   "options": [
+    "Some libraries offer free reading apps.",
+    "Many young people listen to stories while traveling.",
+    "Most students had read a whole book for pleasure in the past month.",
+    "Some students find books boring compared with videos."
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "จริง",
+    "จริง",
+    null,
+    "จริง"
+   ],
+   "explanation_th": "มีเพียง 25 เปอร์เซ็นต์"
+  },
+  {
+   "id": "M08-R3-10",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "The experts believe that ___.",
+   "options": [
+    "forcing students to read works best",
+    "videos should replace books",
+    "young people read more when they enjoy the books",
+    "libraries should close"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ตรงข้าม",
+    "ไม่มีหลักฐาน",
+    null,
+    "ไม่มีหลักฐาน"
+   ],
+   "explanation_th": "helping find books they enjoy rather than forcing"
+  }
+ ]
+}

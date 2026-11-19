@@ -1,0 +1,225 @@
+{
+ "id": "M06-R1",
+ "title": "The Waggle Dance",
+ "topic": "วิทยาศาสตร์",
+ "level": "B2",
+ "mock": "M06",
+ "lines": [
+  "Honeybees cannot talk, but they have a clever way of sharing information.",
+  "When a worker bee finds a good source of flowers, she flies back to the",
+  "hive and performs a special movement called the \"waggle dance.\" **It**",
+  "tells the other bees exactly where the flowers are.",
+  "During the dance, the bee walks in a straight line while shaking her body,",
+  "then circles back and repeats the movement. The direction of the straight",
+  "line shows the direction of the flowers compared with the sun, and the",
+  "length of time **she** shakes shows how far away they are. A longer waggle",
+  "means a longer flight. **Those** watching the dance can then fly directly",
+  "to the food, sometimes several kilometers away.",
+  "The scientist who first explained this behavior, Karl von Frisch, won a",
+  "Nobel Prize in 1973. At first, **many** did not believe that insects could",
+  "communicate so precisely. Today, researchers use **his** findings to help",
+  "protect bee populations, which are falling in many parts of the world."
+ ],
+ "questions": [
+  {
+   "id": "M06-R1-1",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'It' in line 3 refers to ___.",
+   "options": [
+    "the hive",
+    "the waggle dance",
+    "the source of flowers",
+    "the worker bee"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "รังบอกทางไม่ได้",
+    null,
+    "ดอกไม้คือสิ่งที่ถูกบอก",
+    "ผึ้งเป็น she ไม่ใช่ it"
+   ],
+   "explanation_th": "the waggle dance. It tells the other bees…"
+  },
+  {
+   "id": "M06-R1-2",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'she' in line 8 refers to ___.",
+   "options": [
+    "the queen bee",
+    "a scientist",
+    "the dancing bee",
+    "a flower"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ไม่ได้พูดถึงนางพญา",
+    "นักวิทยาศาสตร์มาทีหลัง",
+    null,
+    "ดอกไม้ไม่ได้สั่น"
+   ],
+   "explanation_th": "ผึ้งที่เต้น (the bee walks … her body)"
+  },
+  {
+   "id": "M06-R1-3",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'Those' in line 9 refers to ___.",
+   "options": [
+    "the bees watching the dance",
+    "the flowers",
+    "the scientists",
+    "the kilometers"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ดอกไม้บินไม่ได้",
+    "นักวิทยาศาสตร์ไม่ได้บินไปหาอาหาร",
+    "ไม่ใช่สิ่งมีชีวิต"
+   ],
+   "explanation_th": "Those watching the dance = ผึ้งที่ดูการเต้น"
+  },
+  {
+   "id": "M06-R1-4",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'many' in line 12 refers to ___.",
+   "options": [
+    "many bees",
+    "many people",
+    "many flowers",
+    "many prizes"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ผึ้งไม่ได้ \"เชื่อ\"",
+    null,
+    "ดอกไม้ไม่ได้เชื่อ",
+    "รางวัลไม่ได้เชื่อ"
+   ],
+   "explanation_th": "many (people) did not believe that insects could…"
+  },
+  {
+   "id": "M06-R1-5",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'his' in line 13 refers to ___.",
+   "options": [
+    "Karl von Frisch's",
+    "a bee's",
+    "a farmer's",
+    "a reader's"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ผึ้งไม่มี findings",
+    "ไม่มีชาวนา",
+    "ไม่ใช่ผู้อ่าน"
+   ],
+   "explanation_th": "his findings = ผลงานของ von Frisch"
+  },
+  {
+   "id": "M06-R1-6",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "The direction of the straight line shows ___.",
+   "options": [
+    "how far away the flowers are",
+    "how many flowers there are",
+    "the direction of the flowers compared with the sun",
+    "where the hive is"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "นั่นคือความยาวของการสั่น (กับดักสลับ)",
+    "ไม่มีในบทความ",
+    null,
+    "ผึ้งรู้อยู่แล้ว"
+   ],
+   "explanation_th": "บรรทัด 6–7"
+  },
+  {
+   "id": "M06-R1-7",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "If a bee dances with a very short waggle, the flowers are probably ___.",
+   "options": [
+    "very far away",
+    "in the direction of the sun",
+    "not good",
+    "close to the hive"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ตรงข้าม",
+    "ทิศทางดูจากเส้นตรง ไม่ใช่ความยาว",
+    "ไม่มีหลักฐาน",
+    null
+   ],
+   "explanation_th": "A longer waggle means a longer flight → สั้น = ใกล้"
+  },
+  {
+   "id": "M06-R1-8",
+   "skill": "r.vocab",
+   "difficulty": 2,
+   "stem": "In line 13, 'precisely' is closest in meaning to ___.",
+   "options": [
+    "slowly",
+    "exactly",
+    "loudly",
+    "rarely"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ไม่ใช่ความหมาย",
+    null,
+    "ไม่ใช่ความหมาย",
+    "ไม่ใช่ความหมาย"
+   ],
+   "explanation_th": "communicate so precisely = สื่อสารได้แม่นยำ"
+  },
+  {
+   "id": "M06-R1-9",
+   "skill": "r.not-true",
+   "difficulty": 2,
+   "stem": "Which statement is NOT true?",
+   "options": [
+    "Von Frisch won a Nobel Prize.",
+    "Bee populations are falling in many places.",
+    "The dance shows both direction and distance.",
+    "Bees can only find flowers very close to the hive."
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "จริง บรรทัด 11–12",
+    "จริง บรรทัด 14",
+    "จริง บรรทัด 6–8",
+    null
+   ],
+   "explanation_th": "บทความบอกว่าบางครั้งไกลหลายกิโลเมตร"
+  },
+  {
+   "id": "M06-R1-10",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Today, researchers use von Frisch's findings to ___.",
+   "options": [
+    "help protect bees",
+    "teach bees to dance",
+    "win more prizes",
+    "make honey faster"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ"
+   ],
+   "explanation_th": "to help protect bee populations (ถอดความ)"
+  }
+ ]
+}

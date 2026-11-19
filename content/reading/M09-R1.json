@@ -1,0 +1,225 @@
+{
+ "id": "M09-R1",
+ "title": "Do Plants Talk?",
+ "topic": "วิทยาศาสตร์",
+ "level": "B2",
+ "mock": "M09",
+ "lines": [
+  "Plants cannot move or make sounds, but scientists have discovered that",
+  "**they** can still send messages. When a caterpillar starts eating the",
+  "leaves of a tomato plant, the plant releases special chemicals into the",
+  "air. Nearby tomato plants detect **these** chemicals and begin producing",
+  "substances that make their leaves taste bitter. As a result, insects are",
+  "less likely to eat **them**.",
+  "Plants also communicate underground. Their roots are connected by a huge",
+  "network of fungi, sometimes called the \"wood wide web.\" Through **it**,",
+  "older trees can send water and sugar to young trees growing in the shade.",
+  "One researcher found that a single old tree was linked to more than forty",
+  "others in its forest. Cutting down **such** trees, she warns, can harm the",
+  "whole forest. Not everyone agrees that plants \"talk\" in the way animals do,",
+  "but **most** scientists accept that they share information in surprising",
+  "ways."
+ ],
+ "questions": [
+  {
+   "id": "M09-R1-1",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'they' in line 2 refers to ___.",
+   "options": [
+    "scientists",
+    "sounds",
+    "caterpillars",
+    "plants"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "นักวิทยาศาสตร์เป็นผู้ค้นพบ",
+    "ไม่ใช่",
+    "ยังไม่ปรากฏ",
+    null
+   ],
+   "explanation_th": "Plants cannot move … they (plants) can still send messages"
+  },
+  {
+   "id": "M09-R1-2",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'these' in line 4 refers to ___.",
+   "options": [
+    "the tomato plants",
+    "the special chemicals released by the plant",
+    "the leaves",
+    "the caterpillars"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ไม่ใช่สารเคมี",
+    null,
+    "ไม่ใช่",
+    "ไม่ใช่"
+   ],
+   "explanation_th": "detect these chemicals = สารเคมีที่เพิ่งพูด"
+  },
+  {
+   "id": "M09-R1-3",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'them' in line 6 refers to ___.",
+   "options": [
+    "the bitter leaves of nearby plants",
+    "the insects",
+    "the chemicals",
+    "the tomatoes"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "แมลงคือผู้กิน",
+    "ไม่ใช่สิ่งที่กิน",
+    "บทความพูดถึงใบ ไม่ใช่ผล"
+   ],
+   "explanation_th": "insects are less likely to eat them (ใบที่ขม)"
+  },
+  {
+   "id": "M09-R1-4",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'it' in line 8 refers to ___.",
+   "options": [
+    "the roots",
+    "water",
+    "the network of fungi",
+    "the forest"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "roots เป็นพหูพจน์",
+    "น้ำคือสิ่งที่ส่ง",
+    null,
+    "กว้างเกินไป"
+   ],
+   "explanation_th": "Through it (the network / wood wide web)"
+  },
+  {
+   "id": "M09-R1-5",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'such' in line 11 refers to ___.",
+   "options": [
+    "young trees in the shade",
+    "old trees linked to many others",
+    "all trees",
+    "fungi"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ไม่ใช่สิ่งที่ถูกพูดถึง",
+    null,
+    "กว้างเกินไป",
+    "ไม่ใช่ต้นไม้"
+   ],
+   "explanation_th": "such trees = ต้นไม้เก่าที่เชื่อมต้นอื่นจำนวนมาก (ที่เพิ่งพูด)"
+  },
+  {
+   "id": "M09-R1-6",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'most' in line 13 refers to ___.",
+   "options": [
+    "most plants",
+    "most animals",
+    "most forests",
+    "most scientists"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ไม่ใช่",
+    "ไม่ใช่",
+    "ไม่ใช่",
+    null
+   ],
+   "explanation_th": "most scientists accept…"
+  },
+  {
+   "id": "M09-R1-7",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "A tomato plant releases chemicals when ___.",
+   "options": [
+    "it needs water",
+    "the sun is strong",
+    "it is cut down",
+    "a caterpillar eats its leaves"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ",
+    null
+   ],
+   "explanation_th": "บรรทัด 2–3"
+  },
+  {
+   "id": "M09-R1-8",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Nearby plants respond by ___.",
+   "options": [
+    "moving away",
+    "making their leaves taste bitter",
+    "growing faster",
+    "sending sugar"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "พืชเคลื่อนที่ไม่ได้",
+    null,
+    "ไม่มีในบทความ",
+    "เป็นเรื่องใต้ดินของต้นไม้ใหญ่"
+   ],
+   "explanation_th": "producing substances that make their leaves taste bitter"
+  },
+  {
+   "id": "M09-R1-9",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "Through the underground network, older trees can ___.",
+   "options": [
+    "make sounds",
+    "kill insects",
+    "send water and sugar to young trees",
+    "move their roots"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ",
+    null,
+    "ไม่มีในบทความ"
+   ],
+   "explanation_th": "บรรทัด 9"
+  },
+  {
+   "id": "M09-R1-10",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "Why can cutting down one old tree harm the whole forest?",
+   "options": [
+    "Because it supports many other trees.",
+    "Because it makes the most noise.",
+    "Because insects live only in old trees.",
+    "Because young trees need its shade only."
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ไม่มีหลักฐาน",
+    "ไม่มีหลักฐาน",
+    "แคบเกินไปและไม่ใช่ประเด็น"
+   ],
+   "explanation_th": "old tree linked to more than forty others → ช่วยเลี้ยงต้นอื่น"
+  }
+ ]
+}

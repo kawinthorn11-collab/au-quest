@@ -1,0 +1,210 @@
+{
+ "id": "M08-C1",
+ "title": "The Forest That Came Back",
+ "genre": "ข่าว",
+ "level": "B2",
+ "mock": "M08",
+ "text": "A small village in Nan province has won a national award for protecting (1) community forest. Twenty years ago, much of the forest (2) cut down for farmland. The villagers, (3) noticed that their streams were drying up, decided to act. They agreed that no one (4) cut trees without permission, and they planted more than 50,000 seedlings.\nToday the forest is thick and green again, and the streams (5) all year round. \"Our grandparents taught us that the forest is our water bank,\" said the village leader, (6) has guided the project from the start. The village also earns money from eco-tourism. Visitors pay a small fee (7) walk the forest trails with local guides. Part of (8) money is used to train young people as forest rangers.\nExperts say the village's success shows that local communities can protect nature better than outsiders (9) they are given the right to manage their own land. Several other villages have already visited Nan (10) learn from its example.",
+ "items": [
+  {
+   "id": "M08-C1-1",
+   "skill": "g.pronoun",
+   "difficulty": 1,
+   "stem": "(1) A small village in Nan province has won a national award for protecting ___ community forest.",
+   "options": [
+    "it",
+    "it's",
+    "his",
+    "its"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "it ไม่ใช่คำแสดงเจ้าของ",
+    "it's = it is",
+    "his ใช้กับผู้ชาย",
+    null
+   ],
+   "explanation_th": "ป่าของหมู่บ้าน (village = it) → its"
+  },
+  {
+   "id": "M08-C1-2",
+   "skill": "g.passive",
+   "difficulty": 2,
+   "stem": "(2) Twenty years ago, much of the forest ___ cut down for farmland.",
+   "options": [
+    "has been",
+    "is",
+    "will be",
+    "had been"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "has been ไม่เข้ากับ Twenty years ago",
+    "is เป็นปัจจุบัน",
+    "will be เป็นอนาคต",
+    null
+   ],
+   "explanation_th": "ป่าถูกตัดไปแล้ว ณ เวลานั้นในอดีต → had been cut"
+  },
+  {
+   "id": "M08-C1-3",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(3) The villagers, ___ noticed that their streams were drying up, decided to act.",
+   "options": [
+    "which",
+    "who",
+    "whose",
+    "that"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "which ใช้กับสิ่ง",
+    null,
+    "whose ต้องตามด้วยคำนาม",
+    "หลัง comma ใช้ that ไม่ได้"
+   ],
+   "explanation_th": "ขยายคน หลัง comma → who"
+  },
+  {
+   "id": "M08-C1-4",
+   "skill": "g.tense-past",
+   "difficulty": 2,
+   "stem": "(4) They agreed that no one ___ cut trees without permission, and they planted more than 50,000 seedlings.",
+   "options": [
+    "is",
+    "does",
+    "could",
+    "has"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "is cut trees ผิดรูป",
+    "does cut ไม่ถอย tense ตาม agreed และความหมายไม่ใช่การอนุญาต",
+    null,
+    "has cut ความหมายผิด"
+   ],
+   "explanation_th": "เล่าข้อตกลงในอดีต (agreed that) → could"
+  },
+  {
+   "id": "M08-C1-5",
+   "skill": "g.agreement",
+   "difficulty": 1,
+   "stem": "(5) Today the forest is thick and green again, and the streams ___ all year round.",
+   "options": [
+    "flow",
+    "flows",
+    "flowed",
+    "flowing"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "flows ใช้กับเอกพจน์",
+    "flowed เป็นอดีต ขัดกับ Today",
+    "flowing ไม่ใช่กริยาแท้"
+   ],
+   "explanation_th": "the streams (พหูพจน์) ปัจจุบัน → flow"
+  },
+  {
+   "id": "M08-C1-6",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(6) said the village leader, ___ has guided the project from the start.",
+   "options": [
+    "which",
+    "who",
+    "whom",
+    "that"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "which ใช้กับสิ่ง",
+    null,
+    "whom ใช้ในตำแหน่งกรรม",
+    "หลัง comma ใช้ that ไม่ได้"
+   ],
+   "explanation_th": "ขยายคน หลัง comma + ประธาน → who"
+  },
+  {
+   "id": "M08-C1-7",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(7) Visitors pay a small fee ___ walk the forest trails with local guides.",
+   "options": [
+    "to",
+    "for",
+    "so",
+    "that"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "for walk ผิด",
+    "so walk ผิด",
+    "that walk ผิด"
+   ],
+   "explanation_th": "pay a fee to + V = จ่ายเพื่อจะ…"
+  },
+  {
+   "id": "M08-C1-8",
+   "skill": "g.article",
+   "difficulty": 2,
+   "stem": "(8) Part of ___ money is used to train young people as forest rangers.",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "any"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "money นับไม่ได้ ใช้ a ไม่ได้",
+    "an ผิด",
+    null,
+    "any ไม่ใช้ในประโยคบอกเล่าแบบนี้"
+   ],
+   "explanation_th": "เงินจำนวนที่เพิ่งพูด (ค่าธรรมเนียม) → the money"
+  },
+  {
+   "id": "M08-C1-9",
+   "skill": "g.conditional",
+   "difficulty": 2,
+   "stem": "(9) Experts say the village's success shows that local communities can protect nature better than outsiders ___ they are given the right to manage their own land.",
+   "options": [
+    "unless",
+    "although",
+    "whether",
+    "if"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "unless ความหมายกลับ",
+    "although ไม่ใช่เงื่อนไข",
+    "whether ต้องมี or",
+    null
+   ],
+   "explanation_th": "ทำได้ดีกว่า ถ้าได้สิทธิ์จัดการ → if"
+  },
+  {
+   "id": "M08-C1-10",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(10) Several other villages have already visited Nan ___ learn from its example.",
+   "options": [
+    "for",
+    "to",
+    "so",
+    "that"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "for learn ผิด",
+    null,
+    "so learn ผิด",
+    "that learn ผิด"
+   ],
+   "explanation_th": "visited Nan to learn = มาเพื่อเรียนรู้ (จุดประสงค์)"
+  }
+ ]
+}

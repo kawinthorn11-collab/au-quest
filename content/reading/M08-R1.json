@@ -1,0 +1,225 @@
+{
+ "id": "M08-R1",
+ "title": "Why Do We Dream?",
+ "topic": "วิทยาศาสตร์",
+ "level": "B2",
+ "mock": "M08",
+ "lines": [
+  "Everyone dreams, even people who say they never do. Scientists believe",
+  "we have between four and six dreams every night, but we forget most of",
+  "**them** within minutes of waking up. Dreams happen mainly during a stage",
+  "of sleep called REM, when the eyes move quickly behind closed lids.",
+  "Why we dream is still a mystery. One popular theory is that dreams help",
+  "the brain sort and store memories from the day. In experiments, people",
+  "who slept after learning a new task performed better than **those** who",
+  "stayed awake. Another theory suggests that dreams let us practice how to",
+  "react to danger in a safe place. **This** might explain why so many dreams",
+  "involve being chased or falling.",
+  "Not all scientists agree. **Some** argue that dreams have no purpose at all",
+  "and are simply random activity in a sleeping brain. Whatever the answer,",
+  "most experts agree on one thing: getting enough REM sleep is important.",
+  "People who lack **it** often have trouble concentrating and remembering."
+ ],
+ "questions": [
+  {
+   "id": "M08-R1-1",
+   "skill": "r.reference",
+   "difficulty": 1,
+   "stem": "'them' in line 3 refers to ___.",
+   "options": [
+    "scientists",
+    "nights",
+    "dreams",
+    "people"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "นักวิทยาศาสตร์ไม่ได้ถูกลืม",
+    "คืนไม่ใช่สิ่งที่ลืม",
+    null,
+    "ไม่ใช่"
+   ],
+   "explanation_th": "we forget most of them (dreams)"
+  },
+  {
+   "id": "M08-R1-2",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'those' in line 7 refers to ___.",
+   "options": [
+    "people who slept",
+    "new tasks",
+    "people who stayed awake",
+    "experiments"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "เป็นกลุ่มที่ทำได้ดีกว่า",
+    "งานไม่ใช่คน",
+    null,
+    "ไม่ใช่"
+   ],
+   "explanation_th": "performed better than those who stayed awake"
+  },
+  {
+   "id": "M08-R1-3",
+   "skill": "r.reference",
+   "difficulty": 3,
+   "stem": "'This' in line 9 refers to ___.",
+   "options": [
+    "the theory that dreams let us practice reacting to danger",
+    "the theory that dreams store memories",
+    "being chased",
+    "a safe place"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ทฤษฎีก่อนหน้า ไม่ใช่สิ่งที่ this ชี้",
+    "เป็นสิ่งที่ถูกอธิบาย",
+    "เป็นแค่ส่วนหนึ่งของวลี"
+   ],
+   "explanation_th": "ทฤษฎีที่เพิ่งพูด (ฝึกรับมืออันตราย) อธิบายว่าทำไมฝันถูกไล่ล่า"
+  },
+  {
+   "id": "M08-R1-4",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'Some' in line 11 refers to ___.",
+   "options": [
+    "some dreams",
+    "some people who sleep",
+    "some theories",
+    "some scientists"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ความฝันโต้แย้งไม่ได้",
+    "ไม่ใช่",
+    "ทฤษฎีโต้แย้งไม่ได้",
+    null
+   ],
+   "explanation_th": "Not all scientists agree. Some (scientists) argue…"
+  },
+  {
+   "id": "M08-R1-5",
+   "skill": "r.reference",
+   "difficulty": 2,
+   "stem": "'it' in line 14 refers to ___.",
+   "options": [
+    "the answer",
+    "REM sleep",
+    "the brain",
+    "a dream"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ไม่ใช่สิ่งที่ \"ขาด\"",
+    null,
+    "ไม่ใช่",
+    "ไม่ใช่"
+   ],
+   "explanation_th": "People who lack it (enough REM sleep)"
+  },
+  {
+   "id": "M08-R1-6",
+   "skill": "r.detail",
+   "difficulty": 1,
+   "stem": "According to scientists, how many dreams do we have each night?",
+   "options": [
+    "Between four and six",
+    "Only one",
+    "None, for some people",
+    "More than ten"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ไม่ใช่",
+    "บทความบอกว่าทุกคนฝัน",
+    "ไม่มีในบทความ"
+   ],
+   "explanation_th": "between four and six"
+  },
+  {
+   "id": "M08-R1-7",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "During REM sleep, ___.",
+   "options": [
+    "the body moves quickly",
+    "people wake up often",
+    "the eyes move quickly behind closed lids",
+    "people stop dreaming"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ",
+    null,
+    "ตรงข้าม"
+   ],
+   "explanation_th": "บรรทัด 4"
+  },
+  {
+   "id": "M08-R1-8",
+   "skill": "r.detail",
+   "difficulty": 2,
+   "stem": "In the experiments, people who slept after learning ___.",
+   "options": [
+    "forgot the task",
+    "did better than those who stayed awake",
+    "had no dreams",
+    "needed more time"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "ตรงข้าม",
+    null,
+    "ไม่มีในบทความ",
+    "ไม่มีในบทความ"
+   ],
+   "explanation_th": "performed better than those who stayed awake"
+  },
+  {
+   "id": "M08-R1-9",
+   "skill": "r.not-true",
+   "difficulty": 2,
+   "stem": "Which statement is NOT true?",
+   "options": [
+    "Many dreams involve being chased or falling.",
+    "We forget most dreams quickly.",
+    "REM sleep is important.",
+    "All scientists agree on why we dream."
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "จริง",
+    "จริง",
+    "จริง",
+    null
+   ],
+   "explanation_th": "Not all scientists agree"
+  },
+  {
+   "id": "M08-R1-10",
+   "skill": "r.inference",
+   "difficulty": 3,
+   "stem": "A student who sleeps very little before an exam may ___.",
+   "options": [
+    "have more dreams than usual",
+    "remember everything better",
+    "learn new tasks faster",
+    "find it harder to concentrate and remember"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "ไม่มีหลักฐาน",
+    "ตรงข้าม",
+    "ตรงข้าม",
+    null
+   ],
+   "explanation_th": "lack REM sleep → trouble concentrating and remembering"
+  }
+ ]
+}

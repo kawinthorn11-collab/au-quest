@@ -1,0 +1,210 @@
+{
+ "id": "M09-C3",
+ "title": "The Blue Umbrella",
+ "genre": "วรรณกรรม",
+ "level": "B2",
+ "mock": "M09",
+ "text": "It had been raining all afternoon when Mrs. Chan noticed a boy (1) at the bus stop without an umbrella. He was about ten years old, and his school uniform was completely wet. Mrs. Chan hesitated. She was old, and her own umbrella was small. But she walked over and held (2) over his head. \"Thank you,\" he said quietly. When the bus finally came, the boy got on, and Mrs. Chan realized she had forgotten (3) him where he lived.\nThe next day, at the same time, it (4) to rain again. Mrs. Chan went to the bus stop. The boy was not there. Instead, a woman was waiting, (5) a large blue umbrella. \"Are you Mrs. Chan?\" she asked. \"My son told me (6) you did. He wanted me to give you this.\" Inside the handle was a small piece of paper. On it, in a child's handwriting, were the words: \"So you will never get wet (7).\"\nMrs. Chan never saw the boy again, but she often wondered (8) he remembered her. Years later, when she (9) too old to go out in the rain, she gave the umbrella to her granddaughter. \"Kindness,\" she said, \"always finds its way (10).\"",
+ "items": [
+  {
+   "id": "M09-C3-1",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(1) Chan noticed a boy ___ at the bus stop without an umbrella.",
+   "options": [
+    "standing",
+    "stood",
+    "stands",
+    "to stand"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "stood ผิดรูปหลัง notice + กรรม",
+    "stands ผิด",
+    "to stand ผิด"
+   ],
+   "explanation_th": "notice + sb + V-ing = สังเกตเห็นใครกำลัง… → \"standing\""
+  },
+  {
+   "id": "M09-C3-2",
+   "skill": "g.pronoun",
+   "difficulty": 1,
+   "stem": "(2) But she walked over and held ___ over his head.",
+   "options": [
+    "them",
+    "its",
+    "it",
+    "her"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "them เป็นพหูพจน์",
+    "its ต้องมีคำนาม",
+    null,
+    "her = ตัวเธอ ความหมายผิด"
+   ],
+   "explanation_th": "ร่มของเธอ (umbrella = it)"
+  },
+  {
+   "id": "M09-C3-3",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(3) Chan realized she had forgotten ___ him where he lived.",
+   "options": [
+    "asks",
+    "ask",
+    "to ask",
+    "asked"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "asks เป็นกริยาแท้ ตามหลัง forgotten ไม่ได้",
+    "ขาด to",
+    null,
+    "asked ผิด"
+   ],
+   "explanation_th": "forget to V = ลืมที่จะทำ (เลยไม่ได้ถาม)"
+  },
+  {
+   "id": "M09-C3-4",
+   "skill": "g.tense-past",
+   "difficulty": 1,
+   "stem": "(4) The next day, at the same time, it ___ to rain again.",
+   "options": [
+    "began",
+    "begins",
+    "has begun",
+    "beginning"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "ปัจจุบัน ผิด",
+    "has begun ไม่ใช้ในเรื่องเล่า",
+    "ไม่ใช่กริยาแท้"
+   ],
+   "explanation_th": "เรื่องเล่าอดีต → began"
+  },
+  {
+   "id": "M09-C3-5",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(5) Instead, a woman was waiting, ___ a large blue umbrella.",
+   "options": [
+    "held",
+    "holds",
+    "to hold",
+    "holding"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "held ต้องมีคำเชื่อม",
+    "holds ผิด",
+    "to hold ผิดความหมาย",
+    null
+   ],
+   "explanation_th": "วลีขยายภาพ (กำลังรออยู่พร้อมถือร่ม) → holding"
+  },
+  {
+   "id": "M09-C3-6",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(6) \"My son told me ___ you did.",
+   "options": [
+    "which",
+    "what",
+    "that",
+    "how"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "which ต้องมีคำนาม",
+    null,
+    "that you did ขาดกรรม (did อะไร)",
+    "how you did = ทำอย่างไร ความหมายไม่ตรง"
+   ],
+   "explanation_th": "told me what you did = เล่าสิ่งที่คุณทำ"
+  },
+  {
+   "id": "M09-C3-7",
+   "skill": "g.fixed",
+   "difficulty": 1,
+   "stem": "(7) On it, in a child's handwriting, were the words: \"So you will never get wet ___.\"",
+   "options": [
+    "again",
+    "also",
+    "too",
+    "either"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "never get wet also ผิด",
+    "too ไม่ใช้กับประโยคปฏิเสธแบบนี้",
+    "either ไม่ใช้กับ never แบบนี้"
+   ],
+   "explanation_th": "never … again = จะไม่…อีกเลย"
+  },
+  {
+   "id": "M09-C3-8",
+   "skill": "g.conj-or",
+   "difficulty": 2,
+   "stem": "(8) Chan never saw the boy again, but she often wondered ___ he remembered her.",
+   "options": [
+    "that",
+    "what",
+    "whether",
+    "which"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "wondered that ไม่ให้ความหมายสงสัย",
+    "what ต้องมีช่องว่างในประโยคตาม",
+    null,
+    "which ต้องมีคำนาม"
+   ],
+   "explanation_th": "wondered whether = สงสัยว่า…หรือไม่"
+  },
+  {
+   "id": "M09-C3-9",
+   "skill": "g.tense-past",
+   "difficulty": 2,
+   "stem": "(9) Years later, when she ___ too old to go out in the rain, she gave the umbrella to her granddaughter.",
+   "options": [
+    "has become",
+    "became",
+    "becomes",
+    "would become"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "has become ไม่ใช้ในเรื่องเล่า",
+    null,
+    "becomes เป็นปัจจุบัน",
+    "would become ผิดความหมาย"
+   ],
+   "explanation_th": "Years later, when she became … (เรื่องเล่าอดีต)"
+  },
+  {
+   "id": "M09-C3-10",
+   "skill": "g.fixed",
+   "difficulty": 2,
+   "stem": "(10) she said, \"always finds its way ___.\"",
+   "options": [
+    "over",
+    "away",
+    "off",
+    "back"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "find its way over ไม่มีความหมายในบริบทนี้ ของที่หายแล้ว 'กลับมา' ต้องใช้ back",
+    "away ผิดความหมาย",
+    "off ผิด",
+    null
+   ],
+   "explanation_th": "finds its way back = หาทางกลับมาเสมอ"
+  }
+ ]
+}

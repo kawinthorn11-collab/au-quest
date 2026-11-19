@@ -1,0 +1,210 @@
+{
+ "id": "M02-C3",
+ "title": "The Last Train",
+ "genre": "วรรณกรรม",
+ "level": "B2",
+ "mock": "M02",
+ "text": "The station was almost empty when Mai arrived. A single lamp lit the platform, and the clock showed eleven minutes past midnight. The last train (1) at midnight. She had missed it. Mai sat down on a cold bench and closed her eyes. She had spent the whole day at the hospital with her grandfather, (2) had not recognized her. She wished she (3) visited him more often when he was well.\nA few minutes later, she heard footsteps. An old station guard was walking toward her, (4) a cup of hot tea. \"You look like you need this more than (5),\" he said. They talked for a while, and she told him about her grandfather. The guard listened without (6) her. When she finished, he said, \"My father forgot my name too, at the end. But he never forgot (7) to smile at me.\" Mai felt her eyes fill with tears, but they were not (8) tears of sadness.\nAt five in the morning, the first train arrived. As it pulled away, Mai realized she had never asked his name. She decided to go back the next week to thank him (9). But when she returned, the young man at the ticket office said that no guard of that age (10) at the station for years.",
+ "items": [
+  {
+   "id": "M02-C3-1",
+   "skill": "g.tense-past",
+   "difficulty": 2,
+   "stem": "(1) The last train ___ at midnight.",
+   "options": [
+    "leave",
+    "has left",
+    "had left",
+    "leaving"
+   ],
+   "answer": 2,
+   "explanation_th": "รถไฟออกไปก่อนที่เธอมาถึง (เรื่องเล่าอดีต) → had left",
+   "why_wrong": [
+    "the train เป็นเอกพจน์ และต้องเป็นอดีต",
+    "has left ไม่ใช้ในเรื่องเล่าอดีต",
+    null,
+    "leaving ไม่ใช่กริยาแท้"
+   ]
+  },
+  {
+   "id": "M02-C3-2",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(2) She had spent the whole day at the hospital with her grandfather, ___ had not recognized her.",
+   "options": [
+    "which",
+    "who",
+    "whom",
+    "whose"
+   ],
+   "answer": 1,
+   "explanation_th": "ขยายคน (her grandfather) และเป็นประธานของ had not recognized → who",
+   "why_wrong": [
+    "which ใช้กับสิ่งของ",
+    null,
+    "whom ใช้ในตำแหน่งกรรม",
+    "whose ต้องตามด้วยคำนาม"
+   ]
+  },
+  {
+   "id": "M02-C3-3",
+   "skill": "g.modal-perfect",
+   "difficulty": 3,
+   "stem": "(3) She wished she ___ visited him more often when he was well.",
+   "options": [
+    "has",
+    "would",
+    "should",
+    "had"
+   ],
+   "answer": 3,
+   "explanation_th": "wish + had + V3 = เสียดายเรื่องในอดีต",
+   "why_wrong": [
+    "has ไม่ใช้หลัง wish เรื่องอดีต",
+    "would visited ผิดรูป",
+    "should visited ผิดรูป",
+    null
+   ]
+  },
+  {
+   "id": "M02-C3-4",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(4) An old station guard was walking toward her, ___ a cup of hot tea.",
+   "options": [
+    "carrying",
+    "carried",
+    "carries",
+    "to carry"
+   ],
+   "answer": 0,
+   "explanation_th": "วลีขยายภาพที่เห็น (เดินมาพร้อมถือชา) → carrying",
+   "why_wrong": [
+    null,
+    "carried = ถูกถือ ความหมายผิด",
+    "carries เป็นกริยาแท้ ใช้ตรงนี้ไม่ได้",
+    "to carry = เพื่อจะถือ ความหมายผิด"
+   ]
+  },
+  {
+   "id": "M02-C3-5",
+   "skill": "g.sentence",
+   "difficulty": 3,
+   "stem": "(5) \"You look like you need this more than ___,\"",
+   "options": [
+    "I am",
+    "I do",
+    "mine do",
+    "me does"
+   ],
+   "answer": 1,
+   "explanation_th": "more than I do = มากกว่าที่ผม (ต้องการ) — do แทน need ปัจจุบัน",
+   "why_wrong": [
+    "I am แทน need ไม่ได้",
+    null,
+    "mine เป็นคำแสดงความเป็นเจ้าของ ใช้เป็นประธานหน้า do แบบนี้ไม่ได้",
+    "me does ผิดไวยากรณ์"
+   ]
+  },
+  {
+   "id": "M02-C3-6",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(6) The guard listened without ___ her.",
+   "options": [
+    "interrupt",
+    "interrupted",
+    "to interrupt",
+    "interrupting"
+   ],
+   "answer": 3,
+   "explanation_th": "หลังบุพบท without ใช้ V-ing → without interrupting",
+   "why_wrong": [
+    "หลังบุพบทใช้ V1 ไม่ได้",
+    "interrupted เป็น V2/V3",
+    "หลัง without ไม่ใช้ to V",
+    null
+   ]
+  },
+  {
+   "id": "M02-C3-7",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(7) But he never forgot ___ to smile at me.\"",
+   "options": [
+    "what",
+    "how",
+    "which",
+    "that"
+   ],
+   "answer": 1,
+   "explanation_th": "forget how to V = ลืมวิธี…",
+   "why_wrong": [
+    "what to smile ไม่มีความหมาย",
+    null,
+    "which to smile ไม่มีความหมาย",
+    "that to smile ผิดโครงสร้าง"
+   ]
+  },
+  {
+   "id": "M02-C3-8",
+   "skill": "g.wordform",
+   "difficulty": 2,
+   "stem": "(8) Mai felt her eyes fill with tears, but they were not ___ tears of sadness.",
+   "options": [
+    "alone",
+    "single",
+    "only",
+    "lonely"
+   ],
+   "answer": 2,
+   "explanation_th": "not only = ไม่ใช่แค่ (น้ำตาแห่งความเศร้าอย่างเดียว)",
+   "why_wrong": [
+    "not alone tears ผิดตำแหน่ง",
+    "not single tears ความหมายผิด",
+    null,
+    "lonely = เหงา ความหมายผิด"
+   ]
+  },
+  {
+   "id": "M02-C3-9",
+   "skill": "g.wordform",
+   "difficulty": 2,
+   "stem": "(9) She decided to go back the next week to thank him ___.",
+   "options": [
+    "properly",
+    "proper",
+    "propriety",
+    "more proper"
+   ],
+   "answer": 0,
+   "explanation_th": "ขยายกริยา thank (ขอบคุณอย่างเหมาะสม) → properly",
+   "why_wrong": [
+    null,
+    "proper เป็น adjective",
+    "propriety เป็นคำนาม",
+    "more proper เป็น adjective"
+   ]
+  },
+  {
+   "id": "M02-C3-10",
+   "skill": "g.tense-past",
+   "difficulty": 3,
+   "stem": "(10) But when she returned, the young man at the ticket office said that no guard of that age ___ at the station for years.",
+   "options": [
+    "has worked",
+    "works",
+    "is working",
+    "had worked"
+   ],
+   "answer": 3,
+   "explanation_th": "เล่าคำพูด (said that) + ต่อเนื่องมาหลายปีก่อนตอนนั้น → had worked",
+   "why_wrong": [
+    "has worked ต้องถอยเป็น had ในการเล่าอดีต",
+    "works เป็นปัจจุบัน ไม่เข้ากับ for years",
+    "is working เป็นปัจจุบัน",
+    null
+   ]
+  }
+ ]
+}

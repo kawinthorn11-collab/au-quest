@@ -1,0 +1,210 @@
+{
+ "id": "M06-C1",
+ "title": "The Language Café",
+ "genre": "ข่าว",
+ "level": "B1",
+ "mock": "M06",
+ "text": "Students at a university in Chiang Mai can now practice foreign languages for free at a new \"language café\" on campus. The café, (1) opened last month, is run by international students (2) volunteer two hours a week. Visitors choose a table for the language they want to practice and simply start (3). No textbooks are allowed.\n\"The idea is to make speaking feel natural, not like a test,\" said the organizer, (4) came to Thailand from Germany three years ago. So far, the English and Chinese tables have been the most popular, (5) the Japanese table is often empty. The organizers hope to attract more Japanese speakers (6) the end of the term.\nStudents say the café has helped them overcome their fear of making mistakes. \"Before, I was too shy (7) a word,\" said one second-year student. \"Now I speak English (8) day.\" The university will open two more cafés next year if the project (9) successful. It has also asked local businesses (10) coffee and snacks.",
+ "items": [
+  {
+   "id": "M06-C1-1",
+   "skill": "g.relative",
+   "difficulty": 2,
+   "stem": "(1) The café, ___ opened last month, is run by international students … volunteer two hours a week.",
+   "options": [
+    "which",
+    "that",
+    "who",
+    "where"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "หลัง comma ใช้ that ไม่ได้",
+    "who ใช้กับคน",
+    "where ใช้เมื่อข้างหลังครบประโยค"
+   ],
+   "explanation_th": "ขยาย The café หลัง comma + ประธาน → which"
+  },
+  {
+   "id": "M06-C1-2",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(2) The café, … opened last month, is run by international students ___ volunteer two hours a week.",
+   "options": [
+    "which",
+    "whose",
+    "whom",
+    "who"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "which ใช้กับสิ่ง",
+    "whose ต้องตามด้วยคำนาม",
+    "whom ใช้ในตำแหน่งกรรม",
+    null
+   ],
+   "explanation_th": "ขยายคน + ประธานของ volunteer → who"
+  },
+  {
+   "id": "M06-C1-3",
+   "skill": "g.gerund-inf",
+   "difficulty": 2,
+   "stem": "(3) Visitors choose a table for the language they want to practice and simply start ___.",
+   "options": [
+    "talked",
+    "talking",
+    "talks",
+    "to talking"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "talked ผิดรูป",
+    null,
+    "talks ผิดรูป",
+    "to talking ผิดรูป"
+   ],
+   "explanation_th": "start + V-ing → start talking"
+  },
+  {
+   "id": "M06-C1-4",
+   "skill": "g.relative",
+   "difficulty": 1,
+   "stem": "(4) said the organizer, ___ came to Thailand from Germany three years ago.",
+   "options": [
+    "who",
+    "which",
+    "that",
+    "whose"
+   ],
+   "answer": 0,
+   "why_wrong": [
+    null,
+    "which ใช้กับสิ่ง",
+    "หลัง comma ใช้ that ไม่ได้",
+    "whose ต้องตามด้วยคำนาม"
+   ],
+   "explanation_th": "ขยายคน (the organizer) หลัง comma → who"
+  },
+  {
+   "id": "M06-C1-5",
+   "skill": "g.conj-contrast",
+   "difficulty": 2,
+   "stem": "(5) So far, the English and Chinese tables have been the most popular, ___ the Japanese table is often empty.",
+   "options": [
+    "so",
+    "because",
+    "while",
+    "unless"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "so ไม่สมเหตุผล",
+    "because ไม่สมเหตุผล",
+    null,
+    "unless ไม่สมเหตุผล"
+   ],
+   "explanation_th": "เปรียบต่าง (โต๊ะหนึ่งนิยม อีกโต๊ะว่าง) → while"
+  },
+  {
+   "id": "M06-C1-6",
+   "skill": "g.preposition",
+   "difficulty": 1,
+   "stem": "(6) The organizers hope to attract more Japanese speakers ___ the end of the term.",
+   "options": [
+    "since",
+    "by",
+    "during",
+    "on"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "since + จุดเริ่ม ไม่ใช่กำหนดเวลา",
+    null,
+    "during ไม่ใช้บอกกำหนดเวลา",
+    "on the end of ผิด"
+   ],
+   "explanation_th": "by the end of = ภายในสิ้น…"
+  },
+  {
+   "id": "M06-C1-7",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(7) \"Before, I was too shy ___ a word,\"",
+   "options": [
+    "saying",
+    "say",
+    "for saying",
+    "to say"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "too shy saying ผิด",
+    "ขาด to",
+    "for saying ผิด",
+    null
+   ],
+   "explanation_th": "too + adj + to V"
+  },
+  {
+   "id": "M06-C1-8",
+   "skill": "g.article",
+   "difficulty": 1,
+   "stem": "(8) \"Now I speak English ___ day.\"",
+   "options": [
+    "each of",
+    "all of",
+    "whole",
+    "every"
+   ],
+   "answer": 3,
+   "why_wrong": [
+    "each of day ผิด",
+    "all of day ผิด",
+    "whole day ต้องมี the",
+    null
+   ],
+   "explanation_th": "every day = ทุกวัน"
+  },
+  {
+   "id": "M06-C1-9",
+   "skill": "g.conditional",
+   "difficulty": 2,
+   "stem": "(9) The university will open two more cafés next year if the project ___ successful.",
+   "options": [
+    "will be",
+    "is",
+    "was",
+    "would be"
+   ],
+   "answer": 1,
+   "why_wrong": [
+    "หลัง if ไม่ใช้ will",
+    null,
+    "was ใช้กับแบบที่ 2",
+    "หลัง if ไม่ใช้ would"
+   ],
+   "explanation_th": "If แบบที่ 1 → หลัง if ใช้ปัจจุบัน is"
+  },
+  {
+   "id": "M06-C1-10",
+   "skill": "g.gerund-inf",
+   "difficulty": 1,
+   "stem": "(10) It has also asked local businesses ___ coffee and snacks.",
+   "options": [
+    "donating",
+    "donate",
+    "to donate",
+    "donated"
+   ],
+   "answer": 2,
+   "why_wrong": [
+    "ask sb donating ผิด",
+    "ขาด to",
+    null,
+    "donated ผิด"
+   ],
+   "explanation_th": "ask + sb + to V"
+  }
+ ]
+}
